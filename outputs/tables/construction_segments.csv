@@ -1,0 +1,353 @@
+YEAR,BYGFASE,SEGMENT,INDHOLD
+1982,Completed,Non-residential,4100552
+1982,Completed,Residential,2129288
+1982,Permits,Non-residential,3679711
+1982,Permits,Residential,1787337
+1982,Started,Non-residential,3590889
+1982,Started,Residential,1750430
+1982,Under construction,Non-residential,4818193
+1982,Under construction,Residential,1726058
+1983,Completed,Non-residential,3823023
+1983,Completed,Residential,2286894
+1983,Permits,Non-residential,4157286
+1983,Permits,Residential,2754694
+1983,Started,Non-residential,3956931
+1983,Started,Residential,2623135
+1983,Under construction,Non-residential,4785612
+1983,Under construction,Residential,2015476
+1984,Completed,Non-residential,4090414
+1984,Completed,Residential,2922970
+1984,Permits,Non-residential,5229229
+1984,Permits,Residential,3172148
+1984,Started,Non-residential,4910234
+1984,Started,Residential,2980125
+1984,Under construction,Non-residential,5482887
+1984,Under construction,Residential,2073193
+1985,Completed,Non-residential,4933339
+1985,Completed,Residential,2483391
+1985,Permits,Non-residential,6312368
+1985,Permits,Residential,3598898
+1985,Started,Non-residential,5927789
+1985,Started,Residential,3250389
+1985,Under construction,Non-residential,6249594
+1985,Under construction,Residential,2904081
+1986,Completed,Non-residential,5747902
+1986,Completed,Residential,3218410
+1986,Permits,Non-residential,7181124
+1986,Permits,Residential,3722500
+1986,Started,Non-residential,6860513
+1986,Started,Residential,3563401
+1986,Under construction,Non-residential,7141459
+1986,Under construction,Residential,3351789
+1987,Completed,Non-residential,6140970
+1987,Completed,Residential,3031841
+1987,Permits,Non-residential,6881948
+1987,Permits,Residential,2769046
+1987,Started,Non-residential,6936199
+1987,Started,Residential,2751221
+1987,Under construction,Non-residential,7841124
+1987,Under construction,Residential,3078121
+1988,Completed,Non-residential,6829197
+1988,Completed,Residential,2693130
+1988,Permits,Non-residential,6270677
+1988,Permits,Residential,2531413
+1988,Started,Non-residential,6134728
+1988,Started,Residential,2390206
+1988,Under construction,Non-residential,6964947
+1988,Under construction,Residential,2784443
+1989,Completed,Non-residential,5831836
+1989,Completed,Residential,2545884
+1989,Permits,Non-residential,5377531
+1989,Permits,Residential,2328637
+1989,Started,Non-residential,5231672
+1989,Started,Residential,2280339
+1989,Under construction,Non-residential,6092792
+1989,Under construction,Residential,2507667
+1990,Completed,Non-residential,5356065
+1990,Completed,Residential,2393059
+1990,Permits,Non-residential,5051218
+1990,Permits,Residential,1645319
+1990,Started,Non-residential,4933807
+1990,Started,Residential,1675372
+1990,Under construction,Non-residential,5446320
+1990,Under construction,Residential,1773785
+1991,Completed,Non-residential,4658651
+1991,Completed,Residential,1772942
+1991,Permits,Non-residential,4438239
+1991,Permits,Residential,1402606
+1991,Started,Non-residential,4362840
+1991,Started,Residential,1403141
+1991,Under construction,Non-residential,4967958
+1991,Under construction,Residential,1389662
+1992,Completed,Non-residential,4368132
+1992,Completed,Residential,1499718
+1992,Permits,Non-residential,4093811
+1992,Permits,Residential,1420827
+1992,Started,Non-residential,4031721
+1992,Started,Residential,1383893
+1992,Under construction,Non-residential,4415792
+1992,Under construction,Residential,1266214
+1993,Completed,Non-residential,3373072
+1993,Completed,Residential,1262697
+1993,Permits,Non-residential,3060480
+1993,Permits,Residential,1181571
+1993,Started,Non-residential,2905042
+1993,Started,Residential,1133667
+1993,Under construction,Non-residential,3822824
+1993,Under construction,Residential,1147385
+1994,Completed,Non-residential,3197067
+1994,Completed,Residential,1346930
+1994,Permits,Non-residential,3820596
+1994,Permits,Residential,1547991
+1994,Started,Non-residential,3622238
+1994,Started,Residential,1443260
+1994,Under construction,Non-residential,4342800
+1994,Under construction,Residential,1341067
+1995,Completed,Non-residential,4073523
+1995,Completed,Residential,1451569
+1995,Permits,Non-residential,4444946
+1995,Permits,Residential,1576643
+1995,Started,Non-residential,4290094
+1995,Started,Residential,1566589
+1995,Under construction,Non-residential,4470635
+1995,Under construction,Residential,1523037
+1996,Completed,Non-residential,4533148
+1996,Completed,Residential,1779159
+1996,Permits,Non-residential,5119790
+1996,Permits,Residential,2363271
+1996,Started,Non-residential,5118787
+1996,Started,Residential,2231537
+1996,Under construction,Non-residential,4972725
+1996,Under construction,Residential,1958131
+1997,Completed,Non-residential,5355516
+1997,Completed,Residential,2340488
+1997,Permits,Non-residential,6032386
+1997,Permits,Residential,2590432
+1997,Started,Non-residential,5859584
+1997,Started,Residential,2504750
+1997,Under construction,Non-residential,5357151
+1997,Under construction,Residential,2080138
+1998,Completed,Non-residential,5795282
+1998,Completed,Residential,2501158
+1998,Permits,Non-residential,6462402
+1998,Permits,Residential,2778914
+1998,Started,Non-residential,6393388
+1998,Started,Residential,2689604
+1998,Under construction,Non-residential,5755510
+1998,Under construction,Residential,2259705
+1999,Completed,Non-residential,6278066
+1999,Completed,Residential,2488837
+1999,Permits,Non-residential,6464681
+1999,Permits,Residential,2424137
+1999,Started,Non-residential,6384354
+1999,Started,Residential,2499850
+1999,Under construction,Non-residential,5861904
+1999,Under construction,Residential,2270731
+2000,Completed,Non-residential,6198682
+2000,Completed,Residential,2232245
+2000,Permits,Non-residential,7039106
+2000,Permits,Residential,2185674
+2000,Started,Non-residential,6999769
+2000,Started,Residential,2123511
+2000,Under construction,Non-residential,6664044
+2000,Under construction,Residential,2162071
+2001,Completed,Non-residential,6902865
+2001,Completed,Residential,2211612
+2001,Permits,Non-residential,7020020
+2001,Permits,Residential,2540974
+2001,Started,Non-residential,7097698
+2001,Started,Residential,2551041
+2001,Under construction,Non-residential,6860610
+2001,Under construction,Residential,2501661
+2002,Completed,Non-residential,5828301
+2002,Completed,Residential,2209615
+2002,Permits,Non-residential,6358546
+2002,Permits,Residential,2811958
+2002,Started,Non-residential,6425503
+2002,Started,Residential,2692663
+2002,Under construction,Non-residential,7458791
+2002,Under construction,Residential,2984737
+2003,Completed,Non-residential,5669104
+2003,Completed,Residential,2778414
+2003,Permits,Non-residential,6157007
+2003,Permits,Residential,3156521
+2003,Started,Non-residential,6110576
+2003,Started,Residential,3112650
+2003,Under construction,Non-residential,7899982
+2003,Under construction,Residential,3318973
+2004,Completed,Non-residential,6962957
+2004,Completed,Residential,3125716
+2004,Permits,Non-residential,6283808
+2004,Permits,Residential,3595344
+2004,Started,Non-residential,6218475
+2004,Started,Residential,3476262
+2004,Under construction,Non-residential,7153474
+2004,Under construction,Residential,3669501
+2005,Completed,Non-residential,5762550
+2005,Completed,Residential,3355195
+2005,Permits,Non-residential,6933887
+2005,Permits,Residential,4630316
+2005,Started,Non-residential,6832661
+2005,Started,Residential,4359871
+2005,Under construction,Non-residential,8224389
+2005,Under construction,Residential,4674195
+2006,Completed,Non-residential,6614924
+2006,Completed,Residential,3841064
+2006,Permits,Non-residential,8301535
+2006,Permits,Residential,5150472
+2006,Started,Non-residential,8221834
+2006,Started,Residential,5104925
+2006,Under construction,Non-residential,9832616
+2006,Under construction,Residential,5938076
+2007,Completed,Non-residential,6117922
+2007,Completed,Residential,4270809
+2007,Permits,Non-residential,7094021
+2007,Permits,Residential,3457659
+2007,Started,Non-residential,7055535
+2007,Started,Residential,3715021
+2007,Under construction,Non-residential,10769519
+2007,Under construction,Residential,5382319
+2008,Completed,Non-residential,7349828
+2008,Completed,Residential,3879038
+2008,Permits,Non-residential,6608827
+2008,Permits,Residential,2548505
+2008,Started,Non-residential,6653469
+2008,Started,Residential,2706484
+2008,Under construction,Non-residential,10073864
+2008,Under construction,Residential,4209969
+2009,Completed,Non-residential,6880356
+2009,Completed,Residential,2906678
+2009,Permits,Non-residential,4246048
+2009,Permits,Residential,1540665
+2009,Started,Non-residential,4431928
+2009,Started,Residential,1710724
+2009,Under construction,Non-residential,7625325
+2009,Under construction,Residential,3014064
+2010,Completed,Non-residential,4849206
+2010,Completed,Residential,1985062
+2010,Permits,Non-residential,4183409
+2010,Permits,Residential,2374236
+2010,Started,Non-residential,4065050
+2010,Started,Residential,2225525
+2010,Under construction,Non-residential,6839647
+2010,Under construction,Residential,3254527
+2011,Completed,Non-residential,3962534
+2011,Completed,Residential,2040194
+2011,Permits,Non-residential,4106009
+2011,Permits,Residential,2343464
+2011,Started,Non-residential,4113414
+2011,Started,Residential,2360115
+2011,Under construction,Non-residential,6990527
+2011,Under construction,Residential,3574448
+2012,Completed,Non-residential,4154967
+2012,Completed,Residential,2269203
+2012,Permits,Non-residential,3976426
+2012,Permits,Residential,1753817
+2012,Started,Non-residential,3854841
+2012,Started,Residential,1923822
+2012,Under construction,Non-residential,6690626
+2012,Under construction,Residential,3229135
+2013,Completed,Non-residential,3971155
+2013,Completed,Residential,2174713
+2013,Permits,Non-residential,4021793
+2013,Permits,Residential,1634932
+2013,Started,Non-residential,4135457
+2013,Started,Residential,1620133
+2013,Under construction,Non-residential,6855666
+2013,Under construction,Residential,2674626
+2014,Completed,Non-residential,4517374
+2014,Completed,Residential,2078041
+2014,Permits,Non-residential,4092674
+2014,Permits,Residential,2108634
+2014,Started,Non-residential,4006835
+2014,Started,Residential,2071313
+2014,Under construction,Non-residential,6345260
+2014,Under construction,Residential,2667898
+2015,Completed,Non-residential,4119838
+2015,Completed,Residential,2053045
+2015,Permits,Non-residential,4109912
+2015,Permits,Residential,2852461
+2015,Started,Non-residential,3870932
+2015,Started,Residential,2470703
+2015,Under construction,Non-residential,6095322
+2015,Under construction,Residential,3086121
+2016,Completed,Non-residential,3728979
+2016,Completed,Residential,2531880
+2016,Permits,Non-residential,4449057
+2016,Permits,Residential,3523875
+2016,Started,Non-residential,4149136
+2016,Started,Residential,3248878
+2016,Under construction,Non-residential,6514816
+2016,Under construction,Residential,3802586
+2017,Completed,Non-residential,4387695
+2017,Completed,Residential,2980384
+2017,Permits,Non-residential,4105981
+2017,Permits,Residential,3532042
+2017,Started,Non-residential,4062217
+2017,Started,Residential,3355062
+2017,Under construction,Non-residential,6191222
+2017,Under construction,Residential,4177285
+2018,Completed,Non-residential,4293959
+2018,Completed,Residential,3242320
+2018,Permits,Non-residential,4619243
+2018,Permits,Residential,4371347
+2018,Started,Non-residential,4373239
+2018,Started,Residential,3973253
+2018,Under construction,Non-residential,6270665
+2018,Under construction,Residential,4908218
+2019,Completed,Non-residential,4673634
+2019,Completed,Residential,3753501
+2019,Permits,Non-residential,4506586
+2019,Permits,Residential,4044531
+2019,Started,Non-residential,4560576
+2019,Started,Residential,4281111
+2019,Under construction,Non-residential,6157340
+2019,Under construction,Residential,5436162
+2020,Completed,Non-residential,3739226
+2020,Completed,Residential,4048715
+2020,Permits,Non-residential,4945273
+2020,Permits,Residential,4103995
+2020,Started,Non-residential,4750701
+2020,Started,Residential,4002444
+2020,Under construction,Non-residential,7171128
+2020,Under construction,Residential,5390035
+2021,Completed,Non-residential,4186229
+2021,Completed,Residential,4001322
+2021,Permits,Non-residential,5555833
+2021,Permits,Residential,4526250
+2021,Started,Non-residential,5269864
+2021,Started,Residential,4708466
+2021,Under construction,Non-residential,8252912
+2021,Under construction,Residential,6097166
+2022,Completed,Non-residential,4566963
+2022,Completed,Residential,4453463
+2022,Permits,Non-residential,4762443
+2022,Permits,Residential,3826936
+2022,Started,Non-residential,4760204
+2022,Started,Residential,4056443
+2022,Under construction,Non-residential,8446596
+2022,Under construction,Residential,5699685
+2023,Completed,Non-residential,5503197
+2023,Completed,Residential,3982948
+2023,Permits,Non-residential,4591117
+2023,Permits,Residential,2386975
+2023,Started,Non-residential,4485923
+2023,Started,Residential,2518831
+2023,Under construction,Non-residential,7429537
+2023,Under construction,Residential,4235620
+2024,Completed,Non-residential,4245959
+2024,Completed,Residential,2778561
+2024,Permits,Non-residential,4138024
+2024,Permits,Residential,2356162
+2024,Started,Non-residential,3631635
+2024,Started,Residential,2294806
+2024,Under construction,Non-residential,6814426
+2024,Under construction,Residential,3752099
+2025,Completed,Non-residential,4038970
+2025,Completed,Residential,2657357
+2025,Permits,Non-residential,3613554
+2025,Permits,Residential,2310554
+2025,Started,Non-residential,2976967
+2025,Started,Residential,2106649
+2025,Under construction,Non-residential,5751922
+2025,Under construction,Residential,3201010

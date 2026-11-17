@@ -1,0 +1,901 @@
+
+...
+1025: oc:FirstCustomerMember
+1026: us-gaap:CustomerConcentrationRiskMember
+1027: us-gaap:SalesRevenueNetMember
+1028: oc:RoofingInsulationAndDoorsMember
+1029: 2025-01-01
+1030: 2025-12-31
+
+...
+1032: oc:FirstCustomerMember
+1033: us-gaap:CustomerConcentrationRiskMember
+1034: us-gaap:SalesRevenueNetMember
+1035: oc:RoofingInsulationAndDoorsMember
+1036: 2024-01-01
+1037: 2024-12-31
+
+...
+1039: oc:FirstCustomerMember
+1040: us-gaap:CustomerConcentrationRiskMember
+1041: us-gaap:SalesRevenueNetMember
+1042: oc:RoofingInsulationAndDoorsMember
+1043: 2023-01-01
+1044: 2023-12-31
+
+...
+1046: oc:SecondCustomerMember
+1047: us-gaap:CustomerConcentrationRiskMember
+1048: us-gaap:SalesRevenueNetMember
+1049: oc:RoofingAndInsulationMember
+1050: 2025-01-01
+1051: 2025-12-31
+
+...
+1053: oc:SecondCustomerMember
+1054: us-gaap:CustomerConcentrationRiskMember
+1055: us-gaap:SalesRevenueNetMember
+1056: oc:RoofingAndInsulationMember
+1057: 2024-01-01
+1058: 2024-12-31
+
+...
+1060: oc:SecondCustomerMember
+1061: us-gaap:CustomerConcentrationRiskMember
+1062: us-gaap:SalesRevenueNetMember
+1063: oc:RoofingAndInsulationMember
+1064: 2023-01-01
+1065: 2023-12-31
+
+...
+3510: Environmental Control
+3511: Owens Corning has established policies and procedures that are intended to ensure that its operations are conducted in compliance with all relevant laws and regulations and that enable the Company to meet its high standards for corporate sustainability and environmental stewardship. Our manufacturing facilities are subject to numerous foreign, federal, state and local laws and regulations relating to the presence of hazardous materials, pollution and protection of the environment, including emissions to air, reductions of greenhouse gases, discharges to water, management of hazardous materials, handling and disposal of solid wastes, use of chemicals in our manufacturing processes and remediation of contaminated sites. All Company manufacturing facilities are either ISO 14001 certified or deploy environmental management systems based on ISO 14001 principles. The Company’s 2030 Sustainability Goals include targets related to significant global reductions in energy use, water consumption, waste to landfill, and emissions of greenhouse gases, fine particulate matter, and volatile organic air emissions, and protection of biodiversity. The Company is dedicated to continuous improvement in its environmental, health and safety performance and to achieving its 2030 Sustainability Goals.
+3512: The Company has not experienced a material adverse effect upon its capital expenditures or competitive position as a result of environmental control legislation and regulations. Operating costs, including labor costs, associated with environmental compliance were approximately $78 million in 2025. The Company continues to invest in equipment and process modifications to remain in compliance with applicable environmental laws and regulations worldwide.
+3513: Regulatory activities of particular importance to our operations include those addressing air pollution, water pollution, waste disposal and chemical control. It is possible that new laws and regulations will specifically address climate change, volatile organic compounds, ozone forming emissions and fine particulate matter. New environmental and chemical regulations could impact our ability to expand production or construct new facilities in geographic regions in which we operate. However, based on information known to the Company, including the nature of our manufacturing operations and associated air emissions, at this time we do not expect any of these new laws, regulations or activities to have a material adverse effect on our results of current operations, financial condition or long-term liquidity.
+3514: Owens Corning is involved in remedial response activities and is responsible for environmental remediation at a number of sites, including certain of its currently owned or formerly owned plants. These responsibilities arise under a number of laws, including, but not limited to, the Federal Resource Conservation and Recovery Act, and similar state or local laws pertaining to the management and remediation of hazardous materials and petroleum. The Company has also been named a potentially responsible party under the United States Federal Superfund law, similar state or local laws pertaining to the management and remediation of hazardous materials and petroleum. The Company became involved in these sites as a result of government action or in connection with business acquisitions. At the end of 2025, the Company was involved with a total of 25 sites worldwide, including 10 Superfund and state or country equivalent sites and 15 owned or formerly owned sites. None of the liabilities for these sites are individually significant to the Company.
+3515: Remediation activities generally involve a potential range of activities and costs related to soil, groundwater and sediment contamination. This can include pre-cleanup activities such as fact finding and investigation, risk assessment, feasibility studies, remedial action design and implementation (where actions may range from monitoring to removal of contaminants, to installation of longer-term remediation systems). A number of factors affect the cost of environmental remediation, including the number of parties involved in a particular site, the determination of the extent of contamination, the length of time the remediation may require, the complexity of environmental regulations, variability in clean-up standards, the need for legal action, and changes in remediation technology. Taking these factors into account, Owens Corning estimates the costs of remediation to be paid over a period of years. The Company accrues an amount on an undiscounted basis, when a liability is probable and reasonably estimable. Actual costs may differ from these estimates for the reasons mentioned above.
+
+...
+3522: ITEM 1.
+3523: BUSINESS (continued)
+3524: collection, storage, use, transmission and protection of personal information and other consumer, customer, vendor or employee data. Further, an increasing number of laws and regulations focused on product and chemical hazards, including regulations concerning the impact of product manufacturing and use on climate change, and resulting preferential product selection could also impact our ability to manufacture and sell certain products or require significant research and development investment and capital expenditures to meet regulatory requirements. With respect to the laws and regulations noted above, as well as other applicable laws and regulations, the Company’s compliance programs, may under certain circumstances, involve material investments in the form of additional processes, training, personnel, information technology and
+3525: capital. For a discussion of the risks associated with certain applicable laws and regulations, see Item 1A, “Risk Factors.”
+3526: Sustainability
+3527: As a leader in our industry, our goal is to be at the forefront of corporate sustainability efforts. It is our ambition to be a company whose positive impact of our people and products, is greater than the negative impact of manufacturing our products. We work to continually increase the good our people and products do while we concurrently strive to reduce the negative environmental impact of our operations.
+
+...
+3555: MACROECONOMIC, MARKET AND OPERATIONAL RISKS
+3556: Low levels of residential or non-residential construction activity have a material adverse impact on our business and results of operations.
+3557: A large portion of our products are used in the markets for residential and non-residential construction and repair and remodeling. Demand for certain of our products is affected in part by the level of new residential construction in the United States and elsewhere, although typically not until a number of months after the change in the level of construction. Lower demand in the regions and markets where our products are sold results in lower revenues and lower profitability. Historically, construction activity has been cyclical and is influenced by prevailing economic conditions, including the level of interest rates and availability of financing, inflation, employment levels, consumer spending habits, consumer confidence and other macroeconomic factors outside our control. Interest rates increased substantially in the past few years, remained high with slight decreases in 2025, and are currently expected to decrease further but stay relatively high in 2026. The combination of high interest rates and high levels of inflation reduces the affordability of mortgages and other financing options, and increases the cost of home improvement projects. These trends have likely resulted in reduced levels of repair and remodel as well as new construction activity and demand for our products. Additionally, market reactions to the U.S. government's policies and stances have created economic uncertainty, leading to fluctuations in inflation and interest rates. Due to this uncertainty, we cannot predict if or when interest rates or inflation levels will stabilize or the impact that this uncertainty may have on repair and remodel activity, new construction activity, demand for our products, our business generally, or our financial condition.
+3558: Residential and non-residential construction is also affected by the cost and availability of skilled labor, which could impact both the cost and pace of construction activity, as well as the construction methods used, all of which could adversely affect demand for our products.
+3559: In addition, a portion of our annual product demand is attributable to the repair of damage caused by severe storms. The frequency and magnitude of severe storms can have a significant impact on the markets for residential and non-residential construction, repair and improvement projects. In periods with below average levels of severe storms, demand for such products is reduced.
+3560: Lastly, some of our products, particularly in our Insulation business, are used in industrial applications, such as piping and storage tanks. Lower levels of industrial production and other macroeconomic factors affecting industrial construction activity could lessen demand for those products and lead to lower revenues or profitability.
+3561: We may be exposed to cost increases or reduced availability of raw materials or transportation, which could reduce our margins and have a material adverse impact on our business, financial condition and results of operations.
+3562: Our business relies heavily on certain commodities and raw materials used in our manufacturing processes. Additionally, we spend a significant amount on inputs that are influenced by energy prices, such as asphalt, chemicals, resins and transportation. Price increases for these inputs could raise costs and reduce our margins if we are not able to offset them by increasing the prices of our products, improving productivity or hedging, where appropriate.
+3563: Availability of certain of the raw materials we use has occasionally been limited, and our sourcing of some of these raw materials from a limited number of suppliers, and in some cases a sole supplier, increases the risk of unavailability. For example, if one of the raw materials important to our business is sourced from a sole supplier, our production could be interrupted regardless of whether we have a long-term supply contract for the material. Global economic conditions may also result in global or regional supply chain issues that adversely impact our access to raw materials and supplies. Despite our contractual supply agreements with many of our suppliers, and despite any programs we may undertake to mitigate supply risks, it is possible that we could experience a lack of certain raw materials that limits our ability to manufacture our products, thereby materially and adversely impacting our business, financial condition and results of operations.
+
+...
+3571: To mitigate short-term variation in our operating results due to commodity price fluctuations in certain geographic markets, we may hedge a portion of our near-term exposure to the cost of energy. The results of our hedging practices could be positive, neutral or negative in any future period depending on price changes of the hedged exposures. Our hedging activities are not designed to mitigate long-term commodity price fluctuations and, therefore, would not protect us from long-term commodity price increases. In addition, in the future, our hedging positions may not correlate to our actual energy costs, which would cause acceleration in the recognition of unrealized gains and losses on our hedging positions in our operating results.
+3572: Our sales may fall rapidly in response to declines in demand because of customer concentration in certain segments and because we do not operate under long-term volume agreements to supply our customers.
+3573: Many of our customer volume commitments are short-term; therefore, we do not have a significant manufacturing backlog. As a result, we do not benefit from the visibility provided by long-term volume contracts against downturns in customer demand and sales. Further, we are not able to immediately adjust our costs in response to declines in sales. Our ability to sell some of our products is dependent on a limited number of customers, who account for a significant portion of such sales. In 2025, we had two customers that represented 16% and 12% of our annual net sales, respectively. The commercial activities of these key customers, including the loss of a key customer, a consolidation of key customers or a significant reduction in sales to those customers could significantly reduce our revenues from these products. In addition, if key customers experience financial pressure or consolidate, they could attempt to demand more favorable contractual terms, which would place additional pressure on our margins and cash flows. Lower demand for our products, loss of key customers and material changes to contractual terms could materially and adversely impact our business, financial condition and results of operations. Furthermore, some of our sales are concentrated in certain geographic areas, and market growth that is skewed to other geographic areas may negatively impact our rate of growth or market share.
+3574: Government trade actions may create significant uncertainty in the global market and could have a material adverse impact on our business, financial condition and results of operations.
+3575: The Company’s business is global in scope, and government trade actions may materially and adversely impact our business, financial condition and results of operations. In 2025, the U.S. government took, and may continue to take, trade actions that impact or could impact our operations, including, but not limited to, imposing tariffs on certain goods and raw materials imported into the U.S. and baseline tariffs on products from all countries and additional individualized reciprocal tariffs on the countries with which the United States has the largest trade deficits, including China. In addition, several governments, including the European Union, China and India, have imposed tariffs, including reciprocal tariffs, on certain goods imported from the United States. The U.S. government has announced various modifications to its tariffs, and further changes may be made in the future, including in response to pending litigation. These trade actions and evolving U.S. trade policies with countries such as Canada, Mexico and China could disrupt our supply chains, increase our costs for raw materials, increase costs the Company may incur on finished goods shipped to customers, and negatively impact our business margins and financial results. The Company has implemented short- and long-term mitigation efforts to partially offset the impact of the enacted tariffs on its operating profits with supply chain adjustments and productivity and cost savings actions. To the extent additional tariffs or other trade restrictions are enacted and the Company is unable to offset the tariffs or the tariffs negatively impact demand, the Company’s revenue and profitability could be adversely impacted. Declines in our business as a result of tariffs, along with other factors, may also result in an impairment of our tangible and intangible assets, which could result in material non-cash charges. Although we evaluate the impact of current and anticipated tariffs and trade actions on our supply chain, costs, sales and profitability, and implement strategies that are designed to mitigate the impact of such trade actions, we can provide no assurance that any strategies we implement will be successful. Furthermore, tariffs, other trade restrictions, or ongoing developments or litigation regarding government trade actions, may lead to continuing uncertainty and volatility in
+3576: 8
+3577: Table of Contents
+3578: ITEM 1A.
+
+...
+3684: Our manufacturing facilities are subject to numerous foreign, federal, state and local laws and regulations relating to the presence of hazardous materials, pollution and the protection of the environment, including those governing emissions to air, discharges to water, use, storage and transport of hazardous materials, storage, treatment and disposal of waste, remediation of contaminated sites and protection of worker health and safety. We are also subject to laws, rules and regulations relating to certain raw materials used in our business or in our products.
+3685: Liability under these laws involves inherent uncertainties. Environmental liability estimates may be affected by changing determinations of what constitutes an environmental exposure or an acceptable level of cleanup. For example, remediation activities generally involve a potential range of activities and costs related to soil and groundwater contamination. This can include pre-cleanup activities, such as fact finding and investigation, risk assessment, feasibility studies, remedial action design and implementation (where actions may range from monitoring to removal of contaminants, to installation of longer-term remediation systems). Please see “Item 1 - Business - Environmental Control” for information on costs related to environmental remediation. To the extent that the required remediation procedures or timing of those procedures change, additional contamination is identified, or the financial condition of other potentially responsible parties is adversely affected, the estimate of our environmental liabilities may change. Change in required remediation procedures or timing of those procedures at existing legacy sites, or discovery of contamination at additional sites, could result in increases to our environmental obligations. Violations of environmental, health and safety laws are subject to civil, and, in some cases, criminal sanctions.
+3686: As a result of these uncertainties, we may incur unexpected interruptions to operations, fines, penalties or other reductions in income which could adversely impact our business, financial condition and results of operations. It is possible that new laws and regulations will specifically address climate change, toxic air emissions, ozone forming emissions and fine particulate matter. New environmental and chemical regulations could impact our ability to expand production or construct new facilities in every geographic region in which we operate. Present and future environmental laws and regulations applicable to our operations, and changes in their interpretation, may require substantial capital expenditures or may require or cause us to modify or curtail our operations, which may have a material adverse impact on our business, financial condition and results of
+3687: 13
+3688: Table of Contents
+3689: ITEM 1A.
+3690: RISK FACTORS (continued)
+3691: operations.
+3692: Laws and regulations focused on product and chemical hazards, including regulations concerning the impact of product manufacturing and use on climate change, and resulting preferential product selection could also impact our ability to manufacture and sell certain products or require significant research and development investment and capital expenditures to meet regulatory requirements.
+3693: Our intellectual property rights may not provide meaningful commercial protection for our products or brands and third parties may assert that we violate their intellectual property rights, which could have a material adverse impact on our business, financial condition and results of operations.
+3694: We rely on our intellectual property, including numerous patents, trademarks, trade secrets, confidential information, as well as our licensed intellectual property, to differentiate our products and brands in the marketplace. We monitor and protect against activities that might infringe, dilute, or otherwise harm our intellectual property and rely on the laws of the United States and other countries to protect our rights. However, in some instances, we may be unaware of unauthorized use of our intellectual property. To the extent we cannot protect our innovations or are unable to enforce our intellectual property rights, unauthorized use and misuse of our intellectual property or innovations could harm our competitive position and have a material adverse impact on our business, financial condition and results of operations. In addition, the laws of some foreign jurisdictions provide less protection for our proprietary rights than the laws of the United States and we therefore may not be able to effectively enforce our intellectual property rights in these jurisdictions. If we are unable to maintain certain exclusive licenses, our brand recognition and sales could be adversely impacted. Current employees, contractors and suppliers have, and former employees, contractors and suppliers may have, access to trade secrets and confidential information regarding our operations that could be disclosed improperly and in breach of contract to our competitors or otherwise used to harm us.
+3695: Third parties may also claim that we are infringing upon their intellectual property rights. If we are unable to successfully defend or license such alleged infringing intellectual property or if we are required to substitute similar technology from another source, our operations could be adversely affected. Even if we believe that such intellectual property claims are without merit, defending such claims can be costly, time consuming and require significant resources. Claims of intellectual property infringement also may require us to redesign affected products, pay costly damage awards, or face injunctions prohibiting us from manufacturing, importing, marketing or selling certain of our products. Even if we have agreements to indemnify us, indemnifying parties may be unable or unwilling to do so.
+3696: Laws or regulations aimed at addressing climate change, including, but not limited to, local building codes, Environmental Protection Agency regulations on greenhouse gas ("GHG") emissions, laws or regulations impacting energy supply, and associated disclosure requirements, may materially impact demand for our products or our cost of doing business.
+3697: Foreign, federal, state and local regulatory and legislative bodies have enacted or proposed various legislative and regulatory measures relating to increased transparency and standardization of reporting matters that may include climate change, regulating GHG emissions, water usage, deforestation, recycling of plastic materials, and energy policies, including waste tax, and other governmental charges and mandates. As a result, we could be subject to overlapping, yet distinct, climate-related disclosure requirements in multiple jurisdictions. Compliance with foreign, federal, state and local legislation and regulations concerning climate-related disclosures, including compliance with the European Commission’s Corporate Sustainability Reporting Directive, may result in additional costs and capital expenditures, and the failure to comply with such legislation and regulations could result in fines to us and could affect our business, financial condition, results of operations and cash flows. In addition, judicial decisions or executive actions limiting the authority of regulatory agencies, or decisions impacting current regulations and policies implemented by such agencies, could create uncertainty regarding the regulatory landscape and impact the Company’s ability to plan for future investments. We could also face increased costs related to defending and resolving legal claims and other litigation related to climate change and the alleged impact of our operations on climate change. In addition, energy prices could increase as a result of climate change legislation or other environmental mandates, which could have an adverse effect on our results of operations.
+3698: In addition, from time to time, we establish targets, strategies and expectations related to climate change and other environmental matters. Our ability to achieve any such targets, strategies or expectations is subject to risks and uncertainties, many of which are outside of our control. These risks and uncertainties include, but are not limited to, our ability to execute our strategies and achieve our goals within the currently projected costs and expected timeframes, availability, use and success of on and off-site renewable energy, evolving regulatory and other standards, processes, and assumptions, the pace of scientific and technological developments, increased costs and availability of requisite financing, market trends that may alter business opportunities, the conduct of third-party manufacturers and suppliers, constraints or disruptions to our supply chain, and changes in carbon markets. There are no assurances that we will be able to successfully execute our strategies and achieve our targets. Failures or delays (whether actual or perceived) to achieve our targets or strategies related to climate change and other
+3699: 14
+3700: Table of Contents
+
+...
+3709: At December 31, 2025, we had total debt of approximately $5.2 billion. Our debt level and degree of leverage could have important consequences, including the following:
+3710: •
+3711: our ability to obtain additional debt or equity financing for working capital, capital expenditures, debt service requirements, acquisitions and general corporate or other purposes may be limited;
+3712: •
+3713: a substantial portion of our cash flow could be required for the payment of principal and interest on our indebtedness, and may not be available for other business purposes;
+3714: •
+
+...
+3728: Our credit ratings are important to our cost of capital. The major debt rating agencies routinely evaluate our debt based on a number of factors, which include financial strength and business risk as well as transparency with rating agencies and timeliness of financial reporting. A downgrade in our debt rating could result in increased interest on our existing variable interest rate debt, increased interest and other expenses for future borrowings, and reduced ability for our suppliers to utilize supply chain financing programs. Downgrades in our debt rating could also restrict our access to capital markets and affect the value and marketability of our outstanding senior notes.
+3729: Our operations require substantial capital, leading to high levels of fixed costs that will be incurred regardless of our level of business activity.
+3730: Our businesses are capital intensive, and regularly require capital expenditures to expand operations, maintain equipment and technology systems, increase operating efficiency and comply with applicable laws and regulations, leading to high fixed costs, including depreciation expense. Increased regulatory requirements for our operations could lead to additional or higher fixed costs in the future. We are limited in our ability to reduce fixed costs quickly in response to reduced demand for our products and these fixed costs may not be fully absorbed, resulting in higher average unit costs and lower gross margins if we are not able to offset this higher unit cost with price increases. Alternatively, we may be limited in our ability to quickly respond to unanticipated increased demand for our products, which could result in an inability to satisfy demand for our products and loss of market share.
+3731: Our ongoing efforts to increase productivity and reduce costs may not result in anticipated savings in operating costs.
+3732: Our cost reduction and productivity efforts, including those related to our existing operations, production capacity expansions, new manufacturing platforms, technology systems, or other capital expenditures, may not produce anticipated results. Our ability to achieve cost savings and other benefits within expected time frames is subject to many estimates and assumptions. These estimates and assumptions are subject to significant economic, competitive, legal and other uncertainties, some of which are beyond our control. If these estimates and assumptions are incorrect, if we experience delays, or if other unforeseen events occur, our business, financial condition and results of operations could be adversely impacted.
+3733: Our results of operations in a given period may be impacted by price volatility in certain renewable-generated energy markets.
+3734: In connection with our sustainability goals to reduce GHG emissions, we entered into contracts to purchase renewable-generated electricity from third parties. Under these contracts, we do not take physical delivery of renewable-generated electricity. The generated electricity is instead sold by our counterparties to local grid operators at the prevailing market price and we obtain the associated non-tax renewable energy credits. The prevailing market pricing for renewable-generated electricity can be affected by factors beyond our control and is subject to significant period over period volatility. For example, renewable-generated energy output fluctuates due to climactic and other factors beyond our control and can be constrained by available transmission capacity, thereby significantly impacting pricing. Due to this potential volatility, it is possible that these contracts, or similar contracts we execute in the future, could have an impact on our results of operations in a given reporting period.
+3735: If we were required to write down all or part of our goodwill or other indefinite-lived intangible assets, our results of operations or financial condition could be materially adversely affected in a particular period.
+
+...
+3757: We have certain defined benefit pension plans and other post-employment benefit (“OPEB”) plans. Our future funding requirements for defined benefit pension and OPEB plans depend upon a number of factors and assumptions, including our actual experience against assumptions with regard to interest rates used to determine funding levels, return on plan assets, benefit levels, participant experience (e.g., mortality and retirement rates), health care cost trends, and applicable regulatory changes. To the extent actual results are less favorable than our assumptions, there could be a material adverse impact on our financial condition and results of operations.
+3758: Additional risks exist due to the nature and magnitude of our investments, including the implementation of or changes to the investment policy, insufficient market capacity to absorb a particular investment strategy or high-volume transactions, and the inability to quickly rebalance illiquid and long-term investments.
+3759: If our cash flows and capital resources are insufficient to fund our pension or OPEB obligations, we could be forced to reduce or delay investments and capital expenditures, seek additional capital, or restructure or refinance our indebtedness.
+3760: RISKS RELATED TO OWNERSHIP OF OUR COMMON STOCK
+3761: The market price of our common stock is subject to volatility.
+3762: The market price of our common stock could be subject to wide fluctuations in response to numerous factors, many of which are beyond our control. These factors include actual or anticipated variations in our operational results and cash flow, our earnings relative to our competition, changes in financial estimates by securities analysts, trading volume, sales by holders of large amounts of our common stock, short selling, market conditions within the industries in which we operate, seasonality of our business operations, the general state of the securities markets and the market for stocks of companies in our industry, governmental legislation or regulation and currency and exchange rate fluctuations, as well as general economic and market conditions, such as recessions.
+
+...
+3935: MARKET FOR OWENS CORNING’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES (continued)
+3936: Performance Graph
+3937: The annual changes for the five-year period shown in the graph below are based on the assumption that $100 had been invested in Owens Corning (OC) stock, the Standard & Poor’s 500 Stock Index (“S&P 500”), and two peer group indices on December 31, 2020, and that all quarterly dividends were reinvested. The total cumulative dollar returns shown on the graph represent the value that such investments would have had on December 31, 2025. For December 31,2025, we chose to use a new self-selected peer group consisting of the companies noted below to include in the performance graph as we believe this peer group more appropriately aligns with our specific industry, markets and global exposure. The criteria used in determining this new peer group included the size of the companies (measured in terms of annual revenue and market capitalization), industries and geographies in which the companies operate, stock price correlation and volatility relative to Owens Corning, and increased representation of peer group companies used by shareholder advisory firms.
+3938: Performance Graph
+3939: 2020
+3940: 2021
+
+...
+4012: Owens Corning is a building products leader committed to building a sustainable future through material innovation. As described below, the Company has three reportable segments: Roofing, Insulation and Doors. Through these lines of business, the Company manufactures and sells products that provide durable, sustainable and energy-efficient solutions. We are a market leader in many of our major product categories.
+4013: EXECUTIVE OVERVIEW
+4014: Net (loss) earnings from continuing operations attributable to Owens Corning were a loss of $188 million in 2025, compared to earnings of $947 million in 2024. The Company generated $2,268 million in adjusted earnings before interest, taxes, depreciation and amortization (“Adjusted EBITDA”) from continuing operations in 2025, compared to $2,468 million in 2024. See the Adjusted Earnings Before Interest, Taxes, Depreciation and Amortization From Continuing Operations section of the MD&A for further information regarding Adjusted EBITDA from continuing operations, including the reconciliation to Net (loss) earnings from continuing operations attributable to Owens Corning. Segment earnings before interest, taxes, depreciation and amortization (“EBITDA”) performance compared to 2024 decreased $121 million in our Roofing segment, decreased $97 million in our Insulation segment and remained flat in our Doors segment. Within our Corporate, Other and Eliminations category, General corporate expenses and other decreased by $18 million.
+4015: Goodwill Impairment
+4016: In 2025, as a result of interim goodwill impairment testing, we recorded $1,135 million in pre-tax non-cash impairment charges, equal to the excess of the Doors reporting unit's carrying value over its fair value. The remaining balance of goodwill for the Doors reporting unit of $380 million as of December 31, 2025 continues to be at risk for future impairment.
+4017: 2025 Share Repurchase Program
+
+...
+4029: Effective January 1, 2025, due to a strategic shift in how we manage our business as a result of the GR Agreement and the classification of the GR business as a discontinued operation, we changed the composition of our reportable segments. As a result, all prior period information was recast to reflect this change. The Company now has three reportable segments: Roofing, Insulation and Doors.
+4030: Tariff and Trade Uncertainties
+4031: Beginning in the first quarter of 2025, the U.S. government announced additional tariffs on goods imported into the U.S. from numerous countries and multiple nations have responded with reciprocal tariffs and other actions. The Company continues to monitor the economic effects of such announcements. The Company has implemented short- and long-term mitigation efforts. Based on the current tariff policies, the Company expects to partially offset the operating profit impact of the enacted tariffs with supply chain adjustments and productivity and cost savings actions. To the extent additional tariffs or other trade restrictions are enacted and the Company is unable to offset the tariffs or the tariffs negatively impact demand, the Company’s revenue and profitability could be adversely impacted.
+4032: 25
+4033: Table of Contents
+4034: ITEM 7.
+
+...
+4102: The Consolidated Results discussion below provides a summary of our results and the trends affecting our business, and should be read in conjunction with the more detailed Segment Results discussion that follows.
+4103: NET SALES
+4104: Net sales increased $252 million in 2025 compared to 2024. The increase was primarily driven by the a full year of revenues from our Doors segment and higher selling prices for our Roofing and Insulation segments, which were partially offset by lower sales volumes across all three segments.
+4105: GROSS MARGIN
+4106: Gross margin decreased $203 million in 2025 compared to 2024. The decrease was primarily driven by lower sales volumes across all three segments, which were partially offset by a full year of margins from our Doors segment and higher selling prices for our Roofing and Insulation segments.
+4107: MARKETING AND ADMINISTRATIVE EXPENSES
+
+...
+4161: (86)
+4162: Adjusted Earnings Before Interest, Taxes, Depreciation and Amortization From Continuing Operations
+4163: Adjusted EBITDA from continuing operations is a non-GAAP measure that excludes certain items that management does not allocate to our segment results because it believes they are not representative of the Company’s ongoing operations. Adjusted EBITDA from continuing operations is used internally by the Company for various purposes, including reporting results of operations to the Board of Directors of the Company, analysis of performance and related employee compensation measures. Although management believes that these adjustments result in a measure that provides a useful representation of our operational performance, the adjusted measure should not be considered in isolation or as a substitute for Net earnings from continuing operations attributable to Owens Corning as prepared in accordance with accounting principles generally accepted in the United States.
+4164: 27
+4165: Table of Contents
+4166: ITEM 7.
+4167: MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+4168: Adjusting income (expense) items to EBITDA are shown in the table below:
+4169: Twelve Months Ended December 31,
+4170: (In millions)
+4171: 2025
+
+...
+4211: $
+4212: (404)
+4213: The reconciliation from Net (loss) earnings from continuing operations attributable to Owens Corning to EBITDA and Adjusted EBITDA is shown in the table below:
+4214: Twelve Months Ended December 31,
+4215: (In millions)
+4216: 2025
+
+...
+4248: 694
+4249: 581
+4250: ADJUSTED EBITDA FROM CONTINUING OPERATIONS
+4251: $
+4252: 2,268
+4253: $
+4254: 2,468
+4255: Segment Results
+4256: Effective January 1, 2025, we changed our segment measure of profitability for our reportable segments from Earnings before interest and taxes ("EBIT") to EBITDA, as the measure used for purposes of making decisions about allocating resources to the segments and assessing performance. Prior period amounts have been recast to reflect the new segment measure for profitability.
+4257: EBITDA by segment consists of net sales, less related costs and expenses plus depreciation and amortization. EBITDA is presented on a basis that is used internally for evaluating segment performance. Certain items, such as general corporate expenses or income and certain other expense or income items, are excluded from the internal evaluation of segment performance. Accordingly, these items are not reflected in EBITDA for our reportable segments and are included in the Corporate, Other and Eliminations category, which is presented following the discussion of our reportable segments. Segment EBITDA is the principal measure used by the chief operating decision maker ("CODM") to assess segment performance and make decisions on the allocation of resources.
+4258: 28
+4259: Table of Contents
+4260: ITEM 7.
+4261: MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+4262: Roofing
+4263: The table below provides a summary of net sales and EBITDA for the Roofing segment:
+4264: Twelve Months Ended December 31,
+4265: (In millions)
+4266: 2025
+
+...
+4276: —
+4277: %
+4278: EBITDA
+4279: $
+4280: 1,411
+4281: $
+4282: 1,532
+4283: EBITDA as a % of net sales
+4284: 32
+4285: %
+4286: 33
+
+...
+4288: NET SALES
+4289: In our Roofing segment, net sales decreased $193 million in 2025 compared to 2024. Lower volumes of approximately 7% were partially offset by higher selling prices of $129 million.
+4290: EBITDA
+4291: In our Roofing segment, EBITDA decreased $121 million in 2025 compared to 2024. Lower volumes, input cost inflation of $52 million, and higher manufacturing costs of $20 million were partially offset by higher selling prices of $129 million. The remaining variance was driven by unfavorable mix, higher selling, general, and administrative expenses, and higher delivery costs of $7 million.
+4292: OUTLOOK
+4293: In our Roofing segment, the Company expects non-discretionary roof replacement activity to ease in the near-term. Uncertainties that may impact Roofing demand include demand from storms and other weather-related events (including the frequency thereof), competitive pricing pressure and the cost and availability of raw materials, particularly asphalt. The Company expects global non-residential construction markets to be relatively stable in the near-term. The Company will continue to focus on managing costs, capital expenditures and working capital to best service the market demand.
+4294: Insulation
+4295: The table below provides a summary of net sales and EBITDA for the Insulation segment:
+4296: Twelve Months Ended December 31,
+4297: (In millions)
+4298: 2025
+
+...
+4308: 1
+4309: %
+4310: EBITDA
+4311: $
+4312: 848
+4313: $
+4314: 945
+4315: EBITDA as a % of net sales
+4316: 23
+4317: %
+4318: 24
+
+...
+4320: NET SALES
+4321: In our Insulation segment, 2025 net sales decreased $226 million compared to 2024. The decrease was primarily driven by lower sales volumes of approximately 5%, a $68 million unfavorable impact from the divestiture of our building materials business in China and Korea and slightly unfavorable mix. These items were partially offset by favorable selling prices of $27 million and a $23 million favorable impact of translating sales denominated in foreign currencies into United States dollars.
+4322: EBITDA
+4323: In our Insulation segment, EBITDA decreased $97 million in 2025 compared to 2024. The decrease was driven by lower sales volumes, the impact of production downtime of $50 million and input cost inflation of $42 million. This was partially offset by lower manufacturing costs of $30 million, higher selling prices of $27 million, and favorable mix.
+4324: 29
+4325: Table of Contents
+4326: ITEM 7.
+
+...
+4329: The outlook for Insulation demand is driven by North American new residential construction, remodeling and repair activity, as well as non-residential construction activity in the United States, Canada, Europe and Latin America. Demand in non-residential insulation markets is most closely correlated to industrial production growth and overall economic activity in the markets we serve. Demand for residential insulation is most closely correlated to U.S. housing starts.
+4330: During the fourth quarter of 2025, the average Seasonally Adjusted Annual Rate (“SAAR”) of U.S. housing starts was approximately 1.330 million starts, which is down from 1.379 million starts in the fourth quarter of 2024.
+4331: The Company expects the new residential construction market in North America to remain challenged in the near-term, driven by an overall weakness in housing starts due to mortgage rates. The global non-residential construction markets are expected to be relatively stable in the near-term. The Company continues to concentrate on driving productivity, managing costs, capital expenditures and working capital as we position ourselves to expand capacity within our existing manufacturing network.
+4332: Doors
+4333: The table below provides a summary of net sales and EBITDA for the Doors segment:
+4334: Twelve Months Ended December 31,
+4335: (In millions)
+4336: 2025
+
+...
+4345: %
+4346: N/A
+4347: EBITDA
+4348: $
+4349: 232
+4350: $
+4351: 232
+4352: EBITDA as a % of net sales
+4353: 11
+4354: %
+4355: 16
+
+...
+4357: NET SALES
+4358: In our Doors segment, 2025 net sales increased $677 million compared to 2024, primarily due to the acquisition of Masonite, which was completed on May 15, 2024. This was partially offset by lower volumes of approximately 8% and lower selling prices of $3 million, partially offset by slightly favorable mix.
+4359: EBITDA
+4360: In our Doors segment, EBITDA remained flat in 2025 compared to 2024. The benefit of the acquisition of Masonite, which was completed on May 15, 2024, along with lower selling, general and administrative expenses and slightly favorable mix were offset by higher input cost inflation of $43 million, lower volumes, unfavorable manufacturing performance of $20 million and lower selling prices of $3 million.
+4361: OUTLOOK
+4362: The outlook for the Doors segment is driven by the new residential construction and residential repair and remodeling markets in North America and Europe. The Company expects the North America residential new construction market to remain challenged in the near-term, with discretionary residential repair and remodeling activity in North America remaining soft. Due to a weak macroeconomic outlook, the Company expects these markets to remain challenged. The Company will concentrate on managing costs, capturing synergies, capital expenditures and working capital.
+4363: Corporate, Other and Eliminations
+4364: Certain items, such as general corporate expenses or income and certain other expense or income items, are excluded from the internal evaluation of segment performance. Accordingly, these items are not reflected in EBITDA for our reportable segments and are included within Corporate, Other and Eliminations.
+4365: 30
+4366: Table of Contents
+4367: ITEM 7.
+4368: MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+4369: The table below provides a summary of EBITDA for the Corporate, Other and Eliminations category:
+4370: Twelve Months Ended December 31,
+4371: (In millions)
+4372: 2025
+
+...
+4410: (223)
+4411: (241)
+4412: EBITDA
+4413: $
+4414: (1,437)
+4415: $
+4416: (645)
+4417: EBITDA
+4418: The impact on EBITDA from Corporate, Other and Eliminations in 2025 was $792 million higher compared to 2024. The increase was primarily driven by the goodwill impairment charge related to the Doors segment, partially offset by lower acquisition-related charges, lower divestiture-related charges, and lower restructuring costs.
+4419: General corporate expense and other in 2025 was $18 million lower than in 2024, mainly due to lower incentive compensation related charges.
+4420: OUTLOOK
+4421: In 2026, we expect general corporate expenses to be approximately $245 million to $255 million.
+
+...
+4432: MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+4433: As a holding company, we have no operations of our own and most of our assets are held by our direct and indirect subsidiaries. Dividends and other payments or distributions from our subsidiaries will be used to meet our debt service and other obligations and to enable us to pay dividends to our stockholders. Please refer to the Risk Factors disclosed in Item 1A of this Annual Report on Form 10-K for details on the factors that could inhibit our subsidiaries' abilities to pay dividends or make other distributions to the parent company.
+4434: We have no material off-balance sheet arrangements that have or are reasonably likely to have a material current or future effect on our financial condition, results of operations, liquidity, capital expenditures or other resources.
+4435: Cash Flows
+4436: Cash and cash equivalents were $407 million as of December 31, 2025, compared to $369 million as of December 31, 2024. Cash and cash equivalents held by foreign subsidiaries may be subject to foreign withholding taxes upon repatriation to the U.S. As of December 31, 2025 and December 31, 2024, the Company had $97 million and $95 million, respectively, in cash and cash equivalents in certain of its foreign subsidiaries. The Company continues to assert indefinite reinvestment in accordance with Accounting Standards Codification (“ASC”) 740 based on the laws as of enactment of the tax legislation.
+4437: Operating activities:
+
+...
+4442: Net cash flow used for financing activities increased by $1,406 million for the twelve months ended December 31, 2025 compared to the same period in 2024. The increase was primarily driven by lower net proceeds from long-term debt and higher treasury stock repurchases in the current year, slightly offset by the issuance of CP Notes.
+4443: Material Cash Requirements
+4444: Our anticipated uses of cash include capital expenditures, working capital needs, share repurchases, meeting financial obligations, payments of any dividends authorized by our Board of Directors, acquisitions, restructuring actions and pension contributions. We expect that our cash on hand, coupled with future cash flows from operations and other available sources of liquidity, including our Senior Revolving Credit Facility and our CP Program, will provide ample liquidity to enable us to meet our cash requirements for at least the next 12 months and foreseeable future thereafter.
+4445: The following discussion of material cash requirements evaluates known contractual and other obligations, but does not include amounts that are contingent on events or other factors that are uncertain or unknown at this time including legal contingencies and uncertain tax positions among others. The amounts presented are based on various estimates, including estimates regarding the timing of payments, prevailing interest rates, the occurrence of certain events and other factors. Actual results may vary materially from the amounts discussed below.
+4446: Capital Expenditures
+4447: Our capital expenditures are primarily related to the maintenance and rebuild of our long-term assets, as well as investing in projects that support growth and innovation to further our enterprise strategy. Our capital expenditures were $824 million in 2025. We expect to have capital expenditures of approximately $800 million in 2026. We expect that capital expenditures will primarily be funded through cash flows from operations. See Note 3 and Note 7 of the Consolidated Financial Statements for additional information on Property, plant and equipment.
+4448: 32
+4449: Table of Contents
+4450: ITEM 7.
+
+...
+4461: Our operating lease obligations primarily consist of real estate and material handling equipment. As of December 31, 2025, we had a total of $663 million of minimum operating lease payments. Further discussion of the future maturities of these lease liabilities can be found in Note 10 of the Consolidated Financial Statements.
+4462: Purchase Obligations
+4463: Purchase obligations are commitments to suppliers to purchase goods or services, and include take-or-pay arrangements, capital expenditures, and contractual commitments to purchase equipment. As of December 31, 2025, the total of these obligations was $482 million, inclusive of $326 million payable in the next 12 months. The Company did not include ordinary course of business purchase orders in this amount as the majority of such purchase orders may be canceled and are reflected in historical operating cash flow trends. The Company does not believe such purchase orders will adversely affect our liquidity position.
+4464: Share Repurchases
+4465: On May 13, 2025, the Board of Directors approved the 2025 Repurchase Authorization. The Repurchase Authorizations enable the Company to repurchase shares through the open market, privately negotiated, or other transactions. The actual number of shares repurchased will depend on timing, market conditions and other factors and will be at the Company’s discretion.
+4466: In 2025, the Company repurchased 5.9 million shares of the Company’s common stock for $777 million, inclusive of applicable taxes, under previously announced Repurchase Authorizations. As of December 31, 2025, 12.5 million shares remained available for repurchase under the Repurchase Authorizations.
+
+...
+4476: We do not intend to have outstanding borrowings under the CP Program in excess of available capacity under our Senior Revolving Credit Facility.
+4477: On February 25, 2025, the Company amended the receivables securitization facility (the "Receivables Securitization Facility") to extend the maturity date to April 2025. During the first quarter of 2025, the Company borrowed $299 million under the Receivables Securitization Facility which was subsequently repaid with proceeds from the issuance of CP Notes. Subsequently, on March 31, 2025, the Company terminated the Receivables Securitization Facility.
+4478: On April 15, 2024, in connection with the acquisition of Masonite, we commenced a tender offer (the “Tender Offer”) to purchase any and all of Masonite's outstanding 5.375% Senior Notes due 2028 (the “Masonite 2028 notes”) with an aggregate value of $501 million. On May 13, 2024, 94.25% of the outstanding Masonite 2028 notes were validly tendered. Following the settlement of the Tender Offer, approximately $29 million of the Masonite 2028 notes that were not tendered remain outstanding, which has been recorded on the Consolidated Balance Sheets. On February 1, 2025, the Company issued a par call to repay the remaining portion of its outstanding Masonite 2028 notes for $30 million inclusive of accrued interest.
+4479: On May 31, 2024, the Company issued $500 million of 2027 senior notes with an annual interest rate of 5.500%, $800 million of 2034 senior notes with an annual interest rate of 5.700% and $700 million of 2054 senior notes with an annual interest rate of 5.950%.
+4480: Supplier Finance Programs
+4481: We review supplier terms and conditions on an ongoing basis, and have negotiated payment terms extensions in recent years in connection with our efforts to reduce working capital and improve cash flow. Separate from those terms extension actions, certain of our subsidiaries have entered into paying agency agreements with third-party administrators. These voluntary supply chain finance programs (collectively, the “Programs”) generally give participating suppliers the ability to sell, or otherwise pledge as collateral, their receivables from the Company to the participating financial institutions, at the sole discretion of both the suppliers and financial institutions. The Company is not a party to the arrangements between the suppliers and the financial institutions. The Company’s obligations to its suppliers, including amounts due and scheduled payment dates, are not impacted by the suppliers’ decisions to sell, or otherwise pledge as collateral, amounts under these arrangements. The Company’s payment terms to the financial institutions, including the timing and amount of payments, are based on the original supplier invoices. One of the Programs includes a parent guarantee to the participating financial institution for a certain U.S. subsidiary that, at the time of the respective program’s inception in 2015, was a guarantor subsidiary of the Company’s credit agreement. The obligations are presented as Accounts payable within Total current liabilities on the Consolidated Balance Sheets and all activity related to the obligations is presented within operating activities on the Consolidated Statements of Cash Flow.
+4482: The desire of suppliers and financial institutions to participate in the Programs could be negatively impacted by, among other factors, the availability of capital committed by the participating financial institutions, the cost and availability of our suppliers’ capital, a credit rating downgrade or deteriorating financial performance of the Company or its participating subsidiaries, or other changes in financial markets beyond our control. We do not expect these risks, or potential long-term growth of our Programs, to materially affect our overall financial condition, as we expect a significant portion of our payments to continue to be made outside of the Programs. Accordingly, we do not believe the Programs have materially impacted our current period liquidity, and do not believe that the Programs are reasonably likely to materially affect liquidity in the future.
+4483: Please refer to the
+4484: Supplier Finance Programs
+
+...
+4493: Please refer to Notes 1, 5, 14, 15 and 16 of the Consolidated Financial Statements.
+4494: CRITICAL ACCOUNTING ESTIMATES
+4495: Our discussion and analysis of our financial condition and results of operations is based upon our Consolidated Financial Statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. On an ongoing basis, management evaluates its estimates and judgments related to these assets, liabilities, revenues and expenses. We believe these estimates to be reasonable under the circumstances. Management bases its estimates and judgments on historical experience, expected future outcomes, and on various other factors that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates.
+4496: The Company believes that the following accounting estimates are critical to our financial results:
+4497: Fair Values of Assets Acquired and Liabilities Assumed in Acquisitions
+4498: Assets acquired and liabilities assumed in a business combination are recorded at their estimated fair values on the date of acquisition. The difference between the purchase price amount and the net fair value of assets acquired and liabilities assumed is recognized as goodwill on the balance sheet if the purchase price exceeds the estimated net fair value or as a bargain purchase gain on the income statement if the purchase price is less than the estimated net fair value. We apply significant judgment in estimating the fair value of assets acquired and liabilities assumed, which involves the use of significant estimates and assumptions. Changes in these judgments or estimates can have a material impact on the valuation of the respective assets and liabilities acquired and our results of operations in periods after acquisition. The allocation of the purchase price is preliminary for up to one year after the acquisition date as more information is obtained about the fair value of assets acquired and liabilities assumed. See Note 8 of the Consolidated Financial Statements for further information on the fair values of assets acquired and liabilities assumed in recent business combinations, as well as the measurement period adjustments to the purchase price allocation.
+4499: On May 15, 2024, the Company completed the acquisition of Masonite for a total purchase price of $3.2 billion. As part of the acquisition the Company acquired $979 million of intangible assets related to customer relationships, which mainly consists of one customer relationship. The fair value of customer relationships was determined using the multi-period excess earnings method. Key assumptions under this method are the revenue growth rate, adjusted EBITDA margin (including the adjusted terminal EBITDA margin), customer attrition rate, discount rate, tax rate and contributory asset charges.
+4500: Tax Estimates
+4501: The determination of our tax provision is complex due to operations in several tax jurisdictions outside the United States. We apply a more-likely-than-not recognition threshold for all tax uncertainties. Such uncertainties include any claims by the Internal Revenue Service for income taxes, interest, and penalties attributable to audits of open tax years.
+4502: In addition, we record a valuation allowance to reduce our deferred tax assets to the amount that we believe is more likely than not to be realized. We estimate future taxable income and the effect of tax planning strategies in our consideration of whether deferred tax assets will more likely than not be realized. In the event we were to determine that we would not be able to realize all or part of our net deferred tax assets in the future, an adjustment to reduce the net deferred tax assets would be charged to earnings in the period such determination was made. Conversely, if we were to determine that we would be able to realize our net deferred tax assets in the future in excess of their currently recorded amount, an adjustment to increase the net deferred tax assets would be credited to earnings in the period such determination was made.
+4503: Impairment of Assets
+4504: The Company exercises judgment in evaluating assets for impairment. Goodwill and other indefinite-lived intangible assets are tested for impairment annually, or when circumstances arise which indicate there may be an impairment. Long-lived assets are tested for impairment when economic conditions or management decisions indicate an impairment may exist. These tests require comparing recorded values to estimated fair values for the assets under review.
+
+...
+4510: 2025 Goodwill Impairment Assessments
+4511: Goodwill is an intangible asset that is not subject to amortization; however, annual tests are required to be performed to determine whether impairment exists. Prior to performing the impairment testing process described in ASC 350-20, the guidance permits companies to assess qualitative factors to determine if it is more likely than not that a reporting unit’s fair value is less than its carrying value. If, based on the review of the qualitative factors, we determine it is not more likely than not that the fair value of a reporting unit is less than its carrying value, we would bypass the quantitative impairment test. Events and circumstances we consider in performing the qualitative assessment include macro-economic conditions, market and industry conditions, internal cost factors, and the operational stability and the overall financial performance of the reporting units. If it is more likely than not that a reporting unit’s fair value is less than or close to its carrying value, then the quantitative impairment test must be performed to determine if impairment is required.
+4512: When it is determined necessary for the Company to perform the quantitative impairment process for goodwill, we estimate fair values using a discounted cash flow approach from the perspective of a market participant, as well as the market approach. Significant assumptions used in the discounted cash flow approach are the revenue growth rates and EBITDA margins used in estimating discrete period cash flow forecasts of the reporting unit, the discount rate, the reporting unit tax rate and the long-term revenue growth rate and EBITDA margin used in estimating the terminal business value. The cash flow forecasts of the reporting unit are based upon management’s long-term view of our markets and are the forecasts that are used by senior management and the Board of Directors to evaluate operating performance. The discount rate utilized is management’s estimate of what the market’s weighted average cost of capital is for a company with a similar debt rating and stock volatility, as measured by beta. The reporting unit specific tax rate is based on blended global historical rates. The terminal business value is determined by applying the long-term growth rate to the latest year for which a forecast exists. For the market approach, we use market multiples derived from a set of similar companies. As part of our goodwill quantitative testing process, the Company evaluates whether there are reasonably likely changes to management’s estimates that would have a material impact on the results of the goodwill impairment testing.
+4513: First Quarter Goodwill Triggering Event
+4514: During the quarter, our internal reporting and management structure changed, resulting in the identification of three new reportable segments: Roofing, Insulation and Doors. As a result of our segment reorganization, we reassigned the former Composites reportable segment assets and liabilities into the Roofing and Insulation reportable segments. As this change was considered a goodwill triggering event, we performed an interim goodwill impairment test both prior and subsequent to the reorganization using a discounted cash flow approach for each of the respective reporting units.
+4515: Prior to reorganizing the reportable segments and integrating portions of the former Composites reportable segment, but after allocating Goodwill to discontinued operations, the Company tested the Goodwill for the Roofing, Insulation and Composites reporting units. As a result of this test, we determined that no impairment existed for any of the reporting units and that the business enterprise value for the Roofing, Composites and Insulation reporting units substantially exceeded their carrying values.
+
+...
+4524: Second Quarter Goodwill Triggering Event
+4525: In the second quarter of 2025, the Company performed its ongoing assessment to consider whether events or circumstances had occurred that could more likely than not reduce the fair value of the Doors reporting unit below its carrying value. The narrow cushion on the Doors reporting unit, due to its recent acquisition, and the high level of near-term macroeconomic uncertainty caused by announced tariffs, triggered the Company to perform an interim goodwill impairment test as of June 30, 2025 for the Doors reporting unit. The fair value of the reporting unit was determined based on an equally weighted combination of the discounted cash flow analysis, or income approach, as well as the Guideline Public Company Method, or a market approach, based on market multiples of comparable companies.
+4526: As a result of this test, we determined that no impairment existed for the Doors reporting unit as the fair value exceeded the carrying value by approximately 5%. The most significant assumptions used in the fair value analysis were base year revenue, revenue growth rate, adjusted EBITDA margins, discount rate and market multiples under the market approach.
+4527: If all other assumptions remain constant, a 1% decrease in the base year revenue would decrease the fair value by approximately 1%, a 1% decrease in the revenue growth rates would decrease the fair value by approximately 4%, a 0.5% decrease in forecasted adjusted EBITDA margins would decrease the fair value by approximately 4%, a 0.5% increase in the selected discount rate of 10.0% would decrease the fair value by approximately 4%, and a decrease of 1 in the selected market multiples under the market approach would decrease the fair value by approximately 5%.
+4528: Third Quarter Goodwill and Indefinite Lived Intangibles Triggering Event and Definite Lived Recoverability Test
+4529: In the third quarter of 2025, the Company performed its ongoing assessment to consider whether events or circumstances had occurred that could more likely than not reduce the fair value of our reporting units below their carrying values. The narrow cushion on the Doors reporting unit, due to its recent acquisition, and the continuation of the previously disclosed macroeconomic uncertainty including softness in North America discretionary residential repair and remodeling activity and near-term challenges in North America residential new construction, triggered the Company to perform an interim goodwill impairment test as of September 30, 2025. The fair value of the reporting unit was determined based on an equally weighted combination of the discounted cash flow analysis, or income approach, as well as the Guideline Public Company Method, or a market approach, based on market multiples of comparable companies.
+4530: Based on the results of this testing, the Company recorded a $780 million pre-tax non-cash impairment charge, equal to the excess of the Doors reporting unit's carrying value over its fair value, in the third quarter of 2025. This charge was recorded in Goodwill impairment charge on the Consolidated Statements of (Loss) Earnings, and was included in the Corporate, Other and Eliminations reporting category. The reduction in fair value for the Doors reporting unit, and corresponding impairment charge, was primarily driven by a decrease in near-term revenue, including 2026, as a result of the macroeconomic uncertainty.
+4531: The most significant assumptions used in the fair value analysis were base year revenue, revenue growth rate, long-term growth rate, adjusted EBITDA margins, discount rate and market multiples under the market approach.
+4532: If all other assumptions remain constant, a 1% decrease in the base year revenue would decrease the fair value by approximately 1%, a 1% decrease in the revenue growth rates would decrease the fair value by approximately 4%, a 1% decrease in the long-term growth rate would decrease the fair value by approximately 3%, a 0.5% decrease in forecasted adjusted EBITDA margins would decrease the fair value by approximately 4%, a 0.5% increase in the selected discount rate of 11.5% would decrease the fair value by approximately 3%, and a decrease of 1 in the selected market multiples under the market approach would decrease the fair value by approximately 5%.
+4533: Also, in the third quarter of 2025, we performed an interim impairment test for an indefinite-lived tradename used by our Doors reportable segment, based on the macroeconomic conditions that precipitated the interim goodwill impairment test described above. As a result of this test, we determined that no impairment existed for the tradename.
+4534: 37
+4535: Table of Contents
+4536: ITEM 7.
+4537: MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+4538: Fair value used in testing for potential impairment of our tradename was calculated using the relief-from-royalty method by applying an estimated market value royalty rate to the forecasted revenues of the businesses that utilize that asset. The assumed cash flows from this calculation are discounted at a rate based on a market participant discount rate. None of the assumptions were deemed to be significant.
+4539: During the third quarter of 2025, the Company also determined that a certain asset group within our Doors reportable segment should be tested for recoverability, primarily as a result of the goodwill triggering event for our Doors reporting unit. Recoverability of the long-lived assets was measured by comparing the carrying amount of the asset group to the future net undiscounted cash flows expected to be generated by the asset group. This comparison determined that the asset group was recoverable. None of the assumptions were deemed to be significant.
+4540: Annual Goodwill Testing
+4541: Our annual test of goodwill for impairment was conducted as of October 1, 2025. The Company elected to perform the qualitative approach on all of its reporting units. After evaluating and weighing all relevant events and circumstances, we concluded it is more likely than not that the fair value of the Roofing and Insulation reporting units exceeds their respective carrying value amounts while the Doors reporting unit business enterprise value approximates its carrying value given the impairment taken in the third quarter of 2025 and the timing of the annual test.
+4542: Fourth Quarter Goodwill and Indefinite Lived Intangibles Triggering Event
+4543: Subsequent to the annual test for our reporting units, the Company performed its ongoing assessment to consider whether events or circumstances had occurred that could more likely than not reduce the fair value of our reporting units below their carrying values. The narrow cushion on the Doors reporting unit, due to the impairment taken in the third quarter of 2025, and the continuation of the previously disclosed macroeconomic uncertainty including sustained softness in North America discretionary residential repair and remodeling activity and increased near-term challenges in North America residential new construction, triggered the Company to perform an interim goodwill impairment test as of December 31, 2025. The fair value of the reporting unit was determined based on an equally weighted combination of the discounted cash flow analysis, or income approach, as well as the Guideline Public Company Method, or a market approach, based on market multiples of comparable companies.
+4544: Based on the results of this testing, the Company recorded a $355 million pre-tax non-cash impairment charge, equal to the excess of the Doors reporting unit's carrying value over its fair value, in the fourth quarter of 2025. This charge was recorded in Goodwill impairment charge on the Consolidated Statements of (Loss) Earnings, and was included in the Corporate, Other and Eliminations reporting category. The reduction in fair value for the Doors reporting unit, and corresponding impairment charge, was primarily driven by a further decrease in near-term revenue, including 2026, as a result of the macroeconomic uncertainty.
+4545: The most significant assumptions used in the fair value analysis were base year revenue, revenue growth rate, long-term growth rate, adjusted EBITDA margins, discount rate and market multiples under the market approach.
+4546: If all other assumptions remain constant, a 1% decrease in the base year revenue would decrease the fair value by approximately 1%, a 1% decrease in the revenue growth rates would decrease the fair value by approximately 5%, a 1% decrease in the long-term growth rate would decrease the fair value by approximately 3%, a 0.5% decrease in forecasted adjusted EBITDA margins would decrease the fair value by approximately 5%, a 0.5% increase in the selected discount rate of 12.0% would decrease the fair value by approximately 3%, and a decrease of 1 in the selected market multiples under the market approach would decrease the fair value by approximately 6%.
+4547: The remaining balance of goodwill for the Doors reporting unit of $380 million as of December 31, 2025 continues to be at risk for future impairment. Continued uncertainty surrounding the macroeconomic factors impacting this reporting unit or changes in the significant assumptions mentioned above, could increase the likelihood of an additional future impairment.
+4548: Also, in the fourth quarter of 2025, we performed an interim impairment test for the indefinite-lived tradename previously tested in the third quarter of 2025, based on the macroeconomic conditions that precipitated the fourth quarter interim goodwill impairment test described above. As a result of this test, the Company recorded a pre-tax non-cash impairment charge of $39 million. This charge was recorded in Intangible assets impairment charge on the Consolidated Statements of (Loss) Earnings and was included in the Corporate, Other and Eliminations reporting category.
+4549: 38
+
+...
+4551: ITEM 7.
+4552: MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+4553: Fair value used in testing for potential impairment of our tradename was calculated using the relief-from-royalty method by applying an estimated market value royalty rate to the forecasted revenues of the businesses that utilize that asset. The assumed cash flows from this calculation are discounted at a rate based on a market participant discount rate. The assumed cash flows from this calculation are discounted at a rate based on a market participant discount rate. None of the assumptions were deemed to be significant.
+4554: The following table summarizes the segment allocation of recorded goodwill on our Consolidated Balance Sheet as of December 31, 2025:
+4555: (In millions)
+4556: December 31, 2025
+4557: Percent of Total
+
+...
+4573: %
+4574: Annual 2025 Indefinite-lived Intangible Asset Impairment Assessment
+4575: Fair values used in testing for potential impairment of our trademarks and trade names are calculated by applying an estimated market value royalty rate to the forecasted revenues of the businesses that utilize those assets. The assumed cash flows from this calculation are discounted at a rate based on a market-participant discount rate. Our annual test of indefinite-lived intangibles was conducted as of October
+4576: 1, 2025.
+4577: The fair value of each of our indefinite-lived intangible assets exceeded the carrying value as of the date of our assessment.
+4578: The fair value of the remaining assets substantially exceeded their carrying value as of the date of our assessment.
+
+...
+4583: The Company records a liability for warranty obligations at the date the related products are sold. Most significant are the standard warranties on our roofing products. The standard warranties generally provide full coverage of labor and materials for a period of 5-10 years from the original installation date and prorated materials for the remaining life of the roof.
+4584: Our estimated cost of our standard warranty obligations is calculated using a 10-year historical average of claims paid for each major product category, the estimated future cost to manufacture the replacement shingles, and the estimated future cost for contractor labor, subject to the applicable warranty coverage, for a 20-year period from the date of installation.
+4585: Additionally, the Company sells contractors extended warranties that extend coverage beyond our standard product warranty. The extended warranties revenue is deferred and recognized over the related coverage period, ranging from 16 to 20 years.
+4586: 39
+4587: Table of Contents
+4588: ITEM 7.
+
+...
+4648: QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+4649: The Company is exposed to, among other risks, the impact of changes in commodity prices, foreign currency exchange rates, and interest rates in the normal course of business. To mitigate some of the near-term volatility in our earnings and cash flows, the Company manages certain of our exposures through the use of financial contracts, contracts for physical delivery of a particular commodity, and derivative financial instruments. The Company’s objective with these instruments is to reduce exposure to near-term fluctuations in earnings and cash flows. The Company’s policy enables the use of foreign currency, interest rate and commodity derivative financial instruments only to the extent necessary to manage exposures as described above. The Company does not enter into such transactions for trading purposes.
+4650: A discussion of the Company’s accounting policies for derivative financial instruments, as well as the Company’s exposure to market risk, is included in Notes 1 and 5 to the Consolidated Financial Statements. Please refer to Note 5 for details of the fair values of derivative financial instruments and their classification on the Consolidated Balance Sheets.
+4651: For purposes of disclosing the market risk inherent in its derivative financial instruments the Company uses sensitivity analysis disclosures that express the potential loss in fair values of market rate sensitive instruments resulting from changes in interest rates, foreign currency exchange rates, and commodity prices that assume instantaneous, parallel shifts in exchange rates, interest rate yield curves, and commodity prices. The following analysis provides such quantitative information regarding market risk. There are certain shortcomings inherent in the sensitivity analysis presented, primarily due to the assumption that exchange rates change instantaneously and that interest rates change in a parallel fashion. In addition, the analyses are unable to reflect the complex market reactions that normally would arise from the market shifts modeled.
+4652: Foreign Exchange Rate Risk
+4653: The Company has transactional foreign currency exposures related to buying, selling and financing in currencies other than the local currencies in which it operates. The Company enters into various forward contracts, which change in value as foreign currency exchange rates change, to preserve the carrying amount of foreign currency-denominated assets, liabilities, commitments and certain anticipated foreign currency transactions. Exposures in U.S. Dollars primarily relate to the Mexican Peso, Indian Rupee, Brazilian Real, Hong Kong Dollar, European Euro, South Korean Won, Japanese Yen and the Chinese Yuan. In addition, exposures in European Euro primarily relate to the Polish Złoty, U.S. Dollar, Danish Krone and the Norwegian Krone.
+
+...
+4708: Earnings
+4709: 48
+4710: Consolidated Balance Sheets
+4711: 49
+4712: Consolidated Statements of Stockholders’ Equity
+4713: 50
+
+...
+4773: Board of Directors and Stockholders of Owens Corning
+4774: Opinions on the Financial Statements and Internal Control over Financial Reporting
+4775: We have audited the accompanying consolidated balance sheets of Owens Corning and its subsidiaries (the “Company”) as of December 31, 2025 and 2024, and the related consolidated statements of (loss) earnings, of comprehensive (loss) earnings, of stockholders’ equity and of cash flows for each of the three years in the period ended December 31, 2025, including the related notes (collectively referred to as the “consolidated financial statements”). We also have audited the Company's internal control over financial reporting as of December 31, 2025, based on criteria established in
+4776: Internal Control - Integrated Framework
+4777: (2013)
+4778: issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).
+
+...
+4796: financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+4797: Third Quarter Interim Goodwill Impairment Test – Doors Reporting Unit
+4798: As described in Note 6 to the consolidated financial statements, the Company’s goodwill balance was $1.7 billion as of December 31, 2025, and the goodwill associated with the Doors reporting unit was $380 million. Management tests goodwill for impairment as of October 1st each year, or more frequently should circumstances change or events occur that would more likely than not reduce the fair value of a reporting unit below its carrying amount. The narrow cushion on the Doors reporting unit, due to its recent acquisition, and the continuation of macroeconomic uncertainty including softness in North America discretionary residential repair and remodeling activity and near-term challenges in North America residential new construction, triggered management to perform an interim goodwill impairment test as of September 30, 2025. The fair value of the reporting unit was determined based on an equally weighted combination of the discounted cash flow analysis, or income approach, as well as the Guideline Public Company Method, or a market approach, based on market multiples of comparable companies. Based on the results of this testing, the Company recorded a $780 million impairment charge. The most significant assumptions used in the fair value analysis of the Doors reporting unit were base year revenue, revenue growth rates, long-term growth rate, adjusted earnings before interest, taxes, depreciation and amortization (“EBITDA”) margins, discount rate, and market multiples under the market approach.
+4799: The principal considerations for our determination that performing procedures relating to the third quarter interim goodwill impairment test of the Doors reporting unit is a critical audit matter are (i) the significant judgment by management when developing the fair value estimate of the Doors reporting unit; (ii) a high degree of auditor judgment, subjectivity and effort in performing procedures and evaluating management’s significant assumptions related to base year revenue, revenue growth rates, long-term growth rate, adjusted EBITDA margins, discount rate, market multiples and the equal combination of the income and market  approaches; and (iii) the audit effort involved the use of professionals with specialized skill and knowledge.
+4800: Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to management’s goodwill impairment test, including controls over the valuation of the Doors reporting unit. These procedures also included, among others (i) testing management’s process for developing the fair value estimate of the Doors reporting unit; (ii) evaluating the appropriateness of the income and market approaches used by management and the equal combination of the approaches; (iii) testing the completeness and accuracy of underlying data used in the income and market approaches; and (iv) evaluating the reasonableness of the significant assumptions used by management related to base year revenue, revenue growth rates, long-term growth rate, adjusted EBITDA margins, discount rate, and market multiples. Evaluating management’s assumptions related to the base year revenue, revenue growth rates, and adjusted EBITDA margins involved evaluating whether the assumptions used by management were reasonable considering (i) the current and past performance of the Doors reporting unit; (ii) the consistency with external market and industry data; and (iii) whether the assumptions were consistent with evidence obtained in other areas of the audit. Professionals with specialized skill and knowledge were used to assist in evaluating (i) the appropriateness of the income and market approaches including the equal combination of the approaches and (ii) the reasonableness of the long-term growth rate, discount rate, and market multiples assumptions.
+4801: /s/
+4802: PricewaterhouseCoopers LLP
+4803: Toledo, Ohio
+
+...
+4863: 1,559
+4864: 791
+4865: OPERATING INCOME
+4866: 360
+4867: 1,482
+4868: 1,639
+
+...
+5104: Table of Contents
+5105: OWENS CORNING AND SUBSIDIARIES
+5106: CONSOLIDATED BALANCE SHEETS
+5107: (in millions)
+5108: December 31,
+5109: ASSETS
+
+...
+5156: 254
+5157: 579
+5158: TOTAL ASSETS
+5159: $
+5160: 12,980
+5161: $
+
+...
+5884: NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+5885: Use of Estimates and Assumptions
+5886: The preparation of financial statements in conformity with accounting principles generally accepted in the United States requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ materially from those estimates.
+5887: Revenue Recognition
+5888: We recognize revenue as the amount of consideration that we expect to receive in exchange for transferring promised goods or services to customers. We do not adjust the transaction price for the effects of a significant financing component, as the time period between control transfer of goods and services and expected payment is one year or less. At the time of sale, we estimate provisions for different forms of variable consideration (discounts, rebates, returns and other refund liabilities) based on historical experience, current conditions and contractual obligations, as applicable. The estimated transaction price is typically not subject to significant reversals. We adjust these estimates when the most likely amount of consideration we expect to receive changes, although these changes are typically minor. Sales, value-added and other similar taxes that we collect are excluded from revenue.
+5889: Many of our customer volume commitments are short-term and our performance obligations are generally limited to single purchase orders. Substantially all of our revenue is recognized at a point-in-time when control of goods transfers to the customer. Control transfer typically occurs when goods are shipped from our facilities or at other predetermined control transfer points (for instance, destination terms or consignment arrangements).
+5890: We typically do not satisfy performance obligations without obtaining an unconditional right to payment from customers and, therefore, do not carry contract asset balances on the Consolidated Balance Sheets. Contract liability balances are recorded separately from receivables on the Consolidated Balance Sheets in either Total current liabilities or Other liabilities, depending on the timing of performance obligation satisfaction.
+5891: We sell separately-priced warranties that extend certain product and workmanship coverages beyond our standard product warranty, which is described in Note 12. The up-front consideration on extended warranty contracts is deferred and recognized as revenue over time, based on the respective coverage period, ranging from
+5892: 16
+5893: to
+5894: 20
+5895: years. On an annual basis, we expect to recognize approximately $
+5896: 10
+5897: million of revenue associated with these extended warranty contracts. Additionally, in certain limited cases, we receive consideration before goods or services are transferred to the customer. These customer down payments and deposits are deferred, and typically recognized as revenue in the following quarters when we satisfy the related performance obligations.
+5898: As of December 31, 2025, our contract liability balances (for extended warranties, down payments and deposits, collectively) totaled $
+5899: 133
+5900: million. As of December 31, 2024, our contract liability balances totaled $
+
+...
+5902: million, of which $
+5903: 25
+5904: million was recognized as revenue throughout 2025. As of December 31, 2023, our contract liability balances (for extended warranties, down payments and deposits, collectively) totaled $
+5905: 101
+5906: million, of which $
+5907: 21
+5908: million was recognized as revenue throughout 2024. As of December 31, 2022, our contract liability balances (for extended warranties, down payments and deposits, collectively) totaled $
+5909: 89
+5910: million, of which $
+5911: 18
+5912: million was recognized as revenue throughout 2023.
+5913: As a practical expedient, we recognize incremental costs of obtaining a contract, if any, as an expense when incurred if the amortization period of the asset would have been one year or less. We do not have any costs to obtain or fulfill a contract that are capitalized under Accounting Standards Codification (
+5914: “
+5915: ASC
+
+...
+5937: Cash, Cash Equivalents and Restricted Cash
+5938: The Company defines cash and cash equivalents as cash and time deposits with maturities of three months or less when purchased.
+5939: Restricted cash primarily represents amounts received from a counterparty related to its performance assurance on an executory contract, and is included in Other current assets on the Consolidated Balance Sheets. These amounts are contractually required to be set aside, and the counterparty can exchange the cash for another form of performance assurance at its discretion. Please refer to Note 22 for additional disclosures related to Supplemental Cash Flow Information.
+5940: Accounts Receivable
+5941: Trade accounts receivable are recorded at the invoiced amount and do not bear interest. Consistent with the requirements of Accounting Standard Updates (“ASU”) 2016-13, “Financial Instruments - Credit Losses (Topic 236),” the allowance for credit losses is based on the Company’s assessment of the expected losses of customer accounts. The Company regularly reviews the allowance by considering factors such as historical experience, credit quality, the age of the accounts receivable balances, and current economic conditions that may affect a customer’s ability to pay. Account balances are charged off against the allowance when the Company believes it is probable the receivable will not be recovered.
+5942: Our customers consist mainly of
+
+...
+5948: The Company accounts for investments in affiliates of 20% to 50% ownership when the Company does not have a controlling financial interest using the equity method under which the Company’s share of earnings and losses of the affiliate are reflected in earnings, and dividends are credited against the investment in affiliate when declared.
+5949: I
+5950: nvestments in affiliates are recorded in Other non-current assets on the Consolidated Balance Sheets, and as of December 31, 2025 and 2024, the total value of investments was $
+5951: 62
+5952: million and $
+5953: 86
+
+...
+5959: Goodwill and Other Intangible Assets
+5960: Goodwill assets are not amortized but are tested for impairment on at least an annual basis. The Company has the option to use a qualitative approach to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying value as a basis for determining whether it is necessary to perform a quantitative test. In the current year, as part of the annual assessment, the Company used a qualitative approach to determine whether the fair value of a reporting unit was less than its carrying amount.
+5961: Events and circumstances we consider in performing the qualitative assessment include macro-economic conditions, market and industry conditions, internal cost factors, and the operational stability and the overall financial performance of the reporting units. When it is determined necessary for the Company to perform the quantitative testing process for goodwill, the Company estimates fair values using an equally weighted combination of the discounted cash flow analysis, or income approach, as well as the Guideline Public Company Method, or a market approach, based on market multiples of comparable companies. The most significant assumptions used in the fair value analysis are base year revenue, revenue growth rate, long-term growth rate, adjusted earnings before interest, taxes, depreciation and amortization (“EBITDA”) margins, discount rate, and market multiples under the market approach. The cash flow forecasts of the reporting units are based upon management’s long-term view of our markets and are the forecasts that are used by senior management and the Board of Directors to evaluate operating performance. The discount rate utilized is management’s estimate of what the market’s weighted average cost of capital is for a company with a similar debt rating and stock volatility, as measured by beta. The terminal business value is determined by applying the long-term growth rate to the latest year for which a forecast exists. As part of our goodwill quantitative testing process, we would evaluate whether there are reasonably likely changes to management’s estimates that would have a material impact on the results of the goodwill impairment testing.
+5962: Other indefinite-lived intangible assets are not amortized but are tested for impairment on at least an annual basis or when determined to have a finite useful life. Substantially all of the indefinite-lived intangible assets are in trademarks and trade names. The Company uses the royalty relief approach to determine whether it is more likely than not that the fair value of these assets is less than its carrying amount. This review is performed annually, or when circumstances arise which indicate there may be impairment. When applying the royalty relief approach, the Company performs a discounted cash flow analysis based on the value derived from owning these trademarks and trade names and being relieved from paying royalty to third parties. Significant assumptions used include the discrete period revenue growth rates, long-term revenue growth rate, royalty rates, discount rates and terminal value.
+5963: The inputs for the goodwill and indefinite-lived intangible tests are considered Level 3 inputs under the fair value hierarchy as they are the Company’s own data, and are unobservable in the marketplace. Indefinite-lived intangible assets purchased through acquisitions are generally tested qualitatively for impairment in the first year following the acquisition before transitioning to the methodology described herein in subsequent years.
+5964: Definite-lived intangible assets are amortized using the straight-line method over their estimated useful lives. The Company reviews our intangibles with finite useful lives at the asset group level on a quarterly basis or as events occur that would more likely than not reduce the fair value of amortizable intangible assets below its carrying amount. If the sum of the expected undiscounted cash flows is less than the carrying value of the asset group, then an impairment loss would be recognized for the difference between the carrying amount and the fair value.
+5965: Please refer to Note 6 for additional disclosures related to Goodwill and Other Intangible Assets.
+5966: Emissions Rights
+5967: The Company is allotted carbon emission credit allowances (“emissions rights”) from several of the governments of the countries and territories in which it operates. When the Company emits more than the allotted amounts, additional emissions rights must be purchased. These emissions rights are recorded at market value as of the date of issuance and are classified as Intangible assets on the Consolidated Balance Sheets.
+5968: 55
+5969: Table of Contents
+5970: OWENS CORNING AND SUBSIDIARIES
+
+...
+6009: OWENS CORNING AND SUBSIDIARIES
+6010: NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+6011: The obligations are presented as Accounts payable within Total current liabilities on the Consolidated Balance Sheets and all activity related to the obligations is presented within operating activities on the Consolidated Statements of Cash Flow.
+6012: The Company's outstanding obligations under the Programs for the twelve months ended December 31, 2025 and 2024 are as follows:
+6013: Twelve Months Ended December 31,
+6014: (In millions)
+
+...
+6048: OWENS CORNING AND SUBSIDIARIES
+6049: NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+6050: The Company uses foreign exchange forward contracts to manage existing exposures to foreign exchange rate risks related to assets and liabilities recorded on the Consolidated Balance Sheets. Gains and losses resulting from the changes in fair value of these instruments are recorded in Other expense, net on the Consolidated Statements of (Loss) Earnings, and are substantially offset by net revaluation impacts on foreign currency denominated balance sheet exposures (which are also recorded in Other expense, net). Cash settlements for non-designated derivatives are included in the Consolidated Statements of Cash Flows in the category that is consistent with the nature of the derivative instrument, which is generally the same category as the underlying item being hedged.
+6051: Fair Value Measurements
+6052: The carrying value of cash and cash equivalents, accounts receivable and short-term debt approximate fair value because of the short-term maturity of the instruments.
+6053: Please refer to Notes 5, 6, 8, 14, 15 and 16 for fair value disclosures of derivative financial instruments, goodwill, intangible assets, acquisitions, long-term debt, pension plans and postemployment and postretirement benefits other than pensions.
+6054: Foreign Currency
+6055: The functional currency of the Company’s subsidiaries is generally the applicable local currency. Assets and liabilities of foreign subsidiaries are translated into United States Dollars at the period-end rate of exchange, and their Statements of Earnings (Loss) and Statements of Cash Flows are converted at the monthly average rate. The resulting translation adjustment is included in AOCI in the Consolidated Balance Sheets and Consolidated Statements of Stockholders’ Equity. Transaction gains and losses that arise from exchange rate fluctuations on transactions denominated in a currency other than the functional currency are recorded in Other expense, net in the Consolidated Statements of (Loss) Earnings as incurred.
+6056: As discussed in the Derivative Financial Instruments section above, the Company uses non-designated foreign currency derivative financial instruments to mitigate this risk. The Company recorded foreign currency transactional losses, net of associated derivative activity, of $
+6057: 3
+6058: million, less than $
+
+...
+6090: 165
+6091: million. In the Consolidated Statements of Cash Flows, the cash proceeds from the sale of the facility and the cash used for the bond purchase are presented on a net basis within the Net cash flows used by investing activities.
+6092: The monthly lease payments under the financing lease obligation and the semi-annual bond coupon payments associated with the bond investment are legally offset and, as such, the offset lease obligation and bond investment amounts are presented on a net basis on the Consolidated Balance Sheets. There will be no cash payments made by either party over the
+6093: ten-year
+6094: period. At the termination of the lease agreement, a non-cash exchange will occur where the municipality will call the bond and return title of the facility to the Company.
+6095: 58
+
+...
+6097: OWENS CORNING AND SUBSIDIARIES
+6098: NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+6099: The Company had the opportunity to purchase additional bonds representing the incremental capital expenditures up to $
+6100: 240
+6101: million. In the fourth quarter of 2024, the Company sold additional equipment purchased after the initial bonds for cash of $
+6102: 15
+
+...
+6116: 32
+6117: million based on eligible spend incurred in 2025. In the Consolidated Statements of Cash Flows, the cash proceeds from the sale of the equipment and the cash used for the bond purchase are presented on a net basis within the Net cash flows used by investing activities.
+6118: The transactions did not qualify for sale-leaseback treatment under ASC 842 and, therefore, the plant’s net book value, as well as the net book value of the equipment sold, remains in Property, plant and equipment, net on the Consolidated Balance Sheets. Depreciation expense on the assets sold remains within Cost of Sales on the Consolidated Statements of Earnings. The Company does not expect additional bond purchases related to this project.
+6119: Failed Sale-Leaseback - Russellville, Arkansas Municipal Tax Incentive
+6120: In the fourth quarter of 2025, the Company signed a municipal tax incentive agreement, as part of which, the Company sold its Russellville, Arkansas plant and equipment (together, the “facility”) to the municipality of Pope County for cash of $
+6121: 94
+
+...
+6131: 94
+6132: million. In the Consolidated Statements of Cash Flows, the cash proceeds from the sale of the facility and the cash used for the bond purchase are presented on a net basis within the Net cash flows used by investing activities.
+6133: The monthly lease payments under the financing lease obligation and the semi-annual bond coupon payments associated with the bond investment are legally offset and, as such, the offset lease obligation and bond investment amounts are presented on a net basis on the Consolidated Balance Sheets. There will be no cash payments made by either party over the
+6134: 20-year
+6135: period. At the termination of the lease agreement, a non-cash exchange will occur where the municipality will call the bond and return title of the facility to the Company. The Company will have the opportunity to purchase additional bonds representing the incremental capital expenditures up to $
+6136: 100
+6137: million.
+6138: The transactions did not qualify for sale-leaseback treatment under ASC 842 and, therefore, the plant’s net book value, as well as the net book value of the equipment sold, remains in Property, plant and equipment, net on the Consolidated Balance Sheets. Depreciation expense on the assets sold remains within Cost of Sales on the Consolidated Statements of Earnings.
+6139: Accounting Pronouncements
+6140: New Pronouncements Adopted
+6141: In March 2024, the Financial Accounting Standards Board (“FASB”) issued
+
+...
+6209: million. The loss is presented within Net loss from discontinued operations attributable to Owens Corning, net of tax, on the Consolidated Statements of Earnings. An estimated valuation allowance of $
+6210: 408
+6211: million is recorded within Non-current assets of discontinued operations, on the Consolidated Balance Sheets.
+6212: The following table summarizes (Loss)/Earnings from discontinued operations attributable to Owens Corning, net of tax included within the Consolidated Statements of Earnings:
+6213: Twelve Months Ended December 31,
+6214: (In millions)
+
+...
+6635: 6,796
+6636: million in 2025, 2024 and 2023, respectively.
+6637: Our contracts with customers are broadly similar in nature throughout our reportable segments, but the amount, timing and uncertainty of revenue and cash flows may vary in each reportable segment due to geographic and end-market economic factors.
+6638: Sales to major customers
+6639: - The Company had two customers that exceeded 10% of consolidated net sales for the twelve months ended December 31, 2025, December 31, 2024 and December 31, 2023. The first customer, which is a customer of the Roofing, Insulation and Doors segments, accounted for approximately
+6640: 16
+
+...
+6652: In North America, sales are primarily related to the residential housing market and non-residential applications. Residential market demand is driven by U.S. housing starts and repair and remodeling activity (influenced by existing home sales, seasonal home improvement and damage from major storms). Significant portions of our residential products across our
+6653: three
+6654: reportable segments are used interchangeably in both new construction and repair and remodeling, and our customers typically distribute (or use) the products for both applications. North American non-residential revenues are largely driven by North America industrial production growth, commercial construction activity and overall economic conditions in the U.S.
+6655: Outside of North America (Europe and Rest of world), sales are primarily related to non-residential applications and, to a lesser extent, residential applications in certain countries. Throughout the international regions, demand is primarily driven by industrial production growth, commercial construction activity and overall economic conditions in each respective geographical region.
+6656: EARNINGS BEFORE INTEREST, TAXES, DEPRECIATION AND AMORTIZATION
+6657: Effective January 1, 2025, we changed our segment measure of profitability for our reportable segments from Earnings before interest and taxes ("EBIT") to Earnings before interest, taxes, depreciation and amortization (“EBITDA”), as the measure used for purposes of making decisions about allocating resources to the segments and assessing performance. Segment EBITDA is the principal measure used by the CODM to assess segment performance and make decisions on the allocation of resources. Prior period amounts have been recast to reflect the new segment measure for profitability.
+6658: The Company identifies the Chief Executive Officer as the CODM. In applying the criteria set forth in the standards for reporting information about segments in financial statements, we have determined that we have
+6659: three
+6660: reportable segments – Roofing, Insulation, and Doors. The key factors used to identify these reportable segments are the organization and alignment of our internal operations and the nature of our products. Segment EBITDA targets are established on an annual basis and used by the CODM throughout the year to compare with actual results. Quarterly forecasts supplement annual targets and provide incremental information utilized to assess the performance of a segment. Segment EBITDA variance analysis further provides insight into segment operational cost optimization.
+6661: 64
+6662: Table of Contents
+6663: OWENS CORNING AND SUBSIDIARIES
+6664: NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+6665: The Company does not regularly provide significant segment expense detail to the CODM. EBITDA by segment consists of net sales less related costs and expenses, which are mainly comprised of cost of sales and marketing and administrative costs. EBITDA is presented on a basis that is used internally for evaluating segment performance. Certain items, such as general corporate expenses or income and certain other expense or income items, are excluded from the internal evaluation of segment performance. Accordingly, these items are not reflected in EBITDA for our reportable segments and are included within Corporate, Other and Eliminations.
+6666: The following table summarizes EBITDA by segment:
+6667: Twelve Months Ended December 31,
+6668: (In millions)
+6669: 2025
+
+...
+6828: OWENS CORNING AND SUBSIDIARIES
+6829: NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+6830: TOTAL ASSETS AND PROPERTY, PLANT AND EQUIPMENT
+6831: The following table summarizes total assets by segment:
+6832: December 31,
+6833: (In millions)
+6834: 2025
+
+...
+6862: 878
+6863: 862
+6864: TOTAL ASSETS FROM CONTINUING OPERATIONS
+6865: $
+6866: 12,300
+6867: $
+
+...
+6962: DERIVATIVE FINANCIAL INSTRUMENTS
+6963: The Company is exposed to, among other risks, the impact of changes in commodity prices, foreign currency exchange rates, and interest rates in the normal course of business. The Company’s risk management program is designed to manage the exposure and volatility arising from these risks, and utilizes derivative financial instruments to offset a portion of these risks. The Company uses derivative financial instruments only to the extent necessary to hedge identified business risks, and does not enter into such transactions for trading purposes.
+6964: The Company generally does not require collateral or other security with counterparties to these financial instruments and is therefore subject to credit risk in the event of nonperformance; however, the Company monitors credit risk and currently does not anticipate nonperformance by other parties. Contracts with counterparties generally contain right of offset provisions. These provisions effectively reduce the Company’s exposure to credit risk in situations where the Company has gain and loss positions outstanding with a single counterparty. It is the Company’s policy to offset on the Consolidated Balance Sheets the amounts recognized for derivative instruments with any cash collateral arising from derivative instruments executed with the same counterparty under a master netting agreement. As of December 31, 2025 and 2024, the Company did not have any amounts on deposit with any of its counterparties, nor did any of its counterparties have any amounts on deposit with the Company.
+6965: Derivative Fair Values
+6966: Our derivatives consist of natural gas forward swaps, foreign exchange forward contracts and U.S. treasury rate lock agreements, all of which are over-the-counter and not traded through an exchange. The Company uses widely accepted valuation tools to determine fair value, such as discounting cash flows to calculate a present value for the derivatives. The models use Level 2 inputs, which are observable market-based inputs or unobservable inputs that are corroborated by market data. Examples include forward curves and other commonly quoted observable transactions and prices. The fair value of our derivatives and hedging instruments are all classified as Level 2 investments within the three-tier hierarchy.
+6967: 67
+
+...
+6969: OWENS CORNING AND SUBSIDIARIES
+6970: NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+6971: The following table presents the fair value of derivatives and hedging instruments and the respective location on the Consolidated Balance Sheets:
+6972: Fair Value at
+6973: (In millions)
+6974: Location
+
+...
+7152: million was included in AOCI as of December 31, 2025.
+7153: Other Derivatives
+7154: The Company uses foreign exchange forward contracts to manage existing exposures to foreign exchange risk related to assets and liabilities recorded on the Consolidated Balance Sheets. As of December 31, 2025, the Company had notional amounts of $
+7155: 216
+7156: million for non-designated derivative financial instruments related to foreign currency exposures in U.S. Dollars primarily related to the Mexican Peso, Indian Rupee, Brazilian Real, Hong Kong Dollar, European Euro, South Korean Won, Japanese Yen and the Chinese Yuan. In addition, the Company had notional amounts of $
+7157: 153
+
+...
+7330: As a result of this test, we determined that no impairment existed for the Doors reporting unit as the fair value exceeded the carrying value by approximately
+7331: 5
+7332: %. The most significant assumptions used in the fair value analysis were base year revenue, revenue growth rate, adjusted EBITDA margins, discount rate and market multiples under the market approach.
+7333: 71
+7334: Table of Contents
+7335: OWENS CORNING AND SUBSIDIARIES
+
+...
+7339: Based on the results of this testing, the Company recorded a $
+7340: 780
+7341: million pre-tax non-cash impairment charge, equal to the excess of the Doors reporting unit's carrying value over its fair value, in the third quarter of 2025. This charge was recorded in Goodwill impairment charge on the Consolidated Statements of Earnings, and was included in the Corporate, Other and Eliminations reporting category. The reduction in fair value for the Doors reporting unit, and corresponding impairment charge, was primarily driven by a decrease in near-term revenue, including 2026, as a result of the macroeconomic uncertainty.
+7342: The most significant assumptions used in the fair value analysis were base year revenue, revenue growth rate, long-term growth rate, adjusted EBITDA margins, discount rate and market multiples under the market approach.
+7343: Annual Impairment Test
+7344: The annual tests performed in the fourth quarter of 2025 and 2024 resulted in
+7345: no
+
+...
+7349: Based on the results of this testing, the Company recorded a $
+7350: 355
+7351: million pre-tax non-cash impairment charge, equal to the excess of the Doors reporting unit's carrying value over its fair value, in the fourth quarter of 2025. This charge was recorded in Goodwill impairment charge on the Consolidated Statements of (Loss) Earnings, and was included in the Corporate, Other and Eliminations reporting category. The reduction in fair value for the Doors reporting unit, and corresponding impairment charge, was primarily driven by a further decrease in near-term revenue, including 2026, as a result of the macroeconomic uncertainty.
+7352: The most significant assumptions used in the fair value analysis were base year revenue, revenue growth rate, long-term growth rate, adjusted EBITDA margins, discount rate and market multiples under the market approach.
+7353: The remaining balance of goodwill for the Doors reporting unit of $
+7354: 380
+7355: million as of December 31, 2025 continues to be at risk for future impairment. Continued uncertainty surrounding the macroeconomic factors impacting this reporting unit or changes in the significant assumptions mentioned above, could increase the likelihood of an additional future impairment.
+
+...
+7456: (a)    Other primarily includes emissions rights.
+7457: Indefinite-Lived Intangible Assets
+7458: Fair values used in testing for potential impairment of our trademarks and trade names are calculated using the relief-from-royalty method by applying an estimated market value royalty rate to the forecasted revenues of the businesses that utilize those assets. The assumed cash flows from this calculation are discounted at a rate based on a market participant discount rate.
+7459: As of December 31, 2025, there is
+7460: one
+7461: indefinite-lived intangible asset that was at an increased risk of impairment. This asset is used by our Doors segment and had a value of $
+
+...
+7463: million as of December 31, 2025.
+7464: In the third quarter of 2025, we performed an interim impairment test for an indefinite-lived tradename used by our Doors reportable segment, based on the macroeconomic conditions that precipitated the interim goodwill impairment test described above for the third quarter of 2025. As a result of this test, we determined that no impairment existed for the tradename.
+7465: Fair value used in testing for potential impairment of our tradename was calculated using the relief-from-royalty method by applying an estimated market value royalty rate to the forecasted revenues of the businesses that utilize that asset. The assumed cash flows from this calculation are discounted at a rate based on a market participant discount rate. None of the assumptions were deemed to be significant.
+7466: Also, in the fourth quarter of 2025, we performed an interim impairment test for the indefinite-lived tradename previously tested in the third quarter of 2025, based on the macroeconomic conditions that precipitated the interim goodwill impairment test described above for the fourth quarter of 2025. As a result of this test, the Company recorded a pre-tax non-cash impairment charge of $
+7467: 39
+7468: million. This charge was recorded in Intangible assets impairment charge on the Consolidated Statements of (Loss) Earnings and was included in the Corporate, Other and Eliminations reporting category.
+7469: Fair value used in testing for potential impairment of our tradename was calculated using the relief-from-royalty method by applying an estimated market value royalty rate to the forecasted revenues of the businesses that utilize that asset. The assumed cash flows from this calculation are discounted at a rate based on a market participant discount rate. None of the assumptions were deemed to be significant.
+7470: All remaining indefinite-lived intangible assets substantially exceeded their carrying values as of December 31, 2025. The annual test performed in the fourth quarter of 2025 resulted in no impairment of indefinite-lived intangible assets.
+7471: Definite-Lived Intangible Assets
+7472: The Company amortizes the cost of other intangible assets over their estimated useful lives which, individually, range up to
+
+...
+7559: million. There were
+7560: no
+7561: significant non-cash exchanges during the twelve months ended December 31, 2024 and December 31, 2023. These gains are included in Other expense, net on the Consolidated Statements of (Loss) Earnings and reflected in the Corporate, Other and Eliminations reporting category. These non-cash investing activities are not included in Net cash flow used by investing activities in the Consolidated Statements of Cash Flows. We do not expect these non-cash exchanges to materially impact our current or future capital expenditure requirements or rate of depletion.
+7562: During the third quarter of 2025, the Company determined that a certain asset group within our Doors reportable segment should be tested for recoverability, primarily as a result of the goodwill triggering event for our Doors reporting unit. Recoverability of the long-lived assets including definite-lived intangibles was measured by comparing the carrying amount of the asset group to the future net undiscounted cash flows expected to be generated by the asset group. This comparison determined that the asset group was recoverable. None of the assumptions were deemed to be significant. During the fourth quarter of 2025, the Company concluded no further testing was required given the significant cushion from the third quarter recoverability test.
+7563: 74
+7564: Table of Contents
+
+...
+7593: billion and cash on hand. Please refer to the discussion under "364-Day Credit Facility" in Note 14 of the Consolidated Financial Statements for further information.
+7594: Masonite was a leading global designer, manufacturer, marketer and distributor of interior and exterior doors and door systems for the residential new construction and residential repair and remodeling markets. The addition of Masonite's market-leading doors business creates a new growth platform for the Company, strengthening the Company's position in building and construction and expanding its offering of branded residential building products.
+7595: Masonite's operating results and purchase price allocation have been included in the Company's Doors reportable segment from May 15, 2024, the effective date of the Arrangement, within the Consolidated Financial Statements. Doors contributed revenues of $
+7596: 2,125
+7597: million and loss of $
+7598: 7
+7599: million to the Company for the twelve months ended December 31, 2025. During the twelve months ended December 31, 2024, Doors contributed revenues of $
+7600: 1,448
+7601: million and earnings of $
+7602: 74
+
+...
+7716: —
+7717: 91
+7718: Total assets
+7719: 3,871
+7720: (
+7721: 230
+
+...
+7809: billion. During the preliminary period, the Company reduced the value of acquired intangibles by $
+7810: 221
+7811: million, as we continued to obtain information used to determine the fair value. There were no material impacts to the Consolidated Statements of Earnings as a result of this adjustment. The fair value of customer relationships was determined using the multi-period excess earnings method. Key assumptions under this method are the revenue growth rate, adjusted EBITDA margin (including the adjusted terminal EBITDA margin), customer attrition rate, discount rate, tax rate and contributory asset charges. The fair value of trade names were determined using the relief from royalty method. Key assumptions under this method are future cash flow estimates, royalty rate and discount rate.
+7812: (In millions, except useful life amounts)
+7813: Estimated
+7814: Useful Life
+
+...
+7906: On November 4, 2024, the Company entered into a related party agreement to sell its building materials business in China and Korea to a member of the business' management team. The disposal further aligns with the strategy to reshape the Company to focus on residential and commercial building products in North America and Europe. The transaction included
+7907: six
+7908: insulation manufacturing facilities in China and a roofing manufacturing facility in Korea. The building materials business, within the Insulation segment, represented annual revenues of approximately $
+7909: 130
+7910: million. The Company completed the transaction in July 2025 and is in the process of finalizing certain related transfers, which are expected to be completed by the end of the second quarter of fiscal year 2026.
+7911: During the fourth quarter of 2024, the Company reclassified $
+7912: 2
+7913: million as held for sale within Other current liabilities on the Consolidated Balance Sheets. The Company also recorded the assets at the fair value less cost to sell, which was less than the carrying value and resulted in an impairment of $
+7914: 91
+7915: million primarily related to Property, Plant and Equipment and Goodwill. The impairment was included in Loss on sale of business on the Consolidated Statements of Earnings as of December 31, 2024. The Company estimated the fair value of these assets, less cost to sell, using Level 3 inputs.
+7916: During the twelve months ended December 31, 2025, the Company incurred an additional loss of $
+
+...
+7932: On February 13, 2025, the Company entered into the GR Agreement for the sale of our global GR business. In connection with the GR Agreement, some leases will be transferring at the time of sale. The related portions of assets, liabilities and costs are identified as discontinued operations.
+7933: Balance Sheet Classification
+7934: The table below presents the lease-related assets and liabilities recorded on the balance sheet. This table discloses balances related to both continuing and discontinued operations, and their respective locations on the Consolidated Balance Sheets:
+7935: (In millions)
+7936: December 31,
+7937: Leases
+
+...
+8210: WARRANTIES
+8211: The Company records a liability for warranty obligations at the date the related products are sold. Adjustments are made as new information becomes available. Please refer to Note 1 for information about our separately-priced extended warranty contracts.
+8212: The warranty liability is included in Other liabilities and Other current liabilities on the Consolidated Balance Sheets. A reconciliation of the warranty liability is as follows:
+8213: December 31,
+8214: (In millions)
+8215: 2025
+
+...
+8810: million aggregate principal amount of Owens Corning 2030 notes, which was a non-cash financing transaction for the Company. Interest on the notes is payable semiannually in arrears on February 15 and August 15 each year, beginning on August 15, 2024. Following the settlement of the Exchange Offer, approximately $
+8811: 2
+8812: million of the Masonite 2030 notes that were not exchanged remain outstanding, which has been recorded on the Consolidated Balance Sheets.
+8813: On April 15, 2024, in connection with the acquisition of Masonite, we commenced a tender offer (the “Tender Offer”) to purchase any and all of Masonite's outstanding
+8814: 5.375
+8815: % Senior Notes due 2028 (the “Masonite 2028 notes”) with an aggregate value of $
+
+...
+8825: million premium on tender. Following the settlement of the Tender Offer, approximately $
+8826: 29
+8827: million of the Masonite 2028 notes that were not tendered remain outstanding, which has been recorded on the Consolidated Balance Sheets. Interest on the Masonite 2028 notes is payable semiannually in arrears on February 1 and August 1 each year. On February 1, 2025, the Company issued a par call to repay the remaining portion of its outstanding Masonite 2028 notes for $
+8828: 30
+8829: million inclusive of accrued interest.
+8830: The Company issued $
+
+...
+8857: The remaining proceeds were used to pay down portions of our Receivables Securitization Facility and for general corporate purposes. As of December 31, 2025, the $
+8858: 399
+8859: million outstanding balance related to the 2026 senior notes was recorded in Long-term debt – current portion on the Consolidated Balance Sheets.
+8860: The Company issued $
+8861: 400
+8862: million of 2024 senior notes on November 12, 2014. Interest on the notes is payable semiannually in arrears on June 1 and December 1 each year, beginning on June 1, 2015. A portion of the proceeds from these notes was used to repay $
+
+...
+8928: 13
+8929: days, respectively.
+8930: The CP Notes are reported net of any discount and are included within Short-term debt on the Company's Consolidated Balance Sheets.
+8931: Debt Maturities
+8932: The aggregate maturities for all outstanding long-term debt borrowings for each of the five years following December 31, 2025 and thereafter are presented in the table below. The maturities below are the aggregate par amounts of the outstanding senior notes and finance lease liabilities:
+8933: (In millions)
+
+...
+8970: OWENS CORNING AND SUBSIDIARIES
+8971: NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+8972: The following tables provide a reconciliation of the change in the projected benefit obligation, the change in plan assets and the net amount recognized in the Consolidated Balance Sheets:
+8973: December 31, 2025
+8974: December 31, 2024
+8975: (In millions)
+
+...
+9232: 27
+9233: )
+9234: The following table presents the amount recorded and respective location in the Consolidated Balance sheets:
+9235: December 31, 2025
+9236: December 31, 2024
+9237: (In millions)
+
+...
+9977: OWENS CORNING AND SUBSIDIARIES
+9978: NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+9979: The following table provides a reconciliation of the change in the projected benefit obligation and the net amount recognized in the Consolidated Balance Sheets for the years ended December 31, 2025 and 2024:
+9980: December 31, 2025
+9981: December 31, 2024
+9982: (In millions)
+
+...
+10098: 108
+10099: )
+10100: The following table presents the amount recorded and respective location in the Consolidated Balance sheet:
+10101: December 31, 2025
+10102: December 31, 2024
+10103: U.S.
+
+...
+10410: Litigation and Regulatory Proceedings
+10411: The Company is involved in litigation and regulatory proceedings from time to time in the regular course of its business. The Company believes that adequate provisions for resolution of all contingencies, claims and pending matters have been made for probable losses that are reasonably estimable.
+10412: During the second quarter of 2023, the Company’s subsidiary, Paroc Group OY (“Paroc”), which the Company acquired in 2018, notified the appropriate European maritime regulatory authorities that specific products in its marine insulation product line may not meet certain fire safety requirements in accordance with their certifications. Paroc voluntarily withdrew these specific products from the market, issued recalls, and suspended distribution and sales of these products (the “Recalled Products”). Paroc continues to cooperate with the applicable regulatory and government authorities and work with its customers and end-users to assist with remediation for the recall. The Company has included an estimated liability for expected future costs related to the Recalled Products on its Consolidated Balance Sheets as of December 31, 2025 and December 31, 2024. The estimated liability is primarily based on claims received, as well as assumptions related to the estimated costs of the remedy for the Recalled Products. At this time, we cannot estimate a range of loss for any additional costs related to the Recalled Products that exceed the current estimated liability. We reevaluate these assumptions each period and the related liability may be adjusted when factors indicate that the liability is either not sufficient to cover or exceeds the estimated costs related to the Recalled Products. Based on the factors currently known, we believe the appropriate liability has been established at this time. It is reasonably possible that additional costs related to the Recalled Products could be incurred that exceed the estimated liability by amounts that could be material to our Consolidated Financial Statements.
+10413: Due to these nonconformances, the Company reviewed the Paroc insulation product portfolio. The review has concluded. In addition to addressing the Recalled Products, the Company continues to assess potential nonconformances related to certain ventilation duct and steel beam insulation products. Paroc suspended sales of these affected insulation products as a precautionary measure while it reviews the potential nonconformances, but has not issued recalls. We expect to incur costs associated with the resolution of this matter. The amount or range of any potential loss cannot be reasonably estimated at this time.
+10414: Environmental Matters
+10415: The Company has established policies and procedures designed to ensure that its operations are conducted in compliance with all relevant laws and regulations and that enable the Company to meet its high standards for corporate sustainability and environmental stewardship. Our manufacturing facilities are subject to numerous foreign, federal, state and local laws and regulations relating to the presence of hazardous materials, pollution and protection of the environment, including emissions to air, reductions of greenhouse gases, discharges to water, management of hazardous materials, handling and disposal of solid wastes, use of chemicals in our manufacturing processes and remediation of contaminated sites. All Company manufacturing facilities are either ISO 14001 certified or deploy environmental management systems based on ISO 14001 principles. The Company’s 2030 Sustainability Goals include significant global reductions in energy use, water consumption, waste to landfill, and emissions of greenhouse gases, fine particulate matter, and volatile organic air emissions and protection of biodiversity.
+
+...
+10686: NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+10687: Employee Stock Purchase Plan
+10688: The Owens Corning Employee Stock Purchase Plan (“ESPP”) is a tax-qualified plan under Section 423 of the Internal Revenue Code. The purchase price of shares purchased under the ESPP is equal to
+10689: 85
+10690: % of the lower of the fair market value of shares of Owens Corning common stock at the beginning or ending of the offering period, which is a
+10691: six month
+
+...
+11276: 151
+11277: (a)
+11278: The use of certain of the Company's domestic loss carryforwards is limited pursuant to Internal Revenue Code (IRC) Section 382. IRC Section 382 imposes an annual limitation on a corporation's ability to use loss carryforwards that arose before a change in control. A change in control is generally defined as a cumulative change of more than 50% in the ownership positions of certain stockholders during a rolling three-year period. The Company believes that these limitations will not result in the loss of any of the loss carryforwards.
+11279: (b)
+11280: The foreign net operating losses ("NOLs") are related to various jurisdictions that provide for both indefinite carryforward periods and others with carryforward periods that range from the tax years 2026 to 2036.
+11281: The following is a rollforward of the valuation allowances for deferred taxes:
+
+...
+11327: 127
+11328: million of valuation allowances on deferred tax assets, on a tax-effected basis, primarily related to U.S. federal foreign tax credit carryforwards and certain foreign deferred tax attributes as it is more likely than not that some portion or all of these tax attributes will not be realized.
+11329: We file a consolidated federal income tax return in the United States as well as tax returns in multiple state, local and foreign jurisdictions. In the normal course of business, the Company is subject to examination by the taxing authorities in each of the jurisdictions where we file tax returns. The Company is currently under audit by the U.S. Internal Revenue Service with respect to its federal consolidated income tax return for 2021 and pre-acquisition amended U.S. income tax filings of Masonite International Corporation. We also have on-going audits in various stages of completion in several state and foreign jurisdictions. The Company is no longer subject to U.S. federal tax examinations for years before 2021 or state and foreign examinations for years before 2015.
+11330: A reconciliation of the beginning and ending amounts of unrecognized tax benefits is as follows:
+11331: Twelve Months Ended December 31,
+11332: (In millions)
+
+...
+11728: Owens Corning Clawback Policy (incorporated by reference to Exhibit 97.1 to Owens Corning’s Annual Report on Form 10-K (File No. 1-33100), for the year ended December 31, 2023).
+11729: 101
+11730: The following materials from the Annual Report on Form 10-K for Owens Corning for the period ended December 31, 2025, formatted in iXBRL (Inline Extensible Business Reporting Language): (i) Consolidated Statements of (Loss) Earnings; (ii) Consolidated Statements of Comprehensive (Loss) Earnings; (iii) Consolidated Balance Sheets; (iv) Consolidated Statements of Stockholders' Equity, (v) Consolidated Statements of Cash Flows; (vi) related notes to these financial statements; and (vii) document and entity information.
+11731: 104
+11732: The cover page from this Annual Report on Form 10-K, formatted as Inline XBRL
+11733: +
+
+...
+11735: *
+11736: Denotes management contract or compensatory plan or arrangement required to be filed as an exhibit pursuant to Form 10-K.
+11737: Owens Corning agrees to furnish to the U.S. Securities and Exchange Commission, upon request, copies of all instruments defining the rights of holders of long-term debt of Owens Corning where the total amount of securities authorized under each issue does not exceed 10% of the total assets of Owens Corning and its subsidiaries on a consolidated basis.
+11738: ITEM 16.
+11739: FORM 10-K SUMMARY
+11740: None.

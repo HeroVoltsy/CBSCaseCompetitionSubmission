@@ -1,0 +1,534 @@
+{
+  "id": "BYG43",
+  "text": "Construction cost index for residential buildings",
+  "description": "Construction cost index for residential buildings by main index, sub index, kind, unit and time",
+  "unit": "-",
+  "suppressedDataValue": "0",
+  "updated": "2026-09-08T08:00:00",
+  "active": true,
+  "contacts": [
+    {
+      "name": "Peter Fink-Jensen",
+      "phone": "+4521347692",
+      "mail": "pfj@dst.dk"
+    }
+  ],
+  "documentation": {
+    "id": "8ea7268e-73ec-43d2-a0c8-d7e74bd1b897",
+    "url": "https://www.dst.dk/documentationofstatistics/8ea7268e-73ec-43d2-a0c8-d7e74bd1b897"
+  },
+  "footnote": {
+    "text": "With the publication of 1st quarter of 2024 the base year was changed to 2021 = 100 and the weight basis was updated. Quarterly and yearly development rates are the same as before the rescaling. However, there may be minor differences in a magnitude of +/- 0.1 percentage points compared to previous listings. \r\n \r\n For older data: [BYG42](https://www.statbank.dk/BYG42)",
+    "mandatory": false
+  },
+  "variables": [
+    {
+      "id": "HINDEKS",
+      "text": "main index",
+      "elimination": false,
+      "time": false,
+      "values": [
+        {
+          "id": "01",
+          "text": "Construction Cost Index for residential buildings"
+        },
+        {
+          "id": "02",
+          "text": "Construction Cost index for one-family houses"
+        },
+        {
+          "id": "03",
+          "text": "Construction Cost Index for multi-family houses"
+        }
+      ]
+    },
+    {
+      "id": "DINDEKS",
+      "text": "sub index",
+      "elimination": true,
+      "time": false,
+      "values": [
+        {
+          "id": "10000",
+          "text": "Construction Cost Index, total"
+        },
+        {
+          "id": "10010",
+          "text": "Earth and concrete work"
+        },
+        {
+          "id": "10020",
+          "text": "Concrete slab work"
+        },
+        {
+          "id": "10030",
+          "text": "Bricklaying"
+        },
+        {
+          "id": "10045",
+          "text": "Carpentry and joinery (2015- )"
+        },
+        {
+          "id": "10060",
+          "text": "Painting"
+        },
+        {
+          "id": "10070",
+          "text": "Heating and sanitary engineering"
+        },
+        {
+          "id": "10080",
+          "text": "Electrical work"
+        },
+        {
+          "id": "10090",
+          "text": "Subgrade"
+        },
+        {
+          "id": "10100",
+          "text": "Raw buildings"
+        },
+        {
+          "id": "10110",
+          "text": "Completion of buildings"
+        },
+        {
+          "id": "10115",
+          "text": "Surfaces (2015- )"
+        },
+        {
+          "id": "10120",
+          "text": "Heating and sanitary installations"
+        },
+        {
+          "id": "10130",
+          "text": "Electrical and mechanical installations"
+        }
+      ]
+    },
+    {
+      "id": "ART",
+      "text": "kind",
+      "elimination": true,
+      "time": false,
+      "values": [
+        {
+          "id": "1002",
+          "text": "Total"
+        },
+        {
+          "id": "1004",
+          "text": "Cost of materials"
+        },
+        {
+          "id": "1006",
+          "text": "Total labour costs"
+        }
+      ]
+    },
+    {
+      "id": "TAL",
+      "text": "unit",
+      "elimination": false,
+      "time": false,
+      "values": [
+        {
+          "id": "100",
+          "text": "Index"
+        },
+        {
+          "id": "210",
+          "text": "Percentage change compared to previous quarter"
+        },
+        {
+          "id": "310",
+          "text": "Percentage change compared to same quarter the year before"
+        }
+      ]
+    },
+    {
+      "id": "Tid",
+      "text": "time",
+      "elimination": false,
+      "time": true,
+      "values": [
+        {
+          "id": "2003K1",
+          "text": "2003Q1"
+        },
+        {
+          "id": "2003K2",
+          "text": "2003Q2"
+        },
+        {
+          "id": "2003K3",
+          "text": "2003Q3"
+        },
+        {
+          "id": "2003K4",
+          "text": "2003Q4"
+        },
+        {
+          "id": "2004K1",
+          "text": "2004Q1"
+        },
+        {
+          "id": "2004K2",
+          "text": "2004Q2"
+        },
+        {
+          "id": "2004K3",
+          "text": "2004Q3"
+        },
+        {
+          "id": "2004K4",
+          "text": "2004Q4"
+        },
+        {
+          "id": "2005K1",
+          "text": "2005Q1"
+        },
+        {
+          "id": "2005K2",
+          "text": "2005Q2"
+        },
+        {
+          "id": "2005K3",
+          "text": "2005Q3"
+        },
+        {
+          "id": "2005K4",
+          "text": "2005Q4"
+        },
+        {
+          "id": "2006K1",
+          "text": "2006Q1"
+        },
+        {
+          "id": "2006K2",
+          "text": "2006Q2"
+        },
+        {
+          "id": "2006K3",
+          "text": "2006Q3"
+        },
+        {
+          "id": "2006K4",
+          "text": "2006Q4"
+        },
+        {
+          "id": "2007K1",
+          "text": "2007Q1"
+        },
+        {
+          "id": "2007K2",
+          "text": "2007Q2"
+        },
+        {
+          "id": "2007K3",
+          "text": "2007Q3"
+        },
+        {
+          "id": "2007K4",
+          "text": "2007Q4"
+        },
+        {
+          "id": "2008K1",
+          "text": "2008Q1"
+        },
+        {
+          "id": "2008K2",
+          "text": "2008Q2"
+        },
+        {
+          "id": "2008K3",
+          "text": "2008Q3"
+        },
+        {
+          "id": "2008K4",
+          "text": "2008Q4"
+        },
+        {
+          "id": "2009K1",
+          "text": "2009Q1"
+        },
+        {
+          "id": "2009K2",
+          "text": "2009Q2"
+        },
+        {
+          "id": "2009K3",
+          "text": "2009Q3"
+        },
+        {
+          "id": "2009K4",
+          "text": "2009Q4"
+        },
+        {
+          "id": "2010K1",
+          "text": "2010Q1"
+        },
+        {
+          "id": "2010K2",
+          "text": "2010Q2"
+        },
+        {
+          "id": "2010K3",
+          "text": "2010Q3"
+        },
+        {
+          "id": "2010K4",
+          "text": "2010Q4"
+        },
+        {
+          "id": "2011K1",
+          "text": "2011Q1"
+        },
+        {
+          "id": "2011K2",
+          "text": "2011Q2"
+        },
+        {
+          "id": "2011K3",
+          "text": "2011Q3"
+        },
+        {
+          "id": "2011K4",
+          "text": "2011Q4"
+        },
+        {
+          "id": "2012K1",
+          "text": "2012Q1"
+        },
+        {
+          "id": "2012K2",
+          "text": "2012Q2"
+        },
+        {
+          "id": "2012K3",
+          "text": "2012Q3"
+        },
+        {
+          "id": "2012K4",
+          "text": "2012Q4"
+        },
+        {
+          "id": "2013K1",
+          "text": "2013Q1"
+        },
+        {
+          "id": "2013K2",
+          "text": "2013Q2"
+        },
+        {
+          "id": "2013K3",
+          "text": "2013Q3"
+        },
+        {
+          "id": "2013K4",
+          "text": "2013Q4"
+        },
+        {
+          "id": "2014K1",
+          "text": "2014Q1"
+        },
+        {
+          "id": "2014K2",
+          "text": "2014Q2"
+        },
+        {
+          "id": "2014K3",
+          "text": "2014Q3"
+        },
+        {
+          "id": "2014K4",
+          "text": "2014Q4"
+        },
+        {
+          "id": "2015K1",
+          "text": "2015Q1"
+        },
+        {
+          "id": "2015K2",
+          "text": "2015Q2"
+        },
+        {
+          "id": "2015K3",
+          "text": "2015Q3"
+        },
+        {
+          "id": "2015K4",
+          "text": "2015Q4"
+        },
+        {
+          "id": "2016K1",
+          "text": "2016Q1"
+        },
+        {
+          "id": "2016K2",
+          "text": "2016Q2"
+        },
+        {
+          "id": "2016K3",
+          "text": "2016Q3"
+        },
+        {
+          "id": "2016K4",
+          "text": "2016Q4"
+        },
+        {
+          "id": "2017K1",
+          "text": "2017Q1"
+        },
+        {
+          "id": "2017K2",
+          "text": "2017Q2"
+        },
+        {
+          "id": "2017K3",
+          "text": "2017Q3"
+        },
+        {
+          "id": "2017K4",
+          "text": "2017Q4"
+        },
+        {
+          "id": "2018K1",
+          "text": "2018Q1"
+        },
+        {
+          "id": "2018K2",
+          "text": "2018Q2"
+        },
+        {
+          "id": "2018K3",
+          "text": "2018Q3"
+        },
+        {
+          "id": "2018K4",
+          "text": "2018Q4"
+        },
+        {
+          "id": "2019K1",
+          "text": "2019Q1"
+        },
+        {
+          "id": "2019K2",
+          "text": "2019Q2"
+        },
+        {
+          "id": "2019K3",
+          "text": "2019Q3"
+        },
+        {
+          "id": "2019K4",
+          "text": "2019Q4"
+        },
+        {
+          "id": "2020K1",
+          "text": "2020Q1"
+        },
+        {
+          "id": "2020K2",
+          "text": "2020Q2"
+        },
+        {
+          "id": "2020K3",
+          "text": "2020Q3"
+        },
+        {
+          "id": "2020K4",
+          "text": "2020Q4"
+        },
+        {
+          "id": "2021K1",
+          "text": "2021Q1"
+        },
+        {
+          "id": "2021K2",
+          "text": "2021Q2"
+        },
+        {
+          "id": "2021K3",
+          "text": "2021Q3"
+        },
+        {
+          "id": "2021K4",
+          "text": "2021Q4"
+        },
+        {
+          "id": "2022K1",
+          "text": "2022Q1"
+        },
+        {
+          "id": "2022K2",
+          "text": "2022Q2"
+        },
+        {
+          "id": "2022K3",
+          "text": "2022Q3"
+        },
+        {
+          "id": "2022K4",
+          "text": "2022Q4"
+        },
+        {
+          "id": "2023K1",
+          "text": "2023Q1"
+        },
+        {
+          "id": "2023K2",
+          "text": "2023Q2"
+        },
+        {
+          "id": "2023K3",
+          "text": "2023Q3"
+        },
+        {
+          "id": "2023K4",
+          "text": "2023Q4"
+        },
+        {
+          "id": "2024K1",
+          "text": "2024Q1"
+        },
+        {
+          "id": "2024K2",
+          "text": "2024Q2"
+        },
+        {
+          "id": "2024K3",
+          "text": "2024Q3"
+        },
+        {
+          "id": "2024K4",
+          "text": "2024Q4"
+        },
+        {
+          "id": "2025K1",
+          "text": "2025Q1"
+        },
+        {
+          "id": "2025K2",
+          "text": "2025Q2"
+        },
+        {
+          "id": "2025K3",
+          "text": "2025Q3"
+        },
+        {
+          "id": "2025K4",
+          "text": "2025Q4"
+        },
+        {
+          "id": "2026K1",
+          "text": "2026Q1"
+        },
+        {
+          "id": "2026K2",
+          "text": "2026Q2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Wald_Statistic,DF,P_Value,Null_Hypothesis,Model
+5.64925637306234,3,0.12997903098265035,All group coefficients are equal,Ridge
+4.761177213133182,3,0.1901438039577234,All group coefficients are equal,ExtraTrees

@@ -1,0 +1,7 @@
+dataset,rows,columns,missing_values,duplicate_rows,unique_periods
+bygv01,56144,5,0,0,44
+bygv11,105908,6,0,0,83
+bygb34,51968,6,0,0,16
+bygb40,129920,7,0,0,16
+byg43,35532,6,3384,0,94
+pris91,168,4,7,0,12

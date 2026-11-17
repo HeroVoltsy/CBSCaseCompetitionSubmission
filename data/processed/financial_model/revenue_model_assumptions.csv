@@ -1,0 +1,9 @@
+Parameter,Value,Unit,Classification
+2026 baseline revenue,60.0,EUR million,Case-provided
+2030 revenue target,72.0,EUR million,Case-provided
+Annual initiative budget,0.135,EUR million,Case-provided
+Contribution margin,0.25,Ratio,Case assumption
+Normalized opportunity pool,120.0,EUR million,Calibrated assumption
+Specification capture,0.8,Ratio,Hypothetical
+Specification retention,0.8,Ratio,Hypothetical
+Purchase conversion,0.78125,Ratio,Hypothetical

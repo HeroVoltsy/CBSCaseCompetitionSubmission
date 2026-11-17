@@ -1,0 +1,134 @@
+{
+  "id": "PRIS91",
+  "text": "Producer price index for renovation and maintenance",
+  "description": "Producer price index for renovation and maintenance by type of work, unit and time",
+  "unit": "-",
+  "suppressedDataValue": "0",
+  "updated": "2026-04-08T08:00:00",
+  "active": true,
+  "contacts": [
+    {
+      "name": "Peter Fink-Jensen",
+      "phone": "+4521347692",
+      "mail": "pfj@dst.dk"
+    }
+  ],
+  "documentation": {
+    "id": "fd05a3bb-7a17-40c5-b71f-8533d6ccf145",
+    "url": "https://www.dst.dk/documentationofstatistics/fd05a3bb-7a17-40c5-b71f-8533d6ccf145"
+  },
+  "footnote": {
+    "text": "[Read more about indexation.](https://www.dst.dk/en/informationsservice/oss/indeksregulering)",
+    "mandatory": false
+  },
+  "variables": [
+    {
+      "id": "ARBART",
+      "text": "type of work",
+      "elimination": false,
+      "time": false,
+      "values": [
+        {
+          "id": "500",
+          "text": "Renovation and maintenance, total"
+        },
+        {
+          "id": "510",
+          "text": "Electrical installation"
+        },
+        {
+          "id": "520",
+          "text": "Plumbing, heat and air-conditioning installation"
+        },
+        {
+          "id": "530",
+          "text": "Carpentry"
+        },
+        {
+          "id": "540",
+          "text": "Building completion"
+        },
+        {
+          "id": "550",
+          "text": "Roofing"
+        },
+        {
+          "id": "560",
+          "text": "Bricklaying"
+        }
+      ]
+    },
+    {
+      "id": "TAL",
+      "text": "unit",
+      "elimination": false,
+      "time": false,
+      "values": [
+        {
+          "id": "100",
+          "text": "Index"
+        },
+        {
+          "id": "315",
+          "text": "Percentage change compared to previous year"
+        }
+      ]
+    },
+    {
+      "id": "Tid",
+      "text": "time",
+      "elimination": false,
+      "time": true,
+      "values": [
+        {
+          "id": "2014",
+          "text": "2014"
+        },
+        {
+          "id": "2015",
+          "text": "2015"
+        },
+        {
+          "id": "2016",
+          "text": "2016"
+        },
+        {
+          "id": "2017",
+          "text": "2017"
+        },
+        {
+          "id": "2018",
+          "text": "2018"
+        },
+        {
+          "id": "2019",
+          "text": "2019"
+        },
+        {
+          "id": "2020",
+          "text": "2020"
+        },
+        {
+          "id": "2021",
+          "text": "2021"
+        },
+        {
+          "id": "2022",
+          "text": "2022"
+        },
+        {
+          "id": "2023",
+          "text": "2023"
+        },
+        {
+          "id": "2024",
+          "text": "2024"
+        },
+        {
+          "id": "2025",
+          "text": "2025"
+        }
+      ]
+    }
+  ]
+}

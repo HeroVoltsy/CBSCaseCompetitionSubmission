@@ -1,0 +1,1350 @@
+
+...
+8: CONTENTS                                                                        SUMMARY
+9:                                                                                 FINANCIALS
+10: INSULATED BUILDING ENVELOPES                                               1       Revenue
+11: ADVNSYS                                                                    8
+12: OUR IMPACT
+13: OUR GLOBAL REACH
+
+...
+20: Chairman’s Statement                                                      18
+21: Our Business Model & Strategy                                             22
+22: Chief Executive’s Review                                                  30       EBITDA1
+23: Financial Review                                                          38
+24: Risk & Risk Management
+25: Leading with Passion
+
+...
+89:                                                                                 1. Earnings before finance costs, income taxes,
+90: This copy of the statutory annual report of Kingspan Group plc for the             depreciation and amortisation.
+91: year ended 31 December 2025 is not presented in the ESEF-format as              2. Operating profit before amortisation of intangibles.
+92: specified in the Regulatory Technical Standards on ESEF (Delegated              3. Trading profit divided by total revenue.
+93: Regulation (EU) 2019/815). The ESEF annual report is available at:              4. On a constant currency basis.
+94: https://www.kingspan.com/group/investors/reports-presentations                  5. Excluding acquisitions.
+95: 
+
+...
+508:                                                                                                                                   markets
+509: In addition to the wider industry                              product innovations. This strategy has
+510: activity, growth is fuelled by                                 delivered a 13.6%1 EBITDA CAGR in the
+511: increased product penetration,                                 last decade and positions the Group
+512: geographic expansion and new                                   ideally for future growth.
+513: 
+
+...
+528: 
+529: 
+530:   Revenue                                                  EBITDA                                               Trading Profit
+531:   multiplied by 3.1x1                                      multiplied by 3.6x1                                  multiplied by 3.5x1
+532: 
+533:   12.0% CAGR                                   1
+
+...
+561: 
+562: 
+563: Revenue (€m)                    EBITDA (€m)               Trading profit (€m)                                                1. Based on the period 2015 - 2025.
+564: 
+565: 
+566: 
+
+...
+699:      our global presence with all            throughout every phase           customer requirements, with
+700:      key stakeholders including              of our customers’ projects       multiple solutions / brands,
+701:      hyperscalers, colocators,               including design assistance,     supports stronger revenue
+702:      and engineers to serve                  post-project maintenance,        generation per data centre
+703:      them globally. Dedicated                or anything in between.          and commercial building.
+704:      design and commercial
+
+...
+725: expansion and increased wallet share
+726: underpins our ambition to double
+727: EBITDA from 2026 levels by 2030/31.                                            five year EBITDA target
+728:                                                                                performance
+729: 
+730: 
+731: 
+732:    Revenue                                              EBITDA
+733:    multiplied by 4.8x1                                  multiplied by 5.8x1                                     €707m
+734:    16.9% CAGR                                 1
+735:                                                         19.1% CAGR                                 1            total acquisition
+
+...
+768: 
+769: 
+770: Revenue (€m)                  EBITDA (€m)                     Trading Profit (€m)
+771: 
+772: 
+773: 
+
+...
+928:      Brazil and Vietnam. Our investments            with additional expansion planned.
+929:      will provide incremental capacity          »   2025, c.400k sq ft facility in
+930:      equivalent to c.$1bn of revenue when           Pocahontas, Arkansas. Expect
+931:      at full capacity.                              maximum potential to be reached
+932:                                                     in Q1 2026.
+933:      Proven, agile and scalable
+
+...
+943: 
+944:         50%                                2years                                10x
+945:         Less capital intensive             Faster to market                      Revenue potential versus
+946:                                                                                  total investment
+947: 
+948: 
+949: 
+950:      Our investments will provide
+951:      incremental revenue potential of
+952:      c.$1bn at full capacity.
+953: 
+954: 
+
+...
+1136: STATEMENT                                          uncertainty. Despite these challenges,
+1137:                                                    Kingspan delivered another record
+1138:                                                    performance, with revenue of €9.2bn
+1139: JOST MASSENBERG                                    (2024: €8.6bn), trading profit of €955m
+1140:                                                    (2024: €907m), and earnings per share
+1141:                                                    of 370.0 cent (2024: 365.2 cent). We
+
+...
+1560: 
+1561:      2025 IN A NUTSHELL
+1562:          Revenue                                                    How we create value
+1563: 
+1564: 
+1565:          €9.2bn
+
+...
+1650: Summary numbers                                                                  Products                      Insulated
+1651:                                                                                                                Building
+1652:    EBITDA3                                                                                                     Envelopes
+1653: 
+1654:                                                                                                                82%
+1655:    €1,220.3m
+
+...
+1684: 
+1685: 
+1686: 1. 	 Operating profit before amortisation of intangibles.
+1687:                                                                                                    29%
+1688: 2. 	On a constant currency basis.
+1689: 3. Earnings before finance costs, income taxes, depreciation and amortisation.
+
+...
+1697: 
+1698:          7%
+1699:          Revenue up 7%
+1700:                                          5%
+1701:                                          Trading profit  1
+1702:                                                                          8%
+
+...
+1726: 
+1727:          23.5% 16.0% €1,884m
+1728:          Scope 1 and 2 GHG                Effective tax rate of 16.0%    Year end net debt2 of €1,883.6m
+1729:          emissions reduction              (2024: 17.0%).                 (2024: €1,573.0m). Net debt to
+1730:          from 2024 to 2025.                                              EBITDA3 of 1.65x (2024: 1.47x).
+1731: 
+1732: 
+1733: 
+1734: 
+1735:      1. Operating profit before amortisation of intangibles.
+1736:      2. Net debt pre-IFRS 16 per banking covenants.
+1737:      3. Net debt to EBITDA ratio is pre-IFRS 16 per banking covenants.
+1738: 
+1739: 
+1740: 
+
+...
+1765:                                                         results, these will form cornerstones of future growth
+1766: »   Sales in Insulated Building Envelopes               across both the Insulated Building Envelopes and
+1767:     increased by 6% (mainly acquisitions)               Advnsys segments. In the year itself revenue reached
+1768:     with understandably slower sales                    a record €9.2bn (2024: €8.6bn), and trading profit
+1769:     in the US, strong LATAM and                         hit €955m (2024: €907m), also a record. Like-for-like
+1770:     APAC performances and solid                         trading margin was 10.7% (reported 10.4%).
+1771:     European activity overall. Global
+1772:     insulated panel backlog volume ahead                By segment, revenue at Insulated Building Envelopes
+1773:     by 8% at year end as is order intake in             was ahead by 6%, and up by a strong 12% at Advnsys.
+1774:     2026 year to date.                                  Encouragingly for the year ahead, the order backlog
+1775:                                                         in value at Insulated Building Envelopes was up overall
+
+...
+1942:      North American building envelope market. Other
+1943:      complementary facilities are also underway with             development of hot aisle
+1944:      combined revenue potential of over $500m over the
+1945:      next number of years.
+1946:                                                                  containment (HAC) modules.”
+1947:      Similarly in Advnsys, the execution of the bolt-on             Within Insulated Building Envelopes, production of
+
+...
+1954:      approach we have successfully adopted in Virginia              as part of our roofing proposition in the US. This will
+1955:      and Arkansas will be complemented by a plant in                be a unique offering in the market. QuadCore® now
+1956:      Kentucky which will be larger than both of those               accounts for 27% of global insulated panel revenue. We
+1957:      combined. This will begin production in the second             are about to launch a low carbon insulated panel with
+1958:      half of 2026 and, when at maximum output, will                 LEC steel incorporating Steico® wood fibre as the low
+1959:      have annual revenue potential of approximately                 carbon core.
+1960:      $600m to support the data sector.
+1961:                                                                     In Advnsys, a key development priority is the
+1962:                                                                     incorporation of liquid cooling technology into the
+
+...
+2136: 
+2137:                          Overview of result
+2138:                          Group revenue increased by 7% to €9.2bn (2024: €8.6bn) and trading profit increased
+2139:                          by 5% to €955.1m (2024: €906.7m) with a decrease of 10 basis points in the
+2140:                          Group’s trading profit margin to 10.4% (2024: 10.5%). Basic EPS for the year
+2141:                          was 370.0 cent (2024: 365.2 cent), representing an increase of 1.3%.
+
+...
+2196:      The Board has proposed a final dividend of 29.2 cent            Return on capital employed                 14.1%*       14.4%
+2197:      (2024: 28.5 cent) per ordinary share payable on 20
+2198:      May 2026 to shareholders registered on the record               Net debt/EBITDA                               1.65x      1.47x
+2199:      date of 10 April 2026. An interim dividend of 26.3             *14.3% (2024: 15.1%) annualised for acquisitions
+2200:      cent per ordinary share was declared during the year
+2201:      (2024: 26.3 cent). In summary, the total dividend for          (a) Basic EPS growth. The growth in EPS is
+
+...
+2230: 40   Kingspan Group plc Annual Report & Financial Statements 2025
+2231: 
+2232: The Insulated Building Envelopes trading margin                      (f) Net debt to EBITDA measures the ratio of
+2233: decreased year on year reflecting the geographic                     net debt to earnings and at 1.65x (2024: 1.47x) is
+2234: market, the category mix of sales and the initial                    comfortably less than the Group’s banking covenant
+2235: dilutive impact of acquisitions. The increased trading               of 3.5x in both 2025 and 2024. The calculation is
+2236: margin in Advnsys reflects strong volume growth and                  pre-IFRS 16 in accordance with the Group’s banking
+
+...
+2246:                                                                      Climate related disclosures are required under the
+2247:                                                 €m            €m     EU Taxonomy Regulation (Sustainable finance
+2248:  EBITDA¹                                   1,220.3        1,140.3    taxonomy - Regulation (EU) 2020/852) and by the
+2249:                                                                      Corporate Sustainability Reporting Regulations, 2024.
+2250:  Lease payments                              (77.9)        (68.7)
+2251:                                                                      These disclosures are included in the 2025 CSRD
+2252:  Movement in working capital²               (151.0)           10.0   Sustainability Statement within this report.
+2253:  Movement in provisions                      (32.7)        (26.3)
+2254:  Net capital expenditure3                  (325.8)       (333.8)     Capital structure and Group financing
+2255:                                                                      The Group funds itself through a combination
+2256:  Net finance costs paid                      (56.1)         (41.1)
+2257:                                                                      of equity and debt. Debt is funded through a
+
+...
+2297: Financial Review Business & Strategic Report                                                                                     41
+2298: 
+2299:      Net debt
+2300:      Net debt increased by €310.6m during 2025 to €1,883.6m (2024: €1,573.0m). This is analysed in the table below:
+2301: 
+2302:          Movement in net debt                                                             2025                    2024
+2303:                                                                                            €m                      €m
+2304:          Free cashflow                                                                   429.3                   509.4
+2305:          Acquisitions and divestments                                                  (222.0)               (775.3)
+
+...
+2314:          Cashflow movement                                                             (267.9)               (610.8)
+2315:          Exchange movements on translation                                              (42.7)                     17.3
+2316:          Movement in net debt                                                          (310.6)              (593.5)
+2317:          Net debt at start of year                                                   (1,573.0)              (979.5)
+2318:          Net debt at end of year                                                     (1,883.6)             (1,573.0)
+2319: 
+2320: 
+2321:      Key financial covenants
+
+...
+2323:      lenders’ facility agreements which exclude the impact of IFRS 16:
+2324: 
+2325:      »     A maximum net debt to EBITDA ratio of 3.5 times; and
+2326:      »     A minimum EBITDA to net interest coverage of 4 times.
+2327:      The performance against these covenants in the current and comparative year is set out below:
+2328: 
+2329:                                                                                         2025                     2024
+2330:                                                        Covenant                        Times                     Times
+2331:          Net debt/EBITDA                               Maximum 3.5                       1.65                     1.47
+2332:          EBITDA/Net interest                           Minimum 4.0                       19.0                     24.7
+2333: 
+2334: 
+2335: 
+
+...
+4592:      Kingspan despite mixed end-markets and geopolitical            2023 Performance Share Plan (PSP) awards against
+4593:      uncertainty in several core geographies. Group                 overall business performance and investor returns
+4594:      revenues rose to €9.2bn (up 7%), trading profit                during the three-year performance period from
+4595:      was €955m (up 5%) and Earnings Per Share (EPS)                 2023 to 2025. We were satisfied that the formulaic
+4596:      increased to 370 cent (up 1%). Performance was                 outcomes appropriately reflect Group performance
+4597:      driven by disciplined execution against our strategic          and individual contribution, particularly noting the
+
+...
+6084:                                                                and kept the committee appraised of any changes.
+6085: »   Regularly reviewing updates from management                The committee concurred with the key audit matter
+6086:     and the external auditor on the Group’s CSRD               identified by the external auditor which is revenue
+6087:     compliance;                                                recognition.
+6088: »   Oversight of the Double Materiality Assessment             During the year, the committee met with the external
+6089:     (DMA) process to identify the key sustainability           auditor without management being present. This
+
+...
+6779:           37301 Compliance Management Systems targets;               cash flows for a period of not less than 12 months
+6780:                                                                      from the date of this Annual Report, and considered
+6781:       »   auditing compliance with the Group Marketing               its net debt position and capital commitments,
+6782:           Integrity Manual; and                                      available committed banking facilities and other
+6783:                                                                      relevant information including the economic conditions
+6784:       »   monitoring the culture of compliance across the
+
+...
+7323: sensitive nature. Specifically, this omission pertains     reliability. Management develops its estimates using
+7324: to details on future financial resources allocated         historical experience, insights from internal experts,
+7325: to the action plan, including capital expenditures         independent advice, external data sources and other
+7326: (capex) and operating expenses (opex). The Group           information deemed reasonable under the given
+7327: has allocated significant operational and capital          circumstances. For each data point, we clearly indicate
+7328: resources to execute its sustainability action plan        where an estimate has been applied. Where prior year
+
+...
+7623: headcount of countries with greater than 10% of              incorporated into our decision-making process,
+7624: the total headcount are reported in section S1-6 of          especially within the context of our due diligence and
+7625: the Statement. For total revenue breakdown by the            DMA, as detailed in section IRO-1 of this Statement.
+7626: Group’s operating segments please refer to Note 2 of
+7627: the Financial Statements.                                    The feedback and insights gained from these
+7628:                                                              engagements play a key role in shaping our business
+
+...
+8242: contribution requirements set out in Annex I.             from Activity CCM 3.5 – Manufacture of energy
+8243: This included evaluating product performance,             efficiency equipment for buildings and from a
+8244: energy efficiency thresholds and alignment with           reporting basis is consistent with the Group’s revenue
+8245: regulatory standards that contribute to climate           recognition policy outlined in Note 1 to the financial
+8246: change mitigation. This assessment was carried out        statements. The denominator reflects total Group
+8247: with reference to the Commission Delegated Act            revenue. The numerator represents the total eligible
+8248: (EU) 2026/73, which introduced clarifications on          and aligned revenue activities derived from the sale of
+8249: the scope, materiality thresholds and application         energy efficient building envelope solutions.
+8250: 
+8251: 
+
+...
+8279:       opex numerator includes expenditure within the above           is committed to developing a process to identify and
+8280:       defined boundary that supports eligible and/or aligned         monitor material pollution-related impacts, risks and
+8281:       revenue under Activity CCM 3.5 – Manufacture of                opportunities within its operations.
+8282:       energy efficiency equipment for buildings.
+8283:                                                                      Kingspan’s manufacturing activities do not use or
+8284:                                                                      produce any substances listed in the regulation
+
+...
+8793:       The Group strives to be the market leader with                 The Group continuously monitors the GHG emissions
+8794:       the most advanced solutions. We target to invest               performance of key suppliers throughout the year.
+8795:       approximately 1% of revenue annually in R&D and                To improve access to supplier and product-specific
+8796:       digital transformation which gives us significant scale        emissions data and support the development of
+8797:       in innovation versus our peers. The Group’s innovation         product decarbonisation roadmaps, the Group
+8798:       efforts has led to breakthrough products such as               maintains active engagement with suppliers. This
+
+...
+8815:       invest in R&D to create technologies which combat              following highlights illustrate our ability to adapt and
+8816:       climate change and we expect innovation to                     maintain our resilience:
+8817:       increment revenue in the future.
+8818: 
+8819: 
+8820: 
+
+...
+9261: Our Article 8 disclosures, outlined in the EU Taxonomy     to the EU Taxonomy section of this report. To learn
+9262: section of this report, detail the proportion of our       more about the Green Finance Framework, please see
+9263: revenues, capex, and opex currently eligible and           the Green Finance Framework document.
+9264: aligned with the EU Taxonomy. These disclosures
+9265: cover activity 3.5 Manufacturing of Energy Efficiency      The Group did not invest capex amounts in coal, oil
+9266: Equipment for Buildings.                                   and gas-related economic activities (these activities
+
+...
+9291: criteria to evolve through continued investment in         energy generation. Via the CCS, we highlight that our
+9292: innovative, low-carbon solutions and the expansion of      commitment is aligned with the Paris Agreement.
+9293: Taxonomy aligned revenues, capex, and opex.                Also, while setting the policy, we considered the
+9294: 
+9295: 
+9296: 
+
+...
+9350: 
+9351:        Metric                                                                                                                  2024          2025
+9352:        Energy intensity (MWh / €m of net revenue)                1
+9353:                                                                                                                                 295           287
+9354:        Net revenue from activities in high climate impact sectors2 used to calculate energy                                   8,608          9,199
+9355:        intensity (€m)
+9356:        Net revenue - other (€m)                                                                                                  -              -
+9357:        Total net revenue per financial statements (€m)                                                                        8,608          9,199
+9358:       1. Includes restated figures for more information see Appendix 7.
+9359:       2. High climate impact sectors refer to those listed under NACE Sections A to H and Section L, as defined in Commission Delegated Regulation
+9360:          (EU) 2022/1288. As all our operations fall within these sectors, it is assumed that the entirety of our revenue is captured under the relevant
+9361:          appendices.
+9362: 
+9363: 
+
+...
+9433: 
+9434:       					
+9435:        GHG Intensity per net revenue (tCO2e / €m of net revenue)                                                               2024           2025
+9436:        Total GHG emissions (location-based) per net revenue                     1
+9437:                                                                                                                                 849            839
+9438:        Total GHG emissions (market-based) per net revenue                   1
+9439:                                                                                                                                 836            822
+9440:       					
+9441:       1. Includes restated figures for more information see Appendix 7.
+9442:       Note: See page 260 in the financial statements section for the revenue amount used in the calculation of the energy intensity metric.
+9443: 
+9444: 
+9445: 
+
+...
+9721:                                                          for these products can lead to
+9722:        Other (market)
+9723:                                                          increased revenues.
+9724: 
+9725: 
+9726: 
+
+...
+9744: severe in the coming decades, we anticipate an          most efficient nor the most strategically relevant
+9745: increased demand for these products can lead to         option. Instead, we are focusing our attention and
+9746: increased revenues.                                     resources on sites as needed, helping to address any
+9747:                                                         water-related challenges. As outlined in the WS of our
+9748: E3-1 – Policies                                         Environmental Policy, priority sites will be identified
+9749: The Group has developed a dedicated Water Section       by using relevant criteria such as exposure to water
+
+...
+9909:  Other (market)
+9910:                       or renewable      products, resulting in
+9911:                       content           reduced revenues.           Innovation:
+9912:                                                                     Decarbonisation of our product portfolio is
+9913:                                                                     a key focus area for innovation. We aim to
+9914:                                                                     achieve this through two main strategies:
+
+...
+9933:                            end-of-life       products, resulting in      through partnerships and the deployment of
+9934:        Other (market)
+9935:                            recycling or      reduced revenue.            recycling facilities and product takebacks, such
+9936:                            reuse options                                 as Winterswijk’s glycolysis plant, Derbigum’s
+9937:                                                                          No Roof to Waste Scheme, Joris Ide NextCircle
+9938:                                                                          and Tate Reuse Panel in line with our targets to
+
+...
+9947:                            recycled and/     content, resulting in
+9948:        Other (market)                                                    Innovation:
+9949:                            or renewable      increased revenue.
+9950:                            content                                       Decarbonisation of our product portfolio is
+9951:                                                                          a key focus area for innovation. We aim to
+9952:                                                                          achieve this through two main strategies:
+
+...
+12143:                                                                                       of crystalline silica dust.
+12144:        Product         Percentage of products that qualify for          -             The Group does not separately         EM-
+12145:        Innovation      credits in sustainable building design and                     track revenue from products           CM-
+12146:                        construction certifications                                    qualifying for credits in sustainable 410a.1
+12147:                                                                                       building certification schemes. For
+12148:                                                                                       related information, please refer
+12149:                                                                                       to the EU Taxonomy disclosure,
+12150:                                                                                       which reports 57% of revenue as
+12151:                                                                                       Taxonomy-eligible for the reporting
+12152:                                                                                       period.
+12153:        Pricing         Total addressable market and share of            -             A 2025 report from Grand View           EM-
+
+...
+12252:        ESRS E3-4 Total water            29             X                                            Not          -
+12253:        consumption in m3 per net                                                                    material
+12254:        revenue on own operations
+12255:        ESRS 2- SBM 3 - E4               16 (a) i       X                                            SUS          144
+12256:        ESRS 2- SBM 3 - E4               16 (b)         X                                            SUS          144
+12257:        ESRS 2- SBM 3 - E4               16 (c)         X                                            SUS          144
+
+...
+12614:                                                                      (d: 38,563).
+12615:       for the following metrics (tCO2e) due to emission
+12616:       factor and methodology updates and the effect of               GHG intensity per net revenue:
+12617:       the restatements for E1-5 presented above. These               We are providing restated comparative figures for
+12618:       restatements are relevant to the ‘ESRS-aligned’                the following metrics (tCO2e/€m) due to the relevant
+12619:       methodology.                                                   updates as per the section E1-6 restatements
+
+...
+12621:       Gross scope 1 GHG emissions: from 227,672 to
+12622:       228,086 (d: 414); biogenic CO2 emissions: from                 Total GHG emissions (location-based) per
+12623:       394,948 to 395,458 (d: 510); gross location-based              net revenue: from 864 to 849 (d: 15); Total GHG
+12624:       scope 2 GHG emissions: from 216,093 to 211,524                 emissions (market-based) per net revenue: from 851
+12625:       (d: 4,569); gross market-based GHG emissions:                  to 836 (d: 15).
+12626:       from 110,165 to 99,930 (d: 10,235); gross scope 1 and
+12627:       2 (market based) GHG emissions: from 337,837 to                E1-8 – Internal carbon pricing
+
+...
+12725:                        CONTENTS
+12726:                        Independent Auditor’s Report                                 232
+12727:                        Consolidated Income Statement                                240
+12728:                        Consolidated Statement of Comprehensive Income               241
+12729:                        Consolidated Statement of Financial Position                 242
+12730:                        Consolidated Statement of Changes In Equity                  243
+12731:                        Consolidated Statement of Cash Flows                         245
+12732:                        Company Statement of Financial Position                      246
+12733:                        Company Statement of Changes In Equity                       247
+12734:                        Company Statement of Cash Flows                              248
+
+...
+12765:                        29 Dividends                                                 293
+12766:                        30 Non-Controlling Interests                                 293
+12767:                        31 Reconciliation Of Net Cash Flow To Movement In Net Debt   294
+12768:                        32 Guarantees And Other Financial Commitments                295
+12769:                        33 Pension Obligations                                       295
+12770:                        34 Related Party Transactions                                300
+
+...
+12797:       Group plc (‘the Company’) and its subsidiaries (‘the Group’)                independent of the Group and Company in accordance with
+12798:       for the year ended 31 December 2025, which comprise the                     ethical requirements that are relevant to our audit of financial
+12799:       Consolidated Income Statement, the Consolidated Statement                   statements in Ireland, including the Ethical Standard as
+12800:       of Comprehensive Income, the Consolidated Statement of                      applied to public interest entities issued by the Irish Auditing
+12801:       Financial Position, the Consolidated Statement of Changes                   and Accounting Supervisory Authority (IAASA), and we have
+12802:       in Equity, the Consolidated Statement of Cash Flows, the                    fulfilled our other ethical responsibilities in accordance with
+12803:       Company Statement of Financial Position, the Company                        these requirements.
+12804:       Statement of Changes in Equity, the Company Statement of
+12805:       Cash Flows and notes to the financial statements, including                 We believe that the audit evidence we have obtained is
+
+...
+12874: 
+12875: Key audit matters                      • The key audit matter that we identified in the current year was:
+12876:                                          » Revenue recognition
+12877: Audit scope                            • We performed an audit of the complete financial information of 20 operating units
+12878:                                          and performed audit procedures on specific balances for a further 44 operating
+12879:                                          units and central procedures on purchase price accounting for acquisitions, goodwill
+
+...
+12888: 
+12889: 
+12890: In the prior year, our auditor’s report included key audit matters relating to Revenue Recognition, Warranty Provisions, and
+12891: Accounting for Acquisitions. In the current year, we have retained the key audit matter related to Revenue Recognition and
+12892: removed “Accounting for Acquisitions” due to the decrease in the size and level of acquisition activity in 2025, as well as
+12893: “Warranty Provisions” due to limited differences identified historically.
+12894: 
+
+...
+12913:                                                                                                              Audit & Compliance
+12914:                                                                                                              Committee
+12915:       Revenue recognition            We performed procedures on revenue at all in-scope components, as Our observations included
+12916:       (2025: €9,199.0 million,       outlined in further detail in the ‘Tailoring the scope’ section below. an overview of the risk,
+12917:       2024: €8,608.0 million)                                                                               outline of the audit
+12918:                                      We obtained an understanding of each in-scope component’s              procedures performed, the
+12919:       There is a risk that revenue   revenue recognition policy and how it is applied (depending on the     judgements we focused
+12920:       may be inflated through        nature of the revenue recognised at each component), including a       on and the results of
+12921:       management override of         walkthrough of the design and implementation of relevant controls; our testing.
+12922:       controls by posting manual     performed detailed transactional testing of revenue recognised
+12923:       journal adjustments to         throughout the year, commensurate with the higher audit risk           Our planned audit
+12924:       achieve revenue targets        assigned to revenue; examined supporting documentation including procedures in respect
+12925:       or forecasts.                  customer contracts and terms of agreements, statements of works        of revenue recognition
+12926:                                      or purchase orders, sales invoices, customer balance confirmations     were completed without
+12927:       There is no significant        and cash receipts to determine whether revenue is recognised in        exception.
+12928:       judgement or estimate          accordance with terms of contracts and the Group accounting
+12929:       associated with the            policies. We also performed cut-off procedures and review of credit
+12930:       identified risk.               memos and other adjustments such as discounts and rebates.
+12931: 
+12932:       Refer to the Audit and         For significant manual journals posted to revenue, we identified
+12933:       Compliance Committee           journal sources, profiled journal activity by month and compared
+12934:       Report (page 108); the         it to the prior year, analysed who posted these journals considering
+12935:       Statement of Accounting        our understanding of the process, and followed up on any unusual
+12936:       Policies (page 249);           trends and anomalies. We tested non-routine material top-side
+12937:       and note 2 of the Group        adjustments recorded in revenue accounts.
+12938:       Financial Statements (page
+12939:       259).                          In some components, we utilised data analytics procedures. This
+12940:                                      included correlation analysis of the strength of relationship between
+12941:                                      revenue and other accounts to identify anomalies and unusual
+12942:                                      journal entries.
+12943: 
+12944:                                      We performed procedures on key financial statement disclosures for
+12945:                                      compliance with IFRS 15 Revenue from Contracts with Customers.
+12946: 
+12947:                                      The above procedures are performed locally by component teams.
+12948:                                      We performed full and specific scope audit procedures over this risk
+
+...
+13299: Financial Statements                                                                                                                     239
+13300: 
+13301:       CONSOLIDATED INCOME STATEMENT
+13302:       FOR THE YEAR ENDED 31 DECEMBER 2025
+13303: 
+13304:                                                                                     Note      2025        2024
+13305:                                                                                                €m          €m
+13306: 
+13307:       REVENUE                                                                          2    9,199.0     8,608.0
+13308:       Cost of sales                                                                        (6,468.7)   (6,061.6)
+13309: 
+13310:       GROSS PROFIT                                                                          2,730.3    2,546.4
+
+...
+13314:       Intangible asset amortisation                                                   10      (51.6)     (44.6)
+13315: 
+13316:       OPERATING PROFIT                                                                       903.5        862.1
+13317:       Finance expense                                                                  4     (77.6)       (67.4)
+13318:       Finance income                                                                   4      23.5         35.4
+13319:       Share of associates’ profit after tax                                           13       2.1          1.7
+
+...
+13374: Financial Statements                                                                                    241
+13375: 
+13376:       CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+13377:       AS AT 31 DECEMBER 2025
+13378: 
+13379:                                                                                Note       2025       2024
+
+...
+13398:       Cash and cash equivalents                                                  18      584.7     1,005.4
+13399:                                                                                        3,301.2     3,597.4
+13400:       TOTAL ASSETS                                                                     9,820.7     9,819.5
+13401: 
+13402:       LIABILITIES
+13403:       CURRENT LIABILITIES
+
+...
+14231: 244   Kingspan Group plc Annual Report & Financial Statements 2025
+14232: 
+14233: CONSOLIDATED STATEMENT OF CASH FLOWS
+14234: FOR THE YEAR ENDED 31 DECEMBER 2025
+14235: 
+14236:                                                                          Note      2025       2024
+
+...
+14259: Pension contributions                                                      33       (1.2)      (2.6)
+14260: 
+14261: Cash generated from operations                                                   1,021.9    1,137.3
+14262: Income tax paid                                                                   (132.8)   (184.3)
+14263: Interest paid                                                                      (69.4)    (58.5)
+14264: Net cash flow from operating activities                                            819.7     894.5
+
+...
+14269: Additions to investment in associates                                      13      (2.0)        (1.0)
+14270: Proceeds from disposals of property, plant and equipment                           22.8        32.9
+14271: Purchase of subsidiary undertakings (including net debt/cash acquired)     24    (222.0)     (775.3)
+14272: Purchase of financial asset                                                        (0.8)       (17.5)
+14273: Dividends from investment in associates                                    13       4.3          0.3
+14274: Payment of deferred contingent consideration                               19     (94.2)         (1.1)
+
+...
+14315:       Cash and cash equivalents                                                                               0.4              0.4
+14316: 
+14317:       TOTAL ASSETS                                                                                        2,355.4          2,346.7
+14318: 
+14319:       LIABILITIES
+14320: 
+
+...
+14548: 
+14549: 1     Statement of Accounting Policies (continued)
+14550: Revenue recognition                                                 Service and maintenance
+14551: The Group recognises revenue exclusive of sales tax and trade       Where the Group provides a post-sale service and
+14552: discounts which would occur over time or at a point in time.        maintenance offering, the revenue associated with this
+14553: The Group uses the five-step model as prescribed under IFRS         separately identifiable performance obligation is initially
+14554: 15 Revenue from Contracts with Customers on the Group’s             recognised in deferred revenue. The revenue is recognised in
+14555: revenue transactions. This includes the identification of the       the Consolidated Income Statement as each site visit occurs.
+14556: contract, identification of the performance obligations under
+14557: same, determination of the transaction price, allocation of the     Research and Development
+14558: transaction price to performance obligations and recognition        Expenditure on research and development is recognised as
+14559: of revenue. Typically, individual performance obligations           an expense in the period in which it is incurred. An asset is
+14560: are specifically called out in the contract which allows for        recognised only when all the conditions set out in IAS 38
+14561: accurate recognition of revenue as and when performances            Intangible Assets are met.
+14562: are fulfilled.
+14563:                                                                     Business Combinations
+14564: The Group has generally concluded that it is the principal in its   Business combinations are accounted for using the acquisition
+14565: revenue arrangements, because it typically controls the goods       method as at the date of acquisition.
+14566: or services before transferring them to the customers.
+14567:                                                                     In accordance with IFRS 3 Business Combinations, the fair
+14568: The Group has identified a number of revenue streams where          value of consideration paid for a business combination is
+14569: revenue is recognised at a point in time and/or over time.          measured as the aggregate of the fair values at the date of
+14570: These are detailed below:                                           exchange of assets given and liabilities incurred or assumed
+14571:                                                                     in exchange for control. The assets, liabilities and contingent
+14572: Supply only contracts                                               liabilities of the acquired entity are measured at fair value
+
+...
+14574: performance obligation by transferring control of a promised        a business combination is determined, it is done so on a
+14575: good or service to the customer, which could occur over             provisional basis with any adjustments to these provisional
+14576: time or at a point in time. Revenue is recognised at the time       values made within 12 months of the acquisition date and are
+14577: of delivery at the delivery address (where Kingspan is to           effective as at the acquisition date.
+14578: deliver the goods to the delivery address) or at Kingspan’s
+14579: works (where the customer is to collect the goods) or, if the       To the extent that deferred contingent consideration is
+
+...
+14582: Invoicing occurs at the point of final delivery of the product or   consideration is discounted at an appropriate interest rate
+14583: performance obligation, at which point a right is established       and, accordingly, carried at net present value (amortised
+14584: for unconditional consideration as control passes to the            cost) in the Consolidated Statement of Financial Position.
+14585: customer. Typically, payment terms are 30 days from the end         The discount component is then unwound as an interest
+14586: of the month in which the invoice is raised.                        charge in the Consolidated Income Statement over the life of
+14587:                                                                     the obligation.
+14588: Supply and install projects
+14589: If a contract requires the Group to install or commission a         Where a business combination agreement provides for an
+
+...
+14596: If there is significant integration provided for in the contract    Income Statement.
+14597: then a single performance obligation is identified and the
+14598: revenue is recognised using the input method in line with           If the business combination is achieved in stages, the fair
+14599: IFRS 15 Revenue from Contracts with Customers and requires          value of the acquirer’s previously held equity interest in the
+14600: judgement in determining milestones, actual work performed          acquiree is re-measured at the acquisition date through
+14601: and the estimated costs to complete the work.                       the Consolidated Income Statement or the Consolidated
+14602:                                                                     Statement of Comprehensive Income.
+14603: 
+14604: 
+
+...
+14619:       Statement as incurred.                                              recoverable amount of the cash generating unit is less than
+14620:                                                                           the carrying amount, an impairment loss is recognised in the
+14621:       Put options held by non-controlling interest shares                 Consolidated Income Statement. Impairment losses arising in
+14622:       Any contingent consideration is measured at fair value at           respect of goodwill are not reversed following recognition.
+14623:       the date of acquisition. Where a put option is held by a
+14624:       non-controlling interest (NCI) in a subsidiary undertaking,         On disposal of a subsidiary, the attributable amount of
+
+...
+14640:       fair value of the Group’s share of the identifiable net assets of   straight-line basis on the assumption of zero residual value.
+14641:       a subsidiary at the date of acquisition.                            Amortisation charged on these assets is recognised in the
+14642:                                                                           Consolidated Income Statement.
+14643:       The Group measures goodwill at the acquisition date as:
+14644:                                                                           The carrying amount of intangible assets is reviewed for
+14645:       • the fair value of the consideration transferred; plus             indicators of impairment at each reporting date and is
+
+...
+14685: at the exchange rates at the reporting date. All currency
+14686: translation differences on monetary assets and liabilities
+14687: are taken to the Consolidated Income Statement, except
+14688: when deferred in equity as qualifying net investment hedges,
+14689: which are recognised in the Consolidated Statement of
+14690: Comprehensive Income.
+
+...
+14718: Consolidated Statement of Comprehensive Income and
+14719: accumulated as a separate component of equity, the                    Income tax
+14720: Translation Reserve.                                                  Income tax in the Consolidated Income Statement represents
+14721:                                                                       the sum of current income tax and deferred tax not recognised
+14722: On disposal of a foreign operation, any such cumulative               in other comprehensive income or directly in equity.
+14723: retranslation differences, previously recognised in equity, are
+14724: reclassified to the Consolidated Income Statement as part of          Current tax
+14725: gain or loss on disposal.                                             Current tax represents the expected tax payable or
+14726:                                                                       recoverable on the taxable profit for the year using tax rates
+14727: Inventories                                                           and laws that have been enacted, or substantively enacted, at
+
+...
+14753:       and tax laws that have been enacted or substantively enacted           Statement in line with the underlying asset.
+14754:       at the reporting date.
+14755:                                                                              Revenue grants are recognised in the Consolidated Income
+14756:       The Group offsets deferred tax assets and deferred tax                 Statement to offset the related expenditure.
+14757:       liabilities only if it has a legally enforceable right to set off
+14758:       current tax assets and current tax liabilities and the deferred        Investments in subsidiaries
+
+...
+14769:       in future periods when the carrying amount of the asset or             but is not control or joint control over those policies.
+14770:       liability is recovered or settled).
+14771:                                                                              The consolidated income statement incorporates the results
+14772:       Deferred tax assets are recognised in respect of all deductible        of the associate using the equity method of accounting.
+14773:       temporary differences (i.e. differences that give rise to              Under the equity method, an investment in an associate is
+14774:       amounts which are deductible in determining taxable profits            recognised initially in the consolidated statement of financial
+
+...
+14841: carrying value of an asset or its cash generating unit exceeds       Defined contribution pension schemes
+14842: its recoverable amount.                                              The costs arising on the Group’s defined contribution schemes
+14843:                                                                      are recognised in the Consolidated Income Statement in the
+14844: Impairment losses are recognised in the Consolidated Income          period in which the related service is provided. The Group has
+14845: Statement. Following the recognition of an impairment loss,          no legal or constructive obligation to pay further contributions
+14846: the depreciation charge applicable to the asset or cash-             in the event that these plans do not hold sufficient assets to
+
+...
+14922:       Provisions which are not expected to give rise to a cash              Any gain or loss resulting from the re-measurement of
+14923:       outflow within 12 months of the reporting date are, where             the hedging instrument to fair value is reported in the
+14924:       material, determined by discounting the expected future               Consolidated Income Statement, together with any changes
+14925:       cash flows. The unwinding of the discount is recognised as a          in the fair value of the hedged asset or liability that are
+14926:       finance expense.                                                      attributable to the hedged risk. The gains or losses of a
+14927:                                                                             hedging instrument that are in hedge relationships with
+14928:       Dividends                                                             borrowings are included within Finance Income or Finance
+14929:       Final dividends on ordinary shares are recognised as a                Expense in the Consolidated Income Statement. In the case of
+14930:       liability in the financial statements only after they have been       the related hedged borrowings, any gain or loss on the hedged
+14931:       approved at the Annual General Meeting of the Company.                item which is attributable to the hedged risk is adjusted
+14932:       Interim dividends on ordinary shares are recognised when they         against the carrying amount of the hedged item and is also
+14933:       are paid.                                                             included within Finance Income or Finance Expense in the
+14934:                                                                             Consolidated Income Statement.
+14935: 
+14936: 
+14937: 
+
+...
+14946: accounting, the adjustment to the carrying amount of the          held for trading, the Group may irrevocably elect to present
+14947: hedged item is amortised on an effective interest basis to        subsequent changes in the investment’s fair value in
+14948: the Consolidated Income Statement with the objective of           other comprehensive income. This election is made on an
+14949: achieving full amortisation by maturity of the hedged item.       investment-by-investment basis.
+14950: 
+14951: Cash flow hedge                                                   The Group applies the simplified approach for expected
+
+...
+14964: by the preceding statements, the associated cumulative            Financial Liabilities
+14965: gain or loss is removed from other comprehensive income           Financial liabilities held for trading are measured at fair value
+14966: and recognised in the Consolidated Income Statement in the        through the profit and loss, and all other financial liabilities
+14967: same period or periods during which the hedged forecast           are measured at amortised cost unless the fair value option
+14968: transaction effects profit or loss. The ineffective part of any   is applied.
+14969: gain or loss is recognised immediately in the Consolidated
+
+...
+14971:                                                                   Finance income primarily comprises interest income on funds
+14972: Hedge accounting is discontinued when a hedging instrument        invested and any gains on hedging instruments that are
+14973: expires or is sold, terminated or exercised, or no longer         recognised in the Consolidated Income Statement. Interest
+14974: qualifies for hedge accounting. The cumulative gain or loss       income is recognised as it accrues using the effective interest
+14975: at that point remains in other comprehensive income and           rate method.
+14976: is recognised when the transaction occurs. If a hedged
+14977: transaction is no longer expected to occur, the net cumulative    Finance Expense
+14978: gain or loss recognised in other comprehensive income             Finance expense comprises interest charged on cash balances
+14979: is transferred to the Consolidated Income Statement in            held in certain currencies, interest payable on borrowings
+14980: the period.                                                       calculated using the effective interest rate method, fair value
+14981:                                                                   gains and losses on hedging instruments that are recognised
+14982: Net investment hedge                                              in the Consolidated Income Statement, the net finance
+14983: Any gain or loss on the hedging instrument relating to            cost of the Group’s defined benefit pension scheme, lease
+14984: the effective portion of the hedge is recognised in other         interest, the discount component of the deferred contingent
+14985: comprehensive income and presented in the Translation             consideration which is unwound as an interest charge in
+14986: Reserve in equity. The gain or loss relating to the ineffective   the Consolidated Income Statement over the life of the
+14987: portion is recognised immediately in either Finance Income        obligation and fair value movements associated with deferred
+14988: or Finance Expense in the Consolidated Income Statement.          contingent consideration.
+14989: Cumulative gains or losses remain in equity until disposal of
+14990: the net investment in the foreign operation at which point the    Share-Based Payment Transactions
+14991: related differences are reclassified to the Consolidated Income   The Group grants equity settled share-based payments to
+
+...
+15012:       The fair value of these equity settled transactions is             could result in outcomes that require a material adjustment
+15013:       determined at grant date and is recognised as an employee          to the carrying amount of assets or liabilities in future periods.
+15014:       expense in the Consolidated Income Statement, with the             The Group has considered the impact of climate change
+15015:       corresponding increase in equity, on a straight-line basis         on the consolidated financial statements, including the
+15016:       over the vesting period. The fair value at the grant date          carrying value of assets, the useful economic life of assets,
+15017:       is determined using a combination of the Monte Carlo               and provisions.
+
+...
+15051:       of a subsidiary not attributable either directly or indirectly     Valuation of inventory (Note 14)
+15052:       to the parent company and are presented separately in the          Inventories are measured at the lower of cost and net
+15053:       Consolidated Income Statement and within equity in the             realisable value. The Group’s policy is to hold inventories at
+15054:       Consolidated Statement of Financial Position, distinguished        original cost and create an inventory provision where evidence
+15055:       from shareholders’ equity attributable to owners of the            exists that indicates net realisable value is below cost for
+15056:       parent company.                                                    a particular item of inventory. Damaged, slow-moving or
+15057:                                                                          obsolete inventory are typical examples of such evidence. This
+
+...
+15065:       statements requires management to make judgements,                 estimates and assumptions relating, in particular, to the
+15066:       estimates and assumptions that affect the reported                 determination of the fair values of the acquired assets and
+15067:       amounts of revenues, expenses, assets and liabilities, and the     liabilities assumed at the date of acquisition.
+15068:       accompanying disclosures, and the disclosure of contingent
+15069:       liabilities. Uncertainty about these assumptions and estimates
+15070: 
+
+...
+15081: cash flow analysis using the present value of the estimated       initially estimated, such differences will impact the income
+15082: cash flows expected to be generated from these intangible         tax and deferred tax provisions in the period in which such
+15083: assets using appropriate discount rates and revenue forecasts.    determination is made.
+15084: The period of expected cash flows is based on the expected
+15085: useful life of the intangible asset acquired.                     Deferred tax assets are recognised to the extent that it is
+15086:                                                                   probable that future taxable profit will be available against
+
+...
+15145:                                                                                                  €m                 €m               €m
+15146: 
+15147:       Total Revenue - 2025                                                                    7,544.1           1,654.9          9,199.0
+15148:       Total Revenue - 2024                                                                     7,130.7           1,477.3         8,608.0
+15149: 
+15150:       Disaggregation of revenue 2025
+15151:       Point in Time                                                                           7,426.6           1,253.2          8,679.8
+15152:       Over Time                                                                                  117.5            401.7            519.2
+15153:                                                                                               7,544.1           1,654.9          9,199.0
+15154: 
+15155:       Disaggregation of revenue 2024
+15156:       Point in Time                                                                            7,075.1          1,087.9          8,163.0
+15157:       Over Time                                                                                   55.6            389.4            445.0
+15158:                                                                                                7,130.7          1,477.3          8,608.0
+15159: 
+15160: 
+15161:       The disaggregation of revenue by geography is set out in more detail on page 262.
+15162: 
+15163:       The segments specified above capture the major product lines relevant to the Group.
+15164: 
+15165:       The combination of the disaggregation of revenue by product group, geography and the timing of revenue recognition capture
+15166:       the key categories of disclosure with respect to revenue. Typically, individual performance obligations are specifically called out
+15167:       in the contract which allow for accurate recognition of revenue as and when performance obligations are fulfilled. Given the
+15168:       nature of the Group’s product set, customer returns are not a significant feature of our business model. No further disclosures
+15169:       are required with respect to disaggregation of revenue other than what has been presented in this note.
+15170: 
+15171:       Inter-segment transfers are carried out at arm’s length prices and using an appropriate transfer pricing methodology. As inter-
+15172:       segment revenue is not material, it is not subject to separate disclosure in the above analysis. For the purposes of the segmental
+15173:       analysis, corporate overheads have been allocated to each business based on their respective revenue for the year.
+15174: 
+15175:                                                                           Insulated          Advnsys              Total             Total
+15176:                                                                            Building                               2025              2024
+
+...
+15181:       Intangible amortisation                                                  (47.6)            (4.0)            (51.6)
+15182: 
+15183:       Operating profit – 2025                                                  723.0            180.5            903.5
+15184: 
+15185:       Trading profit - 2024                                                     749.1            157.6                             906.7
+15186:       Intangible amortisation                                                   (41.2)            (3.4)                            (44.6)
+15187: 
+15188:       Operating profit - 2024                                                   707.9            154.2                             862.1
+15189:       Net finance expense                                                                                         (54.1)           (32.0)
+15190:       Share of associates’ profit after tax                                                                         2.1              1.7
+15191:       Profit for the year before income tax                                                                       851.5            831.8
+
+...
+15216: Deferred tax asset                                                                                        79.3         84.5
+15217: 
+15218: Total assets as reported in the Consolidated Statement of Financial Position                           9,820.7      9,819.5
+15219: 
+15220:                                                                      Insulated       Advnsys             Total        Total
+15221:                                                                       Building                           2025         2024
+
+...
+15229: Income tax liabilities (current and deferred)                                                            (152.5)     (143.2)
+15230: 
+15231: Total liabilities as reported in the Consolidated Statement of Financial Position                    (5,088.4)     (5,228.7)
+15232: 
+15233: 
+15234:                                                                                     Insulated         Advnsys        Total
+
+...
+15266: 
+15267:       Income Statement Items
+15268:       Revenue - 2025                                       3,812.9          2,640.9          2,050.3         694.9          9,199.0
+15269:       Revenue - 2024                                       3,681.8           2,352.0          1,919.0        655.2          8,608.0
+15270: 
+15271:       Statement of Financial Position Items
+15272:       Non-current assets - 2025 *                          2,502.5          2,548.0           1,024.7         362.0         6,437.2
+
+...
+15280: 
+15281:       The Group has a presence in over 80 countries worldwide. Foreign regions of operation are as set out above and specific
+15282:       countries of operation are highlighted separately below on the basis of materiality, where revenue exceeds 15% of total
+15283:       Group revenues.
+15284: 
+15285:       Revenues, non-current assets and capital investment (as defined in IFRS 8 Operating Segments) attributable to France were
+15286:       €1,353.2m (2024: €1,324.9m), €848.1m (2024: €842.1m) and €35.8m (2024: €93.9m) respectively.
+15287: 
+15288:       Revenues, non-current assets and capital investment (as defined in IFRS 8 Operating Segments) attributable to the country of
+15289:       domicile (Ireland) were €231.8m (2024: €236.1m), €120.1m (2024: €119.4m) and €12.5m (2024: €11.3m) respectively.
+15290: 
+15291:       The country of domicile is included in Western & Southern Europe. Western & Southern Europe also includes France, Benelux,
+
+...
+15353: Of which, exercisable                                                                                199,817         419,847
+15354: 
+15355: The Group recognised a PSP expense of €21.0m (2024: €18.4m) in the Consolidated Income Statement during the year. All PSP
+15356: options are exercisable at €0.13 per share. For PSP options that were exercised during the year the average share price at the
+15357: date of exercise was €73.09 (2024: €82.82). The weighted average contractual life of share options outstanding at 31 December
+15358: 2025 is 4.9 years (2024: 4.4 years). The weighted average exercise price during the period was €0.13 (2024: €0.13).
+
+...
+15501:                                                                                                                    €m                €m
+15502: 
+15503:       Tax recognised in the Consolidated Income Statement
+15504:       Current taxation:
+15505:       Current tax expense                                                                                          141.1            147.9
+15506:       Adjustment in respect of prior years                                                                          (1.8)            (9.8)
+
+...
+15685: performance of the Group, its strong current financial position as well as management’s knowledge and expectation of future
+15686: trends in the industry. Expected future cash flows are, however, inherently uncertain and are therefore liable to material change
+15687: over time. The key assumptions used in the value-in-use calculations are subjective and include projected EBITDA margins, net
+15688: cash flows, discount rates used and the duration of the discounted cash flow model. Net cash flows incorporate the estimated
+15689: capital expenditure required to meet the Group’s Planet Passionate targets.
+15690: 
+15691: Sensitivity analysis
+15692: Sensitivity analysis was performed by reducing cash flows by 15%, increasing the discount rate by 15%, reducing the average
+
+...
+15874:       At 31 December                                                                                        1,215.8          1,197.1
+15875: 
+15876:       A total of €5.0bn (2024: €4.8bn) of inventories was included in the Consolidated Income Statement as an expense. This
+15877:       includes a net income statement charge of €13.6m (2024: €22.8m) arising on the inventory impairment allowance. Inventory
+15878:       impairment allowance levels are continuously reviewed by management and revised where appropriate, taking account of the
+15879:       latest available information on the recoverability of carrying amounts.
+
+...
+15929: Trade payables                                                                                          754.8              726.3
+15930: Accruals                                                                                                618.2              630.5
+15931: Deferred revenue and customer prepayments                                                               155.6               142.1
+15932: Income tax & social welfare                                                                              65.2                61.3
+15933:                                                                                                       1,593.8            1,560.2
+15934: 
+15935: Deferred revenue primarily relates to service and maintenance and project related revenue and is primarily short-term.
+15936: 
+15937: The directors consider that the carrying amount of trade and other payables approximates to their fair value.
+15938: 
+
+...
+16015: 
+16016:       Expenses of €21.3m (2024: €17.4m) relating to short-term leases, leases of low-value assets and variable lease payments were
+16017:       recognised in the Consolidated Income Statement.
+16018: 
+16019:       18 Interest Bearing Loans And Borrowings
+16020: 
+
+...
+16048:                                                                                                        2,087.5          2,385.3
+16049: 
+16050: Analysis of Net debt
+16051: 
+16052:                                                                                                           2025             2024
+16053:                                                                                                            €m               €m
+
+...
+16057: Current borrowings                                                                                      (381.4)           (197.7)
+16058: Non-current borrowings                                                                                (2,087.5)        (2,385.3)
+16059: Total Net debt                                                                                        (1,883.6)        (1,573.0)
+16060: 
+16061: The Group’s core funding is provided by seven (2024: seven) private placement loan notes; one (2024: one) USD private
+16062: placement totalling $200m (2024: $200m) maturing in December 2028 and six (2024: six) EUR private placements totalling
+
+...
+16081: More details of the Group’s loans and borrowings are set out in Note 20.
+16082: 
+16083: Net debt, which is an Alternative Performance Measure, is stated net of interest rate and currency hedges which relate
+16084: to hedges of debt. Foreign currency derivative assets of €6.1m (2024: €0.1m) and foreign currency derivative liabilities of
+16085: €nil (2024: €nil) which are used for transactional hedging are not included in the definition of net debt. Lease liabilities
+16086: recognised due to the implementation of IFRS 16 and deferred contingent consideration have also been excluded from the
+16087: calculation of net debt which is consistent with the terms and conditions of the covenants as set out in the Group’s external
+16088: borrowing arrangements.
+16089: 
+16090: 
+
+...
+16150:       liabilities     The net present value of the expected        rates of between 1.8%         discount rate would result in an increase
+16151:                       payment is calculated by using a risk        and 32.8%.                    in the fair value of the put option liabilities
+16152:                       adjusted discount rate. The expected       • EBITDA multiples of           of €4.8m.
+16153:                       payments are valued using the option         between 5.0 and 9.3. •        A 5% increase in the assumed profitability
+16154:                       price formula in the shareholders’                                         of the acquirees would result in an
+16155:                       agreement and the most recent                                              increase in the fair value of the put option
+
+...
+16234: 
+16235:       Both the private placements and the banking facilities (revolving credit facility and one additional banking facility) have an
+16236:       interest cover test (EBITDA: Net interest must not be less than 4 times) and a net debt test (Net debt: EBITDA must not exceed
+16237:       3.5 times). These covenant tests have been met for the covenant test period to 31 December 2025.
+16238: 
+16239:       The Group also has in place a number of uncommitted bilateral facilities including working capital facilities totalling €76.3m
+
+...
+16299: 
+16300: Deferred contingent consideration, which includes any put option liabilities, is valued using the relevant agreed multiple of the
+16301: expected future EBITDA in each acquired business which is appropriately discounted using a risk-adjusted discount rate. The
+16302: estimated fair value of deferred contingent consideration would decrease if EBITDA was lower or if the risk adjusted discount
+16303: rate was higher. The range of outcomes are set out in Note 19.
+16304: 
+16305: The actual future cash flows could be different from the amounts included in the tables above, if the associated obligations
+
+...
+16531: 20 Financial Risk Management And Financial Instruments (continued)
+16532: Financial instruments by category
+16533: The carrying amount of financial assets presented in the Consolidated Statement of Financial Position relate to the following
+16534: measurement categories as defined in IFRS 9:
+16535: 
+16536:                                                                    Financial         Assets at     Derivatives            Total
+
+...
+16583: 
+16584:       20 Financial Risk Management And Financial Instruments (continued)
+16585:       The carrying amounts of financial liabilities presented in the Consolidated Statement of Financial Position relate to the following
+16586:       measurement categories as defined in IFRS 9:
+16587: 
+16588:                                                    Financial            Financial            Financial       Derivatives          Total
+
+...
+16721:       Equity                                                                                                  4,732.3           4,590.8
+16722:       Add back accumulated amortisation of intangible assets not fully amortised                                175.6              139.2
+16723:       Net debt                                                                                                1,883.6            1,573.0
+16724:       Total Capital Employed                                                                                  6,791.5           6,303.0
+16725: 
+16726:       The Board’s objective when managing capital is to preserve a strong capital base to maintain the confidence of investors,
+16727:       creditors and the market. The Board monitors the return on capital (defined as total shareholders’ equity plus net debt and
+16728:       adjusted for cumulative amortisation of intangibles not fully amortised).
+16729: 
+16730:       The Board seeks to maintain a balance between the higher returns that might be possible with higher levels of borrowings and
+
+...
+16854:       In October 2025, the Group acquired 100% of Mercor’s ventilation and daylighting business, headquartered in Poland. Mercor
+16855:       is a leading provider of day lighting and smoke management systems in Central Europe. The total combined consideration,
+16856:       including deferred contingent consideration and net debt acquired, amounted to €99.7m.
+16857: 
+16858: 
+16859: 
+
+...
+16866: 24 Business Combinations (continued)
+16867: The Group also made a number of smaller acquisitions during the year for a combined consideration, including deferred
+16868: contingent consideration and net debt acquired, of €155.7m which principally includes:
+16869: 
+16870: • The Insulated Building Envelopes segment acquired 85% of the share capital of Hao Wei in Singapore in March 2025, 100% of
+16871:   the share capital of Eurotag in Denmark in April 2025, 100% of the share capital of Meta Soluciones in Spain and Suomen in
+
+...
+16931:       existing business.
+16932: 
+16933:       In the post-acquisition period to 31 December 2025, the businesses acquired during the current year contributed revenue of
+16934:       €115.7m and trading profit of €17.2m to the Group’s results. None of the acquisitions are individually material to the Group and
+16935:       so this disclosure is provided in aggregate.
+16936: 
+16937:       The Group’s full year revenue and trading profit had the acquisitions taken place at the start of the year, would have been
+16938:       €9,344.9m and €970.9m respectively.
+16939: 
+16940:       The gross contractual value of trade and other receivables as at the respective dates of acquisition amounted to €55.7m. The
+
+...
+16945: 
+16946:       The Group incurred acquisition related costs of €2.6m (2024: €6.1m) relating to external legal fees and due diligence costs.
+16947:       These costs have been included in operating costs in the Consolidated Income Statement.
+16948: 
+16949:       The initial assignment of fair values to identifiable net assets acquired has been performed on a provisional basis due to the
+16950:       relative size of the acquisitions and the timing of the transactions. Any amendments to these fair values within the twelve-
+
+...
+16957:       shares in Steico in the future. Steico is the world leader in wood-fibre insulation and wood-based building envelope products,
+16958:       based in Germany and listed on the unofficial markets of several German Stock Exchanges. The total combined consideration,
+16959:       including deferred contingent consideration and net debt acquired, amounted to €510.0m.
+16960: 
+16961:       In October 2024, the Group increased its shareholding in Nordic Waterproofing Holding AB (Nordic Waterproofing) to 62.6%
+16962:       thereby attaining a controlling shareholding. Nordic Waterproofing is a publicly listed company on the Nasdaq Stockholm and
+16963:       is a market leader in waterproofing products and services for the protection of buildings and infrastructure. The total combined
+16964:       consideration, including net debt acquired, amounted to €162.3m.
+16965: 
+16966:       The Group also made a number of smaller acquisitions during the prior year for a combined consideration, including deferred
+16967:       contingent consideration and net debt acquired, of €305.6m:
+16968: 
+16969:       • The Insulated Building Envelopes segment acquired the business and assets of Conqueror in New Zealand in January
+16970:         2024, 100% of the share capital of Rafinor and Eftex, 75% of the share capital of TreeTops in Denmark, 100% of the share
+
+...
+17026: 
+17027: Satisfied by:
+17028: Cash (net of net debt/cash acquired)                                        337.2               162.3        275.8         775.3
+17029: Deferred contingent consideration                                            97.7                   -         29.8         127.5
+17030: Share capital issued                                                         75.1                   -            -          75.1
+17031: Total consideration                                                         510.0               162.3        305.6         977.9
+
+...
+17038: existing business.
+17039: 
+17040: In the post-acquisition period to 31 December 2024, the businesses acquired during the year contributed revenue of €536.3m
+17041: and trading profit of €35.3m to the Group’s results. None of the acquisitions are individually material to the Group and so this
+17042: disclosure is provided in aggregate.
+17043: 
+17044: The Group’s full year revenue and trading profit had the acquisitions taken place at the start of the year, would have been
+17045: €9,171.4m and €947.6m respectively.
+17046: 
+17047: The gross contractual value of trade and other receivables as at the respective dates of acquisition amounted to €181.1m. The fair
+
+...
+17142: 
+17143: The proposed final dividend for 2025 is subject to approval by the shareholders at the Annual General Meeting and has not been
+17144: included as a liability in the Consolidated Statement of Financial Position of the Group as at 31 December 2025 in accordance
+17145: with IAS 10 Events after the Reporting Period. The proposed final dividend for the year ended 31 December 2025 will be payable
+17146: on 20 May 2026 to shareholders on the Register of Members at close of business on 10 April 2026.
+17147: 
+
+...
+17172:       FOR THE YEAR ENDED 31 DECEMBER 2025
+17173: 
+17174:       31    Reconciliation Of Net Cash Flow To Movement In Net Debt
+17175: 
+17176:                                                                                                                     2025           2024
+17177:                                                                                                                      €m             €m
+
+...
+17181:       Repayment of loans and borrowings                                                                            226.6           246.2
+17182:       Settlement of derivative financial instruments                                                                (4.0)               -
+17183:       Change in net debt resulting from cash flows                                                                (267.9)         (615.4)
+17184:       Translation movement - relating to US dollar loan                                                              21.7           (11.2)
+17185:       Translation movement – other                                                                                 (64.4)           28.5
+17186:       Derivative financial instruments movement                                                                         -             4.6
+17187:       Net movement                                                                                                (310.6)         (593.5)
+17188: 
+17189:       Net debt at start of the year                                                                              (1,573.0)        (979.5)
+17190: 
+17191:       Net debt at end of the year                                                                               (1,883.6)       (1,573.0)
+17192: 
+17193:       Lease liabilities of €220.7m (2024: €238.6m) are excluded from net debt.
+17194: 
+17195:       A reconciliation of liabilities/(assets) arising from financing activities in 2025 is set out below.
+17196: 
+
+...
+17237: and filing audited financial statements and management reports in the Netherlands and Germany.
+17238: 
+17239: (ii) Future capital expenditure
+17240: Capital expenditure in subsidiary entities, approved by the directors but not provided in the financial statements, is as follows:
+17241: 
+17242:                                                                                                             2025              2024
+17243:                                                                                                              €m                €m
+
+...
+17363: would occur in isolation from one another.
+17364: 
+17365: Movements in net liability recognised in the Consolidated Statement of Financial Position
+17366: 
+17367:                                                                                                          2025                2024
+17368:                                                                                                           €m                  €m
+
+...
+17371: Arising on acquisitions (Note 24)                                                                         (0.1)             (4.0)
+17372: Employer contributions                                                                                     1.2               2.6
+17373: Recognised in consolidated income statement                                                               (2.6)             (2.5)
+17374: Recognised in consolidated statement of comprehensive income                                               0.2               3.4
+17375: Effect of movement in exchange rates                                                                       0.1                 -
+17376: 
+17377: Net liability in schemes at 31 December                                                                  (38.7)            (37.5)
+17378: 
+17379: Defined benefit pension income/(expense) recognised in the Consolidated Income Statement
+17380: 
+17381:                                                                                                          2025                2024
+17382:                                                                                                           €m                  €m
+
+...
+17611: 
+17612:       Trading profit
+17613:       This comprises the operating profit as reported in the Consolidated Income Statement before intangible asset amortisation and
+17614:       non trading items. This equates to the Earnings Before Interest, Tax and Amortisation (“EBITA”) of the Group. Trading profit is
+17615:       used by management as it excludes items which may hinder year on year comparisons.
+17616: 
+
+...
+17618:                                                             Financial Statements Reference                      €m                 €m
+17619: 
+17620:       Trading profit                                       Consolidated Income Statement                      955.1               906.7
+17621: 
+17622:       Trading margin
+17623:       Measures the trading profit as a percentage of revenue.
+17624: 
+17625:                                                                                                                2025               2024
+17626:                                                             Financial Statements Reference                      €m                 €m
+17627: 
+17628:       Trading profit                                       Consolidated Income Statement                      955.1            906.7
+17629:       Revenue                                              Consolidated Income Statement                    9,199.0          8,608.0
+17630:       Trading margin                                                                                         10.4%             10.5%
+17631: 
+17632:       EBITDA
+17633:       The Group defines EBITDA as earnings before net finance expenses, income taxes, depreciation, amortisation and non trading
+17634:       item.
+17635: 
+17636:                                                                                                                2025               2024
+17637:                                                             Financial Statements Reference                      €m                 €m
+17638: 
+17639:       Trading profit                                       Consolidated Income Statement                      955.1            906.7
+17640:       Share of associates’ profit after tax                Consolidated Income Statement                        2.1               1.7
+17641:       Depreciation                                         Consolidated Statement of Cash Flows               263.1             231.9
+17642:       EBITDA                                                                                                1,220.3           1,140.3
+17643: 
+17644:       Free cash flow
+17645:       Free cash flow is the cash generated from operations after net capital expenditure, interest received, income taxes paid,
+17646:       government grants received and lease payments and reflects the amount of internally generated capital available for re-
+17647:       investment in the business or for distribution to shareholders.
+17648: 
+
+...
+17650:                                                             Financial Statements Reference                      €m                 €m
+17651: 
+17652:       Net cash flow from operating activities              Consolidated Statement of Cash Flows               819.7            894.5
+17653:       Additions to property, plant and equipment           Consolidated Statement of Cash Flows              (365.1)          (366.3)
+17654:       Additions to intangible assets                       Consolidated Statement of Cash Flows                (0.1)            (0.4)
+17655:       Proceeds from disposals of property, plant and
+17656:       equipment                                            Consolidated Statement of Cash Flows                22.8                32.9
+17657:       Receipt of government grants                         Consolidated Statement of Cash Flows                16.6                    -
+17658:       Finance income received                              Consolidated Statement of Cash Flows                13.3                 17.4
+17659:       Lease payments                                       Consolidated Statement of Cash Flows               (77.9)              (68.7)
+17660:       Free cash flow                                                                                          429.3               509.4
+17661: 
+17662: 
+
+...
+17670: Return on capital employed (ROCE)
+17671: ROCE is trading profit plus share of profit of associates as a percentage of net assets employed at the end of each reporting
+17672: period, which excludes net debt and adjusts for cumulative amortisation of intangibles not fully amortised.
+17673: 
+17674:                                                                                                           2025             2024
+17675:                                                        Financial Statements Reference                      €m               €m
+
+...
+17679: Add back accumulated amortisation of intangible
+17680: assets not fully amortised                                                                               175.6             139.2
+17681: Net debt                                              Note 18                                          1,883.6           1,573.0
+17682:                                                                                                        6,791.5          6,303.0
+17683: 
+17684: Trading profit                                        Consolidated Income Statement                       955.1           906.7
+17685: Share of associate’s profit after tax                 Consolidated Income Statement                         2.1             1.7
+17686:                                                                                                           957.2           908.4
+17687: 
+17688: 
+
+...
+17690: 
+17691: Banking Covenants
+17692: The Net debt: EBITDA and the EBITDA: Net Interest ratios disclosed in this report are calculated in accordance with the terms
+17693: and conditions of the covenants as set out in the Group’s external borrowing arrangements. Therefore, EBITDA and Net Interest
+17694: are adjusted to exclude the impact of IFRS 16 Leases for these calculations.
+17695: 
+17696: Net debt
+17697: Net debt represents the net total of current and non-current borrowings, current and non-current derivative financial
+17698: instruments, (excluding foreign currency derivatives which are used for transactional hedging), and cash and cash equivalents
+17699: as presented in the Consolidated Statement of Financial Position. Lease liabilities recognised due to the implementation of
+17700: IFRS 16 and deferred contingent consideration have also been excluded from the calculation of net debt. Consistent with
+17701: the 2024 APMs, this definition is in accordance with the terms and conditions of the covenants as set out in the Group’s
+17702: external borrowing arrangements.
+17703: 
+
+...
+17706: 
+17707: 
+17708: Net debt                                              Note 18                                          1,883.6           1,573.0
+17709: 
+17710: Net debt : EBITDA
+17711: Net debt as a ratio to 12 month EBITDA. For the purpose of this calculation, EBITDA is solely adjusted for the impact
+17712: of IFRS 16 Leases.
+17713: 
+17714:                                                                                                           2025             2024
+17715:                                                        Financial Statements Reference                      €m               €m
+17716: 
+17717: EBITDA                                                                                                  1,220.3          1,140.3
+17718: Lease liability payments                              Consolidated Statement of Cash Flows                (77.9)           (68.7)
+17719: EBITDA (adjusted for the impact of IFRS 16)                                                             1,142.4          1,071.6
+17720: 
+17721: 
+17722:                                                                                                           2025             2024
+17723:                                                        Financial Statements Reference                      €m               €m
+17724: 
+17725: Net debt                                              Note 18                                          1,883.6           1,573.0
+17726: EBITDA (adjusted for the impact of IFRS 16)                                                            1,142.4           1,071.6
+17727: Net debt: EBITDA times                                                                                    1.65              1.47
+17728: 
+17729: 
+17730: 
+
+...
+17750:       Working capital
+17751:       Working capital represents the net total of inventories, trade and other receivables and trade and other payables, net of
+17752:       transactional foreign currency derivatives excluded from net debt.
+17753: 
+17754:                                                                                                                     2025             2024
+17755:                                                               Financial Statements Reference                         €m               €m
+
+...
+17758:       Trade and other receivables                         Note 15                                                1,497.0           1,390.2
+17759:       Trade and other payables                            Note 16                                               (1,593.8)         (1,560.2)
+17760:       Foreign currency derivatives excluded from net debt Note 20                                                     6.1               0.1
+17761:       Working capital                                                                                             1,125.1           1,027.2
+17762: 
+17763:       Working capital ratio
+
+...
+18201:       GROUP FIVE YEAR SUMMARY
+18202:         Results (€m)                                                                               2025                 2024                    2023                  2022              2021
+18203:         Revenue                                                                                 9,199.0              8,608.0              8,090.6              8,340.9               6,497.0
+18204:         Trading profit                                                                            955.1                906.7                   876.9              833.2               754.8
+18205:         Net profit before tax                                                                     851.5                831.8                   794.2              746.6               689.0
+18206:         Operating cashflow                                                                      1,021.9               1,137.3                 1,368.6             884.0               490.6
+
+...
+18211:         Working capital                                                                          1,125.1             1,027.2                   872.2            1,195.9                977.8
+18212:         Total shareholder equity                                                                4,732.3              4,590.8                  3,947.8           3,395.5              2,959.3
+18213:         Net debt                                                                                1,883.6              1,573.0                   979.5            1,539.6                756.1
+18214: 
+18215: 
+18216:         Ratios                                                                                     2025                 2024                    2023                  2022              2021
+18217:         Net debt as % of total shareholders’ equity                                              39.8%                34.3%                   24.8%              45.3%                25.5%
+18218:         Current assets / current liabilities                                                       1.37                  1.60                    1.65                  1.78             1.80
+18219:         Net debt / EBITDA                                                                          1.65                   1.47                  0.97                   1.62             0.88
+18220: 
+18221: 
+18222:         Per Ordinary Share (€cent)                                                                 2025                 2024                    2023                  2022              2021
+
+...
+18232: 
+18233: 
+18234:       Revenue (€m)                                      Trading Profit (€m)                           EPS (€cent)                                       DPS (€cent)
+18235:                                                                                         955.1
+18236:                                               9,199.0
+18237: 

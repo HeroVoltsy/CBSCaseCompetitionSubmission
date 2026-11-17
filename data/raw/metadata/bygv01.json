@@ -1,0 +1,410 @@
+{
+  "id": "BYGV01",
+  "text": "Total construction (not adjusted for delays)",
+  "description": "Total construction (not adjusted for delays) by phase of construction, use, builders and time",
+  "unit": "m2",
+  "suppressedDataValue": "0",
+  "updated": "2026-11-13T08:00:00",
+  "active": true,
+  "contacts": [
+    {
+      "name": "Kasper Emil Dueholm Freiman",
+      "phone": "+4523454732",
+      "mail": "kfr@dst.dk"
+    }
+  ],
+  "documentation": {
+    "id": "db96f09a-e616-40cb-ab0c-00eebff9ca6f",
+    "url": "https://www.dst.dk/documentationofstatistics/db96f09a-e616-40cb-ab0c-00eebff9ca6f"
+  },
+  "footnote": {
+    "text": "The conversion to the new version of BBR (new structure and new methods) in June 2017 implied in connection with the publication of 3rd quarter 2017 and 1st quarter 2018 big revisions of all the time series in the construction statistics. For the statistical recording of permitted and in particular started construction work is there however a considerable uncertainty about the figures for the latest, ongoing 1½ year. It is expected, that there later will come significant upward adjustments,",
+    "mandatory": true
+  },
+  "variables": [
+    {
+      "id": "BYGFASE",
+      "text": "phase of construction",
+      "elimination": false,
+      "time": false,
+      "values": [
+        {
+          "id": "2",
+          "text": "Started"
+        },
+        {
+          "id": "3",
+          "text": "Completed"
+        },
+        {
+          "id": "4",
+          "text": "Under construction"
+        },
+        {
+          "id": "1",
+          "text": "Permits"
+        }
+      ]
+    },
+    {
+      "id": "ANVEND",
+      "text": "use",
+      "elimination": true,
+      "time": false,
+      "values": [
+        {
+          "id": "110",
+          "text": "Farm houses"
+        },
+        {
+          "id": "120",
+          "text": "Detached houses"
+        },
+        {
+          "id": "130",
+          "text": "Terraced, linked or semi-detached houses"
+        },
+        {
+          "id": "140",
+          "text": "Multi-dwelling houses"
+        },
+        {
+          "id": "150",
+          "text": "Student hostels"
+        },
+        {
+          "id": "160",
+          "text": "Residential buildings for communities"
+        },
+        {
+          "id": "190",
+          "text": "Other residential building"
+        },
+        {
+          "id": "210",
+          "text": "Non-residential farm buildings"
+        },
+        {
+          "id": "220",
+          "text": "Factories, workshops, etc."
+        },
+        {
+          "id": "230",
+          "text": "Power stations,  gaswork, etc."
+        },
+        {
+          "id": "290",
+          "text": "Other building used for production"
+        },
+        {
+          "id": "310",
+          "text": "Transportation or garage "
+        },
+        {
+          "id": "320",
+          "text": "Office, trade, inventory, incl. public administration"
+        },
+        {
+          "id": "330",
+          "text": "Hotel, restaurant, hair dresser and other services"
+        },
+        {
+          "id": "390",
+          "text": "Unspecified transport and trade"
+        },
+        {
+          "id": "410",
+          "text": "Library, church, museum etc."
+        },
+        {
+          "id": "420",
+          "text": "Building for education and research (schools, laboratory etc.)"
+        },
+        {
+          "id": "430",
+          "text": "Building for hospital, home, maternity home etc."
+        },
+        {
+          "id": "440",
+          "text": "Day-care institution"
+        },
+        {
+          "id": "490",
+          "text": "Non-specified welfare institutions"
+        },
+        {
+          "id": "510",
+          "text": "Weekend cottages"
+        },
+        {
+          "id": "520",
+          "text": "Unspecified holiday purposes"
+        },
+        {
+          "id": "530",
+          "text": "Sports centres, club houses"
+        },
+        {
+          "id": "540",
+          "text": "Allotment garden house"
+        },
+        {
+          "id": "590",
+          "text": "Unspecified recreational purposes"
+        },
+        {
+          "id": "910",
+          "text": "Garage with room for one or two vehicles"
+        },
+        {
+          "id": "920",
+          "text": "Carports"
+        },
+        {
+          "id": "930",
+          "text": "Outhouses"
+        },
+        {
+          "id": "UOPL",
+          "text": "Non-distributed, unknown"
+        }
+      ]
+    },
+    {
+      "id": "BYGHERRE",
+      "text": "builders",
+      "elimination": true,
+      "time": false,
+      "values": [
+        {
+          "id": "10",
+          "text": "Individuals inclusive partnerships"
+        },
+        {
+          "id": "20",
+          "text": "Non-profit building society"
+        },
+        {
+          "id": "30",
+          "text": "Limited liability company, etc."
+        },
+        {
+          "id": "40",
+          "text": "Societies, independent institutions"
+        },
+        {
+          "id": "41",
+          "text": "Housing societies"
+        },
+        {
+          "id": "50",
+          "text": "Municipality of position"
+        },
+        {
+          "id": "60",
+          "text": "Other municipality"
+        },
+        {
+          "id": "70",
+          "text": "County"
+        },
+        {
+          "id": "80",
+          "text": "State"
+        },
+        {
+          "id": "90",
+          "text": "Freefold flats and others"
+        },
+        {
+          "id": "UOPL",
+          "text": "Not stated"
+        }
+      ]
+    },
+    {
+      "id": "Tid",
+      "text": "time",
+      "elimination": false,
+      "time": true,
+      "values": [
+        {
+          "id": "1982",
+          "text": "1982"
+        },
+        {
+          "id": "1983",
+          "text": "1983"
+        },
+        {
+          "id": "1984",
+          "text": "1984"
+        },
+        {
+          "id": "1985",
+          "text": "1985"
+        },
+        {
+          "id": "1986",
+          "text": "1986"
+        },
+        {
+          "id": "1987",
+          "text": "1987"
+        },
+        {
+          "id": "1988",
+          "text": "1988"
+        },
+        {
+          "id": "1989",
+          "text": "1989"
+        },
+        {
+          "id": "1990",
+          "text": "1990"
+        },
+        {
+          "id": "1991",
+          "text": "1991"
+        },
+        {
+          "id": "1992",
+          "text": "1992"
+        },
+        {
+          "id": "1993",
+          "text": "1993"
+        },
+        {
+          "id": "1994",
+          "text": "1994"
+        },
+        {
+          "id": "1995",
+          "text": "1995"
+        },
+        {
+          "id": "1996",
+          "text": "1996"
+        },
+        {
+          "id": "1997",
+          "text": "1997"
+        },
+        {
+          "id": "1998",
+          "text": "1998"
+        },
+        {
+          "id": "1999",
+          "text": "1999"
+        },
+        {
+          "id": "2000",
+          "text": "2000"
+        },
+        {
+          "id": "2001",
+          "text": "2001"
+        },
+        {
+          "id": "2002",
+          "text": "2002"
+        },
+        {
+          "id": "2003",
+          "text": "2003"
+        },
+        {
+          "id": "2004",
+          "text": "2004"
+        },
+        {
+          "id": "2005",
+          "text": "2005"
+        },
+        {
+          "id": "2006",
+          "text": "2006"
+        },
+        {
+          "id": "2007",
+          "text": "2007"
+        },
+        {
+          "id": "2008",
+          "text": "2008"
+        },
+        {
+          "id": "2009",
+          "text": "2009"
+        },
+        {
+          "id": "2010",
+          "text": "2010"
+        },
+        {
+          "id": "2011",
+          "text": "2011"
+        },
+        {
+          "id": "2012",
+          "text": "2012"
+        },
+        {
+          "id": "2013",
+          "text": "2013"
+        },
+        {
+          "id": "2014",
+          "text": "2014"
+        },
+        {
+          "id": "2015",
+          "text": "2015"
+        },
+        {
+          "id": "2016",
+          "text": "2016"
+        },
+        {
+          "id": "2017",
+          "text": "2017"
+        },
+        {
+          "id": "2018",
+          "text": "2018"
+        },
+        {
+          "id": "2019",
+          "text": "2019"
+        },
+        {
+          "id": "2020",
+          "text": "2020"
+        },
+        {
+          "id": "2021",
+          "text": "2021"
+        },
+        {
+          "id": "2022",
+          "text": "2022"
+        },
+        {
+          "id": "2023",
+          "text": "2023"
+        },
+        {
+          "id": "2024",
+          "text": "2024"
+        },
+        {
+          "id": "2025",
+          "text": "2025"
+        }
+      ]
+    }
+  ]
+}

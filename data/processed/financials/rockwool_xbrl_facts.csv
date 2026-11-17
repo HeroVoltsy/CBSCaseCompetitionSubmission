@@ -1,0 +1,646 @@
+concept,context_ref,unit_ref,unit,fact_type,raw_value,numeric_value,scale,sign,decimals,period_start,period_end,period_instant,dimensions
+ifrs-full:PrincipalPlaceOfBusiness,ctx-3,,,nonNumeric,global,,,,,2025-01-01,2025-12-31,,
+mrv:SustainabilityReport,ctx-1,,,nonNumeric,Sustainability key figures,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+mrv:LinkToCorporateGovernanceReport,ctx-1,,,nonNumeric,www.rockwool.com/group/about-,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+mrv:StatementOfPolicyForDataEthics,ctx-1,,,nonNumeric,Data ethics,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+ifrs-full:DividendsRecognisedAsDistributionsToOwnersPerShare,ctx-3,sharesEUR,iso4217:EURxbrli:shares,nonFraction,4.15,4150000.0000000005,6,,-4,2025-01-01,2025-12-31,,
+ifrs-full:DividendsRecognisedAsDistributionsToOwnersPerShare,ctx-4,sharesEUR,iso4217:EURxbrli:shares,nonFraction,6.30,6300000.0,6,,-4,2024-01-01,2024-12-31,,
+mrv:DisclosureOfMaterialImpactsRisksAndOpportunitiesAndHowTheyInteractWithStrategyAndBusinessModelExplanatory,ctx-1,,,nonNumeric,"Material impacts, risks, and opportunities",,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+mrv:DescriptionofTheTaxonomyRegulation,ctx-1,,,nonNumeric,EU Taxonomy,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+mrv:StatementOfTheDiversityPolicies,ctx-1,,,nonNumeric,www.rockwool.com/group/about-us/corporate-governance/human-rights/,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+ifrs-full:Revenue,ctx-3,eur,iso4217:EUR,nonFraction,"3,877",3877000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:Revenue,ctx-4,eur,iso4217:EUR,nonFraction,"3,855",3855000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:OtherIncome,ctx-3,eur,iso4217:EUR,nonFraction,22,22000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:OtherIncome,ctx-4,eur,iso4217:EUR,nonFraction,16,16000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:RevenueAndOperatingIncome,ctx-3,eur,iso4217:EUR,nonFraction,"3,899",3899000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:RevenueAndOperatingIncome,ctx-4,eur,iso4217:EUR,nonFraction,"3,871",3871000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:RawMaterialsAndConsumablesUsed,ctx-3,eur,iso4217:EUR,nonFraction,"1,264",1264000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:RawMaterialsAndConsumablesUsed,ctx-4,eur,iso4217:EUR,nonFraction,"1,282",1282000000.0,6,,-6,2024-01-01,2024-12-31,,
+ROC:DeliveryAndIndirectExpense,ctx-3,eur,iso4217:EUR,nonFraction,505,505000000.0,6,,-6,2025-01-01,2025-12-31,,
+ROC:DeliveryAndIndirectExpense,ctx-4,eur,iso4217:EUR,nonFraction,475,475000000.0,6,,-6,2024-01-01,2024-12-31,,
+ROC:OtherExternalExpenses,ctx-3,eur,iso4217:EUR,nonFraction,351,351000000.0,6,,-6,2025-01-01,2025-12-31,,
+ROC:OtherExternalExpenses,ctx-4,eur,iso4217:EUR,nonFraction,322,322000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:EmployeeBenefitsExpense,ctx-3,eur,iso4217:EUR,nonFraction,915,915000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:EmployeeBenefitsExpense,ctx-4,eur,iso4217:EUR,nonFraction,852,852000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:OperatingExpense,ctx-3,eur,iso4217:EUR,nonFraction,"3,035",3035000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:OperatingExpense,ctx-4,eur,iso4217:EUR,nonFraction,"2,931",2931000000.0,6,,-6,2024-01-01,2024-12-31,,
+ROC:ProfitLossFromOperatingActivitiesBeforeInterestTaxesDepreciationAndAmortisationExpense,ctx-3,eur,iso4217:EUR,nonFraction,864,864000000.0,6,,-6,2025-01-01,2025-12-31,,
+ROC:ProfitLossFromOperatingActivitiesBeforeInterestTaxesDepreciationAndAmortisationExpense,ctx-4,eur,iso4217:EUR,nonFraction,940,940000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:DepreciationAmortisationAndImpairmentLossReversalOfImpairmentLossRecognisedInProfitOrLoss,ctx-3,eur,iso4217:EUR,nonFraction,294,294000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:DepreciationAmortisationAndImpairmentLossReversalOfImpairmentLossRecognisedInProfitOrLoss,ctx-4,eur,iso4217:EUR,nonFraction,263,263000000.0,6,,-6,2024-01-01,2024-12-31,,
+ROC:ProfitLossFromOperatingActivitiesBeforeValueAdjustmentOfTheRussianBusiness,ctx-3,eur,iso4217:EUR,nonFraction,570,570000000.0,6,,-6,2025-01-01,2025-12-31,,
+ROC:ProfitLossFromOperatingActivitiesBeforeValueAdjustmentOfTheRussianBusiness,ctx-4,eur,iso4217:EUR,nonFraction,677,677000000.0,6,,-6,2024-01-01,2024-12-31,,
+ROC:LossFromValueAdjustmentOfRussianBusiness,ctx-3,eur,iso4217:EUR,nonFraction,392,392000000.0,6,,-6,2025-01-01,2025-12-31,,
+ROC:LossFromValueAdjustmentOfRussianBusiness,ctx-4,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,
+ifrs-full:ProfitLossFromOperatingActivities,ctx-3,eur,iso4217:EUR,nonFraction,178,178000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:ProfitLossFromOperatingActivities,ctx-4,eur,iso4217:EUR,nonFraction,677,677000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:ShareOfProfitLossOfAssociatesAccountedForUsingEquityMethod,ctx-3,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:ShareOfProfitLossOfAssociatesAccountedForUsingEquityMethod,ctx-4,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:FinanceIncome,ctx-3,eur,iso4217:EUR,nonFraction,51,51000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:FinanceIncome,ctx-4,eur,iso4217:EUR,nonFraction,40,40000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:FinanceCosts,ctx-3,eur,iso4217:EUR,nonFraction,37,37000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:FinanceCosts,ctx-4,eur,iso4217:EUR,nonFraction,22,22000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:ProfitLossBeforeTax,ctx-3,eur,iso4217:EUR,nonFraction,193,193000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:ProfitLossBeforeTax,ctx-4,eur,iso4217:EUR,nonFraction,696,696000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:IncomeTaxExpenseContinuingOperations,ctx-3,eur,iso4217:EUR,nonFraction,165,165000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:IncomeTaxExpenseContinuingOperations,ctx-4,eur,iso4217:EUR,nonFraction,146,146000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:ProfitLoss,ctx-3,eur,iso4217:EUR,nonFraction,28,28000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:ProfitLoss,ctx-4,eur,iso4217:EUR,nonFraction,550,550000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:ProfitLossAttributableToNoncontrollingInterests,ctx-3,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,
+ifrs-full:ProfitLossAttributableToNoncontrollingInterests,ctx-4,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,
+ifrs-full:ProfitLossAttributableToOwnersOfParent,ctx-3,eur,iso4217:EUR,nonFraction,28,28000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:ProfitLossAttributableToOwnersOfParent,ctx-4,eur,iso4217:EUR,nonFraction,550,550000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:ParValuePerShare,ctx-2,sharesDKK,iso4217:DKKxbrli:shares,nonFraction,1,1.0,0,,0,,,2025-12-31,
+ifrs-full:ParValuePerShare,ctx-2,sharesEUR,iso4217:EURxbrli:shares,nonFraction,0.13,0.13,0,,2,,,2025-12-31,
+ifrs-full:BasicEarningsLossPerShare,ctx-3,sharesEUR,iso4217:EURxbrli:shares,nonFraction,0.1,0.1,0,,1,2025-01-01,2025-12-31,,
+ifrs-full:BasicEarningsLossPerShare,ctx-4,sharesEUR,iso4217:EURxbrli:shares,nonFraction,2.6,2.6,0,,1,2024-01-01,2024-12-31,,
+ifrs-full:ParValuePerShare,ctx-2,sharesDKK,iso4217:DKKxbrli:shares,nonFraction,1,1.0,0,,0,,,2025-12-31,
+ifrs-full:ParValuePerShare,ctx-2,sharesEUR,iso4217:EURxbrli:shares,nonFraction,0.13,0.13,0,,2,,,2025-12-31,
+ifrs-full:DilutedEarningsLossPerShare,ctx-3,sharesEUR,iso4217:EURxbrli:shares,nonFraction,0.1,0.1,0,,1,2025-01-01,2025-12-31,,
+ifrs-full:DilutedEarningsLossPerShare,ctx-4,sharesEUR,iso4217:EURxbrli:shares,nonFraction,2.6,2.6,0,,1,2024-01-01,2024-12-31,,
+ifrs-full:ProfitLoss,ctx-3,eur,iso4217:EUR,nonFraction,28,28000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:ProfitLoss,ctx-4,eur,iso4217:EUR,nonFraction,550,550000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,ctx-3,eur,iso4217:EUR,nonFraction,2,2000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,ctx-4,eur,iso4217:EUR,nonFraction,8,-8000000.0,6,-,-6,2024-01-01,2024-12-31,,
+ifrs-full:IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLoss,ctx-3,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLoss,ctx-4,eur,iso4217:EUR,nonFraction,3,-3000000.0,6,-,-6,2024-01-01,2024-12-31,,
+ifrs-full:OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation,ctx-3,eur,iso4217:EUR,nonFraction,40,-40000000.0,6,-,-6,2025-01-01,2025-12-31,,
+ifrs-full:OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation,ctx-4,eur,iso4217:EUR,nonFraction,9,9000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:OtherComprehensiveIncomeBeforeTaxCashFlowHedges,ctx-3,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:OtherComprehensiveIncomeBeforeTaxCashFlowHedges,ctx-4,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:OtherComprehensiveIncome,ctx-3,eur,iso4217:EUR,nonFraction,38,-38000000.0,6,-,-6,2025-01-01,2025-12-31,,
+ifrs-full:OtherComprehensiveIncome,ctx-4,eur,iso4217:EUR,nonFraction,5,5000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:ComprehensiveIncome,ctx-3,eur,iso4217:EUR,nonFraction,10,-10000000.0,6,-,-6,2025-01-01,2025-12-31,,
+ifrs-full:ComprehensiveIncome,ctx-4,eur,iso4217:EUR,nonFraction,555,555000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:ComprehensiveIncomeAttributableToNoncontrollingInterests,ctx-3,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,
+ifrs-full:ComprehensiveIncomeAttributableToNoncontrollingInterests,ctx-4,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,
+ifrs-full:ComprehensiveIncomeAttributableToOwnersOfParent,ctx-3,eur,iso4217:EUR,nonFraction,10,-10000000.0,6,-,-6,2025-01-01,2025-12-31,,
+ifrs-full:ComprehensiveIncomeAttributableToOwnersOfParent,ctx-4,eur,iso4217:EUR,nonFraction,555,555000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:Goodwill,ctx-2,eur,iso4217:EUR,nonFraction,114,114000000.0,6,,-6,,,2025-12-31,
+ifrs-full:Goodwill,ctx-5,eur,iso4217:EUR,nonFraction,136,136000000.0,6,,-6,,,2024-12-31,
+ifrs-full:ComputerSoftware,ctx-2,eur,iso4217:EUR,nonFraction,10,10000000.0,6,,-6,,,2025-12-31,
+ifrs-full:ComputerSoftware,ctx-5,eur,iso4217:EUR,nonFraction,12,12000000.0,6,,-6,,,2024-12-31,
+ROC:CustomerRelatedIntangibleAssets,ctx-2,eur,iso4217:EUR,nonFraction,37,37000000.0,6,,-6,,,2025-12-31,
+ROC:CustomerRelatedIntangibleAssets,ctx-5,eur,iso4217:EUR,nonFraction,50,50000000.0,6,,-6,,,2024-12-31,
+ifrs-full:OtherIntangibleAssets,ctx-2,eur,iso4217:EUR,nonFraction,4,4000000.0,6,,-6,,,2025-12-31,
+ifrs-full:OtherIntangibleAssets,ctx-5,eur,iso4217:EUR,nonFraction,6,6000000.0,6,,-6,,,2024-12-31,
+ifrs-full:IntangibleAssetsUnderDevelopment,ctx-2,eur,iso4217:EUR,nonFraction,14,14000000.0,6,,-6,,,2025-12-31,
+ifrs-full:IntangibleAssetsUnderDevelopment,ctx-5,eur,iso4217:EUR,nonFraction,9,9000000.0,6,,-6,,,2024-12-31,
+ifrs-full:IntangibleAssetsAndGoodwill,ctx-2,eur,iso4217:EUR,nonFraction,179,179000000.0,6,,-6,,,2025-12-31,
+ifrs-full:IntangibleAssetsAndGoodwill,ctx-5,eur,iso4217:EUR,nonFraction,213,213000000.0,6,,-6,,,2024-12-31,
+ifrs-full:LandAndBuildings,ctx-2,eur,iso4217:EUR,nonFraction,964,964000000.0,6,,-6,,,2025-12-31,
+ifrs-full:LandAndBuildings,ctx-5,eur,iso4217:EUR,nonFraction,"1,019",1019000000.0,6,,-6,,,2024-12-31,
+ROC:PlantAndMachinery,ctx-2,eur,iso4217:EUR,nonFraction,810,810000000.0,6,,-6,,,2025-12-31,
+ROC:PlantAndMachinery,ctx-5,eur,iso4217:EUR,nonFraction,820,820000000.0,6,,-6,,,2024-12-31,
+ifrs-full:OtherPropertyPlantAndEquipment,ctx-2,eur,iso4217:EUR,nonFraction,41,41000000.0,6,,-6,,,2025-12-31,
+ifrs-full:OtherPropertyPlantAndEquipment,ctx-5,eur,iso4217:EUR,nonFraction,38,38000000.0,6,,-6,,,2024-12-31,
+ifrs-full:ConstructionInProgress,ctx-2,eur,iso4217:EUR,nonFraction,520,520000000.0,6,,-6,,,2025-12-31,
+ifrs-full:ConstructionInProgress,ctx-5,eur,iso4217:EUR,nonFraction,382,382000000.0,6,,-6,,,2024-12-31,
+ifrs-full:PropertyPlantAndEquipment,ctx-2,eur,iso4217:EUR,nonFraction,"2,335",2335000000.0,6,,-6,,,2025-12-31,
+ifrs-full:PropertyPlantAndEquipment,ctx-5,eur,iso4217:EUR,nonFraction,"2,259",2259000000.0,6,,-6,,,2024-12-31,
+ifrs-full:RightofuseAssets,ctx-2,eur,iso4217:EUR,nonFraction,79,79000000.0,6,,-6,,,2025-12-31,
+ifrs-full:RightofuseAssets,ctx-5,eur,iso4217:EUR,nonFraction,77,77000000.0,6,,-6,,,2024-12-31,
+ifrs-full:NoncurrentPrepayments,ctx-2,eur,iso4217:EUR,nonFraction,24,24000000.0,6,,-6,,,2025-12-31,
+ifrs-full:NoncurrentPrepayments,ctx-5,eur,iso4217:EUR,nonFraction,13,13000000.0,6,,-6,,,2024-12-31,
+ifrs-full:InvestmentsInAssociatesAccountedForUsingEquityMethod,ctx-2,eur,iso4217:EUR,nonFraction,12,12000000.0,6,,-6,,,2025-12-31,
+ifrs-full:InvestmentsInAssociatesAccountedForUsingEquityMethod,ctx-5,eur,iso4217:EUR,nonFraction,11,11000000.0,6,,-6,,,2024-12-31,
+ROC:NonCurrentReceivablesAndLongTermDeposits,ctx-2,eur,iso4217:EUR,nonFraction,6,6000000.0,6,,-6,,,2025-12-31,
+ROC:NonCurrentReceivablesAndLongTermDeposits,ctx-5,eur,iso4217:EUR,nonFraction,12,12000000.0,6,,-6,,,2024-12-31,
+ifrs-full:DeferredTaxAssets,ctx-2,eur,iso4217:EUR,nonFraction,57,57000000.0,6,,-6,,,2025-12-31,
+ifrs-full:DeferredTaxAssets,ctx-5,eur,iso4217:EUR,nonFraction,62,62000000.0,6,,-6,,,2024-12-31,
+ifrs-full:NoncurrentFinancialAssets,ctx-2,eur,iso4217:EUR,nonFraction,99,99000000.0,6,,-6,,,2025-12-31,
+ifrs-full:NoncurrentFinancialAssets,ctx-5,eur,iso4217:EUR,nonFraction,98,98000000.0,6,,-6,,,2024-12-31,
+ifrs-full:NoncurrentAssets,ctx-2,eur,iso4217:EUR,nonFraction,"2,692",2692000000.0,6,,-6,,,2025-12-31,
+ifrs-full:NoncurrentAssets,ctx-5,eur,iso4217:EUR,nonFraction,"2,647",2647000000.0,6,,-6,,,2024-12-31,
+ifrs-full:Inventories,ctx-2,eur,iso4217:EUR,nonFraction,374,374000000.0,6,,-6,,,2025-12-31,
+ifrs-full:Inventories,ctx-5,eur,iso4217:EUR,nonFraction,381,381000000.0,6,,-6,,,2024-12-31,
+ifrs-full:CurrentTradeReceivables,ctx-2,eur,iso4217:EUR,nonFraction,333,333000000.0,6,,-6,,,2025-12-31,
+ifrs-full:CurrentTradeReceivables,ctx-5,eur,iso4217:EUR,nonFraction,338,338000000.0,6,,-6,,,2024-12-31,
+ifrs-full:OtherCurrentReceivables,ctx-2,eur,iso4217:EUR,nonFraction,49,49000000.0,6,,-6,,,2025-12-31,
+ifrs-full:OtherCurrentReceivables,ctx-5,eur,iso4217:EUR,nonFraction,57,57000000.0,6,,-6,,,2024-12-31,
+ifrs-full:CurrentPrepayments,ctx-2,eur,iso4217:EUR,nonFraction,42,42000000.0,6,,-6,,,2025-12-31,
+ifrs-full:CurrentPrepayments,ctx-5,eur,iso4217:EUR,nonFraction,31,31000000.0,6,,-6,,,2024-12-31,
+ifrs-full:CurrentTaxAssetsCurrent,ctx-2,eur,iso4217:EUR,nonFraction,44,44000000.0,6,,-6,,,2025-12-31,
+ifrs-full:CurrentTaxAssetsCurrent,ctx-5,eur,iso4217:EUR,nonFraction,31,31000000.0,6,,-6,,,2024-12-31,
+ifrs-full:CashAndCashEquivalents,ctx-2,eur,iso4217:EUR,nonFraction,108,108000000.0,6,,-6,,,2025-12-31,
+ifrs-full:CashAndCashEquivalents,ctx-5,eur,iso4217:EUR,nonFraction,403,403000000.0,6,,-6,,,2024-12-31,
+ifrs-full:CurrentAssets,ctx-2,eur,iso4217:EUR,nonFraction,950,950000000.0,6,,-6,,,2025-12-31,
+ifrs-full:CurrentAssets,ctx-5,eur,iso4217:EUR,nonFraction,"1,241",1241000000.0,6,,-6,,,2024-12-31,
+ifrs-full:Assets,ctx-2,eur,iso4217:EUR,nonFraction,"3,642",3642000000.0,6,,-6,,,2025-12-31,
+ifrs-full:Assets,ctx-5,eur,iso4217:EUR,nonFraction,"3,888",3888000000.0,6,,-6,,,2024-12-31,
+ifrs-full:IssuedCapital,ctx-2,eur,iso4217:EUR,nonFraction,28,28000000.0,6,,-6,,,2025-12-31,
+ifrs-full:IssuedCapital,ctx-5,eur,iso4217:EUR,nonFraction,29,29000000.0,6,,-6,,,2024-12-31,
+ifrs-full:ReserveOfExchangeDifferencesOnTranslation,ctx-2,eur,iso4217:EUR,nonFraction,202,-202000000.0,6,-,-6,,,2025-12-31,
+ifrs-full:ReserveOfExchangeDifferencesOnTranslation,ctx-5,eur,iso4217:EUR,nonFraction,162,-162000000.0,6,-,-6,,,2024-12-31,
+ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquity,ctx-2,eur,iso4217:EUR,nonFraction,118,118000000.0,6,,-6,,,2025-12-31,
+ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquity,ctx-5,eur,iso4217:EUR,nonFraction,182,182000000.0,6,,-6,,,2024-12-31,
+ifrs-full:RetainedEarnings,ctx-2,eur,iso4217:EUR,nonFraction,"2,798",2798000000.0,6,,-6,,,2025-12-31,
+ifrs-full:RetainedEarnings,ctx-5,eur,iso4217:EUR,nonFraction,"3,038",3038000000.0,6,,-6,,,2024-12-31,
+ifrs-full:ReserveOfCashFlowHedges,ctx-2,eur,iso4217:EUR,nonFraction,1,-1000000.0,6,-,-6,,,2025-12-31,
+ifrs-full:ReserveOfCashFlowHedges,ctx-5,eur,iso4217:EUR,nonFraction,2,-2000000.0,6,-,-6,,,2024-12-31,
+ifrs-full:EquityAttributableToOwnersOfParent,ctx-2,eur,iso4217:EUR,nonFraction,"2,741",2741000000.0,6,,-6,,,2025-12-31,
+ifrs-full:EquityAttributableToOwnersOfParent,ctx-5,eur,iso4217:EUR,nonFraction,"3,085",3085000000.0,6,,-6,,,2024-12-31,
+ifrs-full:NoncontrollingInterests,ctx-2,eur,iso4217:EUR,nonFraction,-,,6,,INF,,,2025-12-31,
+ifrs-full:NoncontrollingInterests,ctx-5,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,,,2024-12-31,
+ifrs-full:Equity,ctx-2,eur,iso4217:EUR,nonFraction,"2,741",2741000000.0,6,,-6,,,2025-12-31,
+ifrs-full:Equity,ctx-5,eur,iso4217:EUR,nonFraction,"3,086",3086000000.0,6,,-6,,,2024-12-31,
+ifrs-full:DeferredTaxLiabilities,ctx-2,eur,iso4217:EUR,nonFraction,86,86000000.0,6,,-6,,,2025-12-31,
+ifrs-full:DeferredTaxLiabilities,ctx-5,eur,iso4217:EUR,nonFraction,72,72000000.0,6,,-6,,,2024-12-31,
+ifrs-full:NoncurrentRecognisedLiabilitiesDefinedBenefitPlan,ctx-2,eur,iso4217:EUR,nonFraction,39,39000000.0,6,,-6,,,2025-12-31,
+ifrs-full:NoncurrentRecognisedLiabilitiesDefinedBenefitPlan,ctx-5,eur,iso4217:EUR,nonFraction,42,42000000.0,6,,-6,,,2024-12-31,
+ifrs-full:NoncurrentLeaseLiabilities,ctx-2,eur,iso4217:EUR,nonFraction,49,49000000.0,6,,-6,,,2025-12-31,
+ifrs-full:NoncurrentLeaseLiabilities,ctx-5,eur,iso4217:EUR,nonFraction,55,55000000.0,6,,-6,,,2024-12-31,
+ifrs-full:NoncurrentProvisions,ctx-2,eur,iso4217:EUR,nonFraction,27,27000000.0,6,,-6,,,2025-12-31,
+ifrs-full:NoncurrentProvisions,ctx-5,eur,iso4217:EUR,nonFraction,20,20000000.0,6,,-6,,,2024-12-31,
+ifrs-full:LongtermBorrowings,ctx-2,eur,iso4217:EUR,nonFraction,29,29000000.0,6,,-6,,,2025-12-31,
+ifrs-full:LongtermBorrowings,ctx-5,eur,iso4217:EUR,nonFraction,16,16000000.0,6,,-6,,,2024-12-31,
+ifrs-full:NoncurrentLiabilities,ctx-2,eur,iso4217:EUR,nonFraction,230,230000000.0,6,,-6,,,2025-12-31,
+ifrs-full:NoncurrentLiabilities,ctx-5,eur,iso4217:EUR,nonFraction,205,205000000.0,6,,-6,,,2024-12-31,
+ifrs-full:CurrentPortionOfLongtermBorrowings,ctx-2,eur,iso4217:EUR,nonFraction,165,165000000.0,6,,-6,,,2025-12-31,
+ifrs-full:CurrentPortionOfLongtermBorrowings,ctx-5,eur,iso4217:EUR,nonFraction,23,23000000.0,6,,-6,,,2024-12-31,
+ifrs-full:TradeAndOtherCurrentPayablesToTradeSuppliers,ctx-2,eur,iso4217:EUR,nonFraction,243,243000000.0,6,,-6,,,2025-12-31,
+ifrs-full:TradeAndOtherCurrentPayablesToTradeSuppliers,ctx-5,eur,iso4217:EUR,nonFraction,256,256000000.0,6,,-6,,,2024-12-31,
+ifrs-full:CurrentLeaseLiabilities,ctx-2,eur,iso4217:EUR,nonFraction,33,33000000.0,6,,-6,,,2025-12-31,
+ifrs-full:CurrentLeaseLiabilities,ctx-5,eur,iso4217:EUR,nonFraction,28,28000000.0,6,,-6,,,2024-12-31,
+ifrs-full:CurrentProvisions,ctx-2,eur,iso4217:EUR,nonFraction,7,7000000.0,6,,-6,,,2025-12-31,
+ifrs-full:CurrentProvisions,ctx-5,eur,iso4217:EUR,nonFraction,12,12000000.0,6,,-6,,,2024-12-31,
+ifrs-full:CurrentTaxLiabilitiesCurrent,ctx-2,eur,iso4217:EUR,nonFraction,50,50000000.0,6,,-6,,,2025-12-31,
+ifrs-full:CurrentTaxLiabilitiesCurrent,ctx-5,eur,iso4217:EUR,nonFraction,79,79000000.0,6,,-6,,,2024-12-31,
+ifrs-full:OtherCurrentPayables,ctx-2,eur,iso4217:EUR,nonFraction,173,173000000.0,6,,-6,,,2025-12-31,
+ifrs-full:OtherCurrentPayables,ctx-5,eur,iso4217:EUR,nonFraction,199,199000000.0,6,,-6,,,2024-12-31,
+ifrs-full:CurrentLiabilities,ctx-2,eur,iso4217:EUR,nonFraction,671,671000000.0,6,,-6,,,2025-12-31,
+ifrs-full:CurrentLiabilities,ctx-5,eur,iso4217:EUR,nonFraction,597,597000000.0,6,,-6,,,2024-12-31,
+ifrs-full:Liabilities,ctx-2,eur,iso4217:EUR,nonFraction,901,901000000.0,6,,-6,,,2025-12-31,
+ifrs-full:Liabilities,ctx-5,eur,iso4217:EUR,nonFraction,802,802000000.0,6,,-6,,,2024-12-31,
+ifrs-full:EquityAndLiabilities,ctx-2,eur,iso4217:EUR,nonFraction,"3,642",3642000000.0,6,,-6,,,2025-12-31,
+ifrs-full:EquityAndLiabilities,ctx-5,eur,iso4217:EUR,nonFraction,"3,888",3888000000.0,6,,-6,,,2024-12-31,
+ROC:ProfitLossFromOperatingActivitiesBeforeValueAdjustmentOfTheRussianBusiness,ctx-3,eur,iso4217:EUR,nonFraction,570,570000000.0,6,,-6,2025-01-01,2025-12-31,,
+ROC:ProfitLossFromOperatingActivitiesBeforeValueAdjustmentOfTheRussianBusiness,ctx-4,eur,iso4217:EUR,nonFraction,677,677000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:AdjustmentsForDepreciationAndAmortisationExpenseAndImpairmentLossReversalOfImpairmentLossRecognisedInProfitOrLoss,ctx-3,eur,iso4217:EUR,nonFraction,294,294000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:AdjustmentsForDepreciationAndAmortisationExpenseAndImpairmentLossReversalOfImpairmentLossRecognisedInProfitOrLoss,ctx-4,eur,iso4217:EUR,nonFraction,263,263000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:OtherAdjustmentsForNoncashItems,ctx-3,eur,iso4217:EUR,nonFraction,7,7000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:OtherAdjustmentsForNoncashItems,ctx-4,eur,iso4217:EUR,nonFraction,15,-15000000.0,6,-,-6,2024-01-01,2024-12-31,,
+ifrs-full:IncreaseDecreaseInWorkingCapital,ctx-3,eur,iso4217:EUR,nonFraction,94,94000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:IncreaseDecreaseInWorkingCapital,ctx-4,eur,iso4217:EUR,nonFraction,7,7000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:CashFlowsFromUsedInOperations,ctx-3,eur,iso4217:EUR,nonFraction,777,777000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:CashFlowsFromUsedInOperations,ctx-4,eur,iso4217:EUR,nonFraction,918,918000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:InterestReceivedClassifiedAsOperatingActivities,ctx-3,eur,iso4217:EUR,nonFraction,45,45000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:InterestReceivedClassifiedAsOperatingActivities,ctx-4,eur,iso4217:EUR,nonFraction,35,35000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:InterestPaidClassifiedAsOperatingActivities,ctx-3,eur,iso4217:EUR,nonFraction,21,21000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:InterestPaidClassifiedAsOperatingActivities,ctx-4,eur,iso4217:EUR,nonFraction,20,20000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:IncomeTaxesPaidClassifiedAsOperatingActivities,ctx-3,eur,iso4217:EUR,nonFraction,191,191000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:IncomeTaxesPaidClassifiedAsOperatingActivities,ctx-4,eur,iso4217:EUR,nonFraction,116,116000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:CashFlowsFromUsedInOperatingActivities,ctx-3,eur,iso4217:EUR,nonFraction,610,610000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:CashFlowsFromUsedInOperatingActivities,ctx-4,eur,iso4217:EUR,nonFraction,817,817000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,ctx-3,eur,iso4217:EUR,nonFraction,461,461000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,ctx-4,eur,iso4217:EUR,nonFraction,376,376000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,ctx-3,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,
+ifrs-full:ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,ctx-4,eur,iso4217:EUR,nonFraction,8,8000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,ctx-3,eur,iso4217:EUR,nonFraction,12,12000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,ctx-4,eur,iso4217:EUR,nonFraction,11,11000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:CashFlowsUsedInObtainingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities,ctx-3,eur,iso4217:EUR,nonFraction,2,2000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:CashFlowsUsedInObtainingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities,ctx-4,eur,iso4217:EUR,nonFraction,74,74000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:CashFlowsFromUsedInInvestingActivities,ctx-3,eur,iso4217:EUR,nonFraction,475,-475000000.0,6,-,-6,2025-01-01,2025-12-31,,
+ifrs-full:CashFlowsFromUsedInInvestingActivities,ctx-4,eur,iso4217:EUR,nonFraction,453,-453000000.0,6,-,-6,2024-01-01,2024-12-31,,
+ROC:CashFlowsFromUsedInOperatingAndInvestingActivities,ctx-3,eur,iso4217:EUR,nonFraction,135,135000000.0,6,,-6,2025-01-01,2025-12-31,,
+ROC:CashFlowsFromUsedInOperatingAndInvestingActivities,ctx-4,eur,iso4217:EUR,nonFraction,364,364000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:DividendsPaidClassifiedAsFinancingActivities,ctx-3,eur,iso4217:EUR,nonFraction,178,178000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:DividendsPaidClassifiedAsFinancingActivities,ctx-4,eur,iso4217:EUR,nonFraction,125,125000000.0,6,,-6,2024-01-01,2024-12-31,,
+ROC:PaymentsToAcquireOrRedeemEntitysSharesForShareBuyBackProgramme,ctx-3,eur,iso4217:EUR,nonFraction,154,154000000.0,6,,-6,2025-01-01,2025-12-31,,
+ROC:PaymentsToAcquireOrRedeemEntitysSharesForShareBuyBackProgramme,ctx-4,eur,iso4217:EUR,nonFraction,149,149000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:PaymentsToAcquireOrRedeemEntitysShares,ctx-3,eur,iso4217:EUR,nonFraction,3,3000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:PaymentsToAcquireOrRedeemEntitysShares,ctx-4,eur,iso4217:EUR,nonFraction,3,3000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:PaymentsFromChangesInOwnershipInterestsInSubsidiaries,ctx-3,eur,iso4217:EUR,nonFraction,3,3000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:PaymentsFromChangesInOwnershipInterestsInSubsidiaries,ctx-4,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,
+ifrs-full:PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities,ctx-3,eur,iso4217:EUR,nonFraction,31,31000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities,ctx-4,eur,iso4217:EUR,nonFraction,29,29000000.0,6,,-6,2024-01-01,2024-12-31,,
+ROC:IncreaseInNonCurrentReceivablesClassifiedAsFinancingActivities,ctx-3,eur,iso4217:EUR,nonFraction,4,-4000000.0,6,-,-6,2025-01-01,2025-12-31,,
+ROC:IncreaseInNonCurrentReceivablesClassifiedAsFinancingActivities,ctx-4,eur,iso4217:EUR,nonFraction,3,3000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:ProceedsFromBorrowingsClassifiedAsFinancingActivities,ctx-3,eur,iso4217:EUR,nonFraction,150,150000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:ProceedsFromBorrowingsClassifiedAsFinancingActivities,ctx-4,eur,iso4217:EUR,nonFraction,13,13000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:RepaymentsOfBorrowingsClassifiedAsFinancingActivities,ctx-3,eur,iso4217:EUR,nonFraction,3,3000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:RepaymentsOfBorrowingsClassifiedAsFinancingActivities,ctx-4,eur,iso4217:EUR,nonFraction,13,13000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:CashFlowsFromUsedInFinancingActivities,ctx-3,eur,iso4217:EUR,nonFraction,218,-218000000.0,6,-,-6,2025-01-01,2025-12-31,,
+ifrs-full:CashFlowsFromUsedInFinancingActivities,ctx-4,eur,iso4217:EUR,nonFraction,309,-309000000.0,6,-,-6,2024-01-01,2024-12-31,,
+ifrs-full:IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,ctx-3,eur,iso4217:EUR,nonFraction,83,-83000000.0,6,-,-6,2025-01-01,2025-12-31,,
+ifrs-full:IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,ctx-4,eur,iso4217:EUR,nonFraction,55,55000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:CashAndCashEquivalentsIfDifferentFromStatementOfFinancialPosition,ctx-5,eur,iso4217:EUR,nonFraction,402,402000000.0,6,,-6,,,2024-12-31,
+ifrs-full:CashAndCashEquivalentsIfDifferentFromStatementOfFinancialPosition,ctx-6,eur,iso4217:EUR,nonFraction,353,353000000.0,6,,-6,,,2023-12-31,
+ifrs-full:EffectOfExchangeRateChangesOnCashAndCashEquivalents,ctx-3,eur,iso4217:EUR,nonFraction,20,20000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:EffectOfExchangeRateChangesOnCashAndCashEquivalents,ctx-4,eur,iso4217:EUR,nonFraction,6,-6000000.0,6,-,-6,2024-01-01,2024-12-31,,
+ROC:IncreaseDecreaseInCashAndCashEquivalentsLossFromValueAdjustmentOfRussianBusiness,ctx-3,eur,iso4217:EUR,nonFraction,243,-243000000.0,6,-,-6,2025-01-01,2025-12-31,,
+ROC:IncreaseDecreaseInCashAndCashEquivalentsLossFromValueAdjustmentOfRussianBusiness,ctx-4,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,
+ifrs-full:CashAndCashEquivalentsIfDifferentFromStatementOfFinancialPosition,ctx-2,eur,iso4217:EUR,nonFraction,96,96000000.0,6,,-6,,,2025-12-31,
+ifrs-full:CashAndCashEquivalentsIfDifferentFromStatementOfFinancialPosition,ctx-5,eur,iso4217:EUR,nonFraction,402,402000000.0,6,,-6,,,2024-12-31,
+ifrs-full:UndrawnBorrowingFacilities,ctx-2,eur,iso4217:EUR,nonFraction,650,650000000.0,6,,-6,,,2025-12-31,
+ifrs-full:UndrawnBorrowingFacilities,ctx-5,eur,iso4217:EUR,nonFraction,600,600000000.0,6,,-6,,,2024-12-31,
+ifrs-full:DisclosureOfMaterialAccountingPolicyInformationExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForCashFlowsExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfCashFlowStatementExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:Equity,ctx-7,eur,iso4217:EUR,nonFraction,29,29000000.0,6,,-6,,,2024-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:Equity,ctx-10,eur,iso4217:EUR,nonFraction,162,-162000000.0,6,-,-6,,,2024-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:Equity,ctx-13,eur,iso4217:EUR,nonFraction,182,182000000.0,6,,-6,,,2024-12-31,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:Equity,ctx-16,eur,iso4217:EUR,nonFraction,"3,038",3038000000.0,6,,-6,,,2024-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:Equity,ctx-19,eur,iso4217:EUR,nonFraction,2,-2000000.0,6,-,-6,,,2024-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:Equity,ctx-22,eur,iso4217:EUR,nonFraction,"3,085",3085000000.0,6,,-6,,,2024-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:Equity,ctx-25,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,,,2024-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:Equity,ctx-5,eur,iso4217:EUR,nonFraction,"3,086",3086000000.0,6,,-6,,,2024-12-31,
+ifrs-full:ProfitLoss,ctx-8,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:ProfitLoss,ctx-11,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:ProfitLoss,ctx-14,eur,iso4217:EUR,nonFraction,118,118000000.0,6,,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:ProfitLoss,ctx-17,eur,iso4217:EUR,nonFraction,90,-90000000.0,6,-,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:ProfitLoss,ctx-20,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:ProfitLoss,ctx-23,eur,iso4217:EUR,nonFraction,28,28000000.0,6,,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:ProfitLoss,ctx-26,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:ProfitLoss,ctx-3,eur,iso4217:EUR,nonFraction,28,28000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,ctx-8,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,ctx-11,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,ctx-14,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,ctx-17,eur,iso4217:EUR,nonFraction,2,2000000.0,6,,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,ctx-20,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,ctx-23,eur,iso4217:EUR,nonFraction,2,2000000.0,6,,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,ctx-26,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,ctx-3,eur,iso4217:EUR,nonFraction,2,2000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:OtherComprehensiveIncomeBeforeTaxCashFlowHedges,ctx-8,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxCashFlowHedges,ctx-11,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxCashFlowHedges,ctx-14,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxCashFlowHedges,ctx-17,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxCashFlowHedges,ctx-20,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxCashFlowHedges,ctx-23,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxCashFlowHedges,ctx-26,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxCashFlowHedges,ctx-3,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation,ctx-8,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation,ctx-11,eur,iso4217:EUR,nonFraction,40,-40000000.0,6,-,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation,ctx-14,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation,ctx-17,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation,ctx-20,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation,ctx-23,eur,iso4217:EUR,nonFraction,40,-40000000.0,6,-,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation,ctx-26,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation,ctx-3,eur,iso4217:EUR,nonFraction,40,-40000000.0,6,-,-6,2025-01-01,2025-12-31,,
+ifrs-full:IncomeTaxRelatingToComponentsOfOtherComprehensiveIncome,ctx-8,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:IncomeTaxRelatingToComponentsOfOtherComprehensiveIncome,ctx-11,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:IncomeTaxRelatingToComponentsOfOtherComprehensiveIncome,ctx-14,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:IncomeTaxRelatingToComponentsOfOtherComprehensiveIncome,ctx-17,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:IncomeTaxRelatingToComponentsOfOtherComprehensiveIncome,ctx-20,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:IncomeTaxRelatingToComponentsOfOtherComprehensiveIncome,ctx-23,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:IncomeTaxRelatingToComponentsOfOtherComprehensiveIncome,ctx-26,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:IncomeTaxRelatingToComponentsOfOtherComprehensiveIncome,ctx-3,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:ComprehensiveIncome,ctx-8,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:ComprehensiveIncome,ctx-11,eur,iso4217:EUR,nonFraction,40,-40000000.0,6,-,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:ComprehensiveIncome,ctx-14,eur,iso4217:EUR,nonFraction,118,118000000.0,6,,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:ComprehensiveIncome,ctx-17,eur,iso4217:EUR,nonFraction,89,-89000000.0,6,-,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:ComprehensiveIncome,ctx-20,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:ComprehensiveIncome,ctx-23,eur,iso4217:EUR,nonFraction,10,-10000000.0,6,-,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:ComprehensiveIncome,ctx-26,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:ComprehensiveIncome,ctx-3,eur,iso4217:EUR,nonFraction,10,-10000000.0,6,-,-6,2025-01-01,2025-12-31,,
+ifrs-full:ReductionOfIssuedCapital,ctx-8,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:ReductionOfIssuedCapital,ctx-11,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:ReductionOfIssuedCapital,ctx-14,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:ReductionOfIssuedCapital,ctx-17,eur,iso4217:EUR,nonFraction,1,-1000000.0,6,-,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:ReductionOfIssuedCapital,ctx-20,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:ReductionOfIssuedCapital,ctx-23,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:ReductionOfIssuedCapital,ctx-26,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:ReductionOfIssuedCapital,ctx-3,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,
+ROC:PurchaseOfTreasurySharesForShareBuyBackProgramme,ctx-8,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ROC:PurchaseOfTreasurySharesForShareBuyBackProgramme,ctx-11,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ROC:PurchaseOfTreasurySharesForShareBuyBackProgramme,ctx-14,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ROC:PurchaseOfTreasurySharesForShareBuyBackProgramme,ctx-17,eur,iso4217:EUR,nonFraction,154,154000000.0,6,,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ROC:PurchaseOfTreasurySharesForShareBuyBackProgramme,ctx-20,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ROC:PurchaseOfTreasurySharesForShareBuyBackProgramme,ctx-23,eur,iso4217:EUR,nonFraction,154,154000000.0,6,,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ROC:PurchaseOfTreasurySharesForShareBuyBackProgramme,ctx-26,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ROC:PurchaseOfTreasurySharesForShareBuyBackProgramme,ctx-3,eur,iso4217:EUR,nonFraction,154,154000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:PurchaseOfTreasuryShares,ctx-8,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:PurchaseOfTreasuryShares,ctx-11,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:PurchaseOfTreasuryShares,ctx-14,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:PurchaseOfTreasuryShares,ctx-17,eur,iso4217:EUR,nonFraction,3,3000000.0,6,,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:PurchaseOfTreasuryShares,ctx-20,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:PurchaseOfTreasuryShares,ctx-23,eur,iso4217:EUR,nonFraction,3,3000000.0,6,,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:PurchaseOfTreasuryShares,ctx-26,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:PurchaseOfTreasuryShares,ctx-3,eur,iso4217:EUR,nonFraction,3,3000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:IncreaseDecreaseThroughSharebasedPaymentTransactions,ctx-8,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:IncreaseDecreaseThroughSharebasedPaymentTransactions,ctx-11,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:IncreaseDecreaseThroughSharebasedPaymentTransactions,ctx-14,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:IncreaseDecreaseThroughSharebasedPaymentTransactions,ctx-17,eur,iso4217:EUR,nonFraction,3,3000000.0,6,,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:IncreaseDecreaseThroughSharebasedPaymentTransactions,ctx-20,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:IncreaseDecreaseThroughSharebasedPaymentTransactions,ctx-23,eur,iso4217:EUR,nonFraction,3,3000000.0,6,,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:IncreaseDecreaseThroughSharebasedPaymentTransactions,ctx-26,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:IncreaseDecreaseThroughSharebasedPaymentTransactions,ctx-3,eur,iso4217:EUR,nonFraction,3,3000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,ctx-8,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,ctx-11,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,ctx-14,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,ctx-17,eur,iso4217:EUR,nonFraction,2,-2000000.0,6,-,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,ctx-20,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,ctx-23,eur,iso4217:EUR,nonFraction,2,-2000000.0,6,-,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,ctx-26,eur,iso4217:EUR,nonFraction,1,-1000000.0,6,-,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,ctx-3,eur,iso4217:EUR,nonFraction,3,-3000000.0,6,-,-6,2025-01-01,2025-12-31,,
+ifrs-full:DividendsPaid,ctx-8,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:DividendsPaid,ctx-11,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:DividendsPaid,ctx-14,eur,iso4217:EUR,nonFraction,182,182000000.0,6,,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:DividendsPaid,ctx-17,eur,iso4217:EUR,nonFraction,4,-4000000.0,6,-,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:DividendsPaid,ctx-20,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:DividendsPaid,ctx-23,eur,iso4217:EUR,nonFraction,178,178000000.0,6,,-6,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:DividendsPaid,ctx-26,eur,iso4217:EUR,nonFraction,-,,6,,INF,2025-01-01,2025-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:DividendsPaid,ctx-3,eur,iso4217:EUR,nonFraction,178,178000000.0,6,,-6,2025-01-01,2025-12-31,,
+ifrs-full:Equity,ctx-9,eur,iso4217:EUR,nonFraction,28,28000000.0,6,,-6,,,2025-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:Equity,ctx-12,eur,iso4217:EUR,nonFraction,202,-202000000.0,6,-,-6,,,2025-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:Equity,ctx-15,eur,iso4217:EUR,nonFraction,118,118000000.0,6,,-6,,,2025-12-31,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:Equity,ctx-18,eur,iso4217:EUR,nonFraction,"2,798",2798000000.0,6,,-6,,,2025-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:Equity,ctx-21,eur,iso4217:EUR,nonFraction,1,-1000000.0,6,-,-6,,,2025-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:Equity,ctx-24,eur,iso4217:EUR,nonFraction,"2,741",2741000000.0,6,,-6,,,2025-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:Equity,ctx-27,eur,iso4217:EUR,nonFraction,-,,6,,INF,,,2025-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:Equity,ctx-2,eur,iso4217:EUR,nonFraction,"2,741",2741000000.0,6,,-6,,,2025-12-31,
+ifrs-full:Equity,ctx-28,eur,iso4217:EUR,nonFraction,29,29000000.0,6,,-6,,,2023-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:Equity,ctx-30,eur,iso4217:EUR,nonFraction,171,-171000000.0,6,-,-6,,,2023-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:Equity,ctx-32,eur,iso4217:EUR,nonFraction,125,125000000.0,6,,-6,,,2023-12-31,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:Equity,ctx-34,eur,iso4217:EUR,nonFraction,"2,824",2824000000.0,6,,-6,,,2023-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:Equity,ctx-36,eur,iso4217:EUR,nonFraction,3,-3000000.0,6,-,-6,,,2023-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:Equity,ctx-38,eur,iso4217:EUR,nonFraction,"2,804",2804000000.0,6,,-6,,,2023-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:Equity,ctx-40,eur,iso4217:EUR,nonFraction,-,,6,,INF,,,2023-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:Equity,ctx-6,eur,iso4217:EUR,nonFraction,"2,804",2804000000.0,6,,-6,,,2023-12-31,
+ifrs-full:ProfitLoss,ctx-29,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:ProfitLoss,ctx-31,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:ProfitLoss,ctx-33,eur,iso4217:EUR,nonFraction,182,182000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:ProfitLoss,ctx-35,eur,iso4217:EUR,nonFraction,368,368000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:ProfitLoss,ctx-37,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:ProfitLoss,ctx-39,eur,iso4217:EUR,nonFraction,550,550000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:ProfitLoss,ctx-41,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:ProfitLoss,ctx-4,eur,iso4217:EUR,nonFraction,550,550000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,ctx-29,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,ctx-31,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,ctx-33,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,ctx-35,eur,iso4217:EUR,nonFraction,8,-8000000.0,6,-,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,ctx-37,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,ctx-39,eur,iso4217:EUR,nonFraction,8,-8000000.0,6,-,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,ctx-41,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,ctx-4,eur,iso4217:EUR,nonFraction,8,-8000000.0,6,-,-6,2024-01-01,2024-12-31,,
+ifrs-full:OtherComprehensiveIncomeBeforeTaxCashFlowHedges,ctx-29,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxCashFlowHedges,ctx-31,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxCashFlowHedges,ctx-33,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxCashFlowHedges,ctx-35,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxCashFlowHedges,ctx-37,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxCashFlowHedges,ctx-39,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxCashFlowHedges,ctx-41,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxCashFlowHedges,ctx-4,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation,ctx-29,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation,ctx-31,eur,iso4217:EUR,nonFraction,9,9000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation,ctx-33,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation,ctx-35,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation,ctx-37,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation,ctx-39,eur,iso4217:EUR,nonFraction,9,9000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation,ctx-41,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation,ctx-4,eur,iso4217:EUR,nonFraction,9,9000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:IncomeTaxRelatingToComponentsOfOtherComprehensiveIncome,ctx-29,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:IncomeTaxRelatingToComponentsOfOtherComprehensiveIncome,ctx-31,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:IncomeTaxRelatingToComponentsOfOtherComprehensiveIncome,ctx-33,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:IncomeTaxRelatingToComponentsOfOtherComprehensiveIncome,ctx-35,eur,iso4217:EUR,nonFraction,3,-3000000.0,6,-,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:IncomeTaxRelatingToComponentsOfOtherComprehensiveIncome,ctx-39,eur,iso4217:EUR,nonFraction,3,-3000000.0,6,-,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:IncomeTaxRelatingToComponentsOfOtherComprehensiveIncome,ctx-41,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:IncomeTaxRelatingToComponentsOfOtherComprehensiveIncome,ctx-4,eur,iso4217:EUR,nonFraction,3,-3000000.0,6,-,-6,2024-01-01,2024-12-31,,
+ifrs-full:ComprehensiveIncome,ctx-29,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:ComprehensiveIncome,ctx-31,eur,iso4217:EUR,nonFraction,9,9000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:ComprehensiveIncome,ctx-33,eur,iso4217:EUR,nonFraction,182,182000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:ComprehensiveIncome,ctx-35,eur,iso4217:EUR,nonFraction,363,363000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:ComprehensiveIncome,ctx-37,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:ComprehensiveIncome,ctx-39,eur,iso4217:EUR,nonFraction,555,555000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:ComprehensiveIncome,ctx-41,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:ComprehensiveIncome,ctx-4,eur,iso4217:EUR,nonFraction,555,555000000.0,6,,-6,2024-01-01,2024-12-31,,
+ROC:PurchaseOfTreasurySharesForShareBuyBackProgramme,ctx-29,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ROC:PurchaseOfTreasurySharesForShareBuyBackProgramme,ctx-31,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ROC:PurchaseOfTreasurySharesForShareBuyBackProgramme,ctx-33,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ROC:PurchaseOfTreasurySharesForShareBuyBackProgramme,ctx-35,eur,iso4217:EUR,nonFraction,149,149000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ROC:PurchaseOfTreasurySharesForShareBuyBackProgramme,ctx-37,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ROC:PurchaseOfTreasurySharesForShareBuyBackProgramme,ctx-39,eur,iso4217:EUR,nonFraction,149,149000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ROC:PurchaseOfTreasurySharesForShareBuyBackProgramme,ctx-41,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ROC:PurchaseOfTreasurySharesForShareBuyBackProgramme,ctx-4,eur,iso4217:EUR,nonFraction,149,149000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:PurchaseOfTreasuryShares,ctx-29,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:PurchaseOfTreasuryShares,ctx-31,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:PurchaseOfTreasuryShares,ctx-33,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:PurchaseOfTreasuryShares,ctx-35,eur,iso4217:EUR,nonFraction,3,3000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:PurchaseOfTreasuryShares,ctx-37,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:PurchaseOfTreasuryShares,ctx-39,eur,iso4217:EUR,nonFraction,3,3000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:PurchaseOfTreasuryShares,ctx-41,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:PurchaseOfTreasuryShares,ctx-4,eur,iso4217:EUR,nonFraction,3,3000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:IncreaseDecreaseThroughSharebasedPaymentTransactions,ctx-29,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:IncreaseDecreaseThroughSharebasedPaymentTransactions,ctx-31,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:IncreaseDecreaseThroughSharebasedPaymentTransactions,ctx-33,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:IncreaseDecreaseThroughSharebasedPaymentTransactions,ctx-35,eur,iso4217:EUR,nonFraction,3,3000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:IncreaseDecreaseThroughSharebasedPaymentTransactions,ctx-37,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:IncreaseDecreaseThroughSharebasedPaymentTransactions,ctx-39,eur,iso4217:EUR,nonFraction,3,3000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:IncreaseDecreaseThroughSharebasedPaymentTransactions,ctx-41,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:IncreaseDecreaseThroughSharebasedPaymentTransactions,ctx-4,eur,iso4217:EUR,nonFraction,3,3000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,ctx-29,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,ctx-31,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,ctx-33,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,ctx-35,eur,iso4217:EUR,nonFraction,1,-1000000.0,6,-,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,ctx-37,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,ctx-39,eur,iso4217:EUR,nonFraction,1,-1000000.0,6,-,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,ctx-41,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,ctx-4,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,
+ifrs-full:DividendsPaid,ctx-29,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:DividendsPaid,ctx-31,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:DividendsPaid,ctx-33,eur,iso4217:EUR,nonFraction,125,125000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:DividendsPaid,ctx-35,eur,iso4217:EUR,nonFraction,1,-1000000.0,6,-,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:DividendsPaid,ctx-37,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:DividendsPaid,ctx-39,eur,iso4217:EUR,nonFraction,124,124000000.0,6,,-6,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:DividendsPaid,ctx-41,eur,iso4217:EUR,nonFraction,-,,6,,INF,2024-01-01,2024-12-31,,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:DividendsPaid,ctx-4,eur,iso4217:EUR,nonFraction,124,124000000.0,6,,-6,2024-01-01,2024-12-31,,
+ifrs-full:Equity,ctx-7,eur,iso4217:EUR,nonFraction,29,29000000.0,6,,-6,,,2024-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:IssuedCapitalMember
+ifrs-full:Equity,ctx-10,eur,iso4217:EUR,nonFraction,162,-162000000.0,6,-,-6,,,2024-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember
+ifrs-full:Equity,ctx-13,eur,iso4217:EUR,nonFraction,182,182000000.0,6,,-6,,,2024-12-31,ifrs-full:ComponentsOfEquityAxis=ROC:DividendsProposedOrDeclaredBeforeFinancialStatementsAuthorisedForIssueButNotRecognisedAsDistributionToOwnersRecognisedInEquityMember
+ifrs-full:Equity,ctx-16,eur,iso4217:EUR,nonFraction,"3,038",3038000000.0,6,,-6,,,2024-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:RetainedEarningsMember
+ifrs-full:Equity,ctx-19,eur,iso4217:EUR,nonFraction,2,-2000000.0,6,-,-6,,,2024-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:ReserveOfCashFlowHedgesMember
+ifrs-full:Equity,ctx-22,eur,iso4217:EUR,nonFraction,"3,085",3085000000.0,6,,-6,,,2024-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:EquityAttributableToOwnersOfParentMember
+ifrs-full:Equity,ctx-25,eur,iso4217:EUR,nonFraction,1,1000000.0,6,,-6,,,2024-12-31,ifrs-full:ComponentsOfEquityAxis=ifrs-full:NoncontrollingInterestsMember
+ifrs-full:Equity,ctx-5,eur,iso4217:EUR,nonFraction,"3,086",3086000000.0,6,,-6,,,2024-12-31,
+ifrs-full:DescriptionOfAccountingPolicyForDividendsExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfDividendsExplanatory,ctx-3,,,nonNumeric,Dividend is included as a liability at the time of adoption by the Annual,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForTreasurySharesExplanatory,ctx-3,,,nonNumeric,"Sale and purchase of, as well as dividends on treasury shares are",,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfTreasurySharesExplanatory,ctx-3,,,nonNumeric,"Sale and purchase of, as well as dividends on treasury shares are",,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfReservesAndOtherEquityInterestExplanatory,ctx-3,,,nonNumeric,The reserve for,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfGeneralInformationAboutFinancialStatementsExplanatory,ctx-3,,,nonNumeric,1.2 Material accounting policy information,,,,,2025-01-01,2025-12-31,,
+ifrs-full:StatementOfIFRSCompliance,ctx-3,,,nonNumeric,The Annual Report for ROCKWOOL A/S has been prepared in,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfBasisOfConsolidationExplanatory,ctx-3,,,nonNumeric,Group Accounts - principles of consolidation,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForFunctionalCurrencyExplanatory,ctx-3,,,nonNumeric,Translation of foreign currency,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForForeignCurrencyTranslationExplanatory,ctx-3,,,nonNumeric,Translation of foreign currency,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfChangesInAccountingPoliciesExplanatory,ctx-3,,,nonNumeric,1.3 New and amended standards and,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfChangesInAccountingPoliciesAccountingEstimatesAndErrorsExplanatory,ctx-3,,,nonNumeric,1.3 New and amended standards and,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfExpectedImpactOfInitialApplicationOfNewStandardsOrInterpretations,ctx-3,,,nonNumeric,"New standards, amendments and interpretations adopted but",,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfImpairmentOfAssetsExplanatory,ctx-3,,,nonNumeric,1.5 Loss from value adjustment of the Russian,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfAccountingJudgementsAndEstimatesExplanatory,ctx-3,,,nonNumeric,Critical estimates and judgements,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfNatureOfEntitysOperationsAndPrincipalActivities,ctx-3,,,nonNumeric,The Group produces and sells a range of non-combustible stone wool,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForRecognitionOfRevenue,ctx-3,,,nonNumeric,The Group produces and sells a range of non-combustible stone wool,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForDiscountsAndRebatesExplanatory,ctx-3,,,nonNumeric,The products are often sold with volume discounts based on aggregate,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForSegmentReportingExplanatory,ctx-3,,,nonNumeric,Group Management has determined the business segments for the,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfRevenueFromContractsWithCustomersExplanatory,ctx-3,,,nonNumeric,2.1 Revenue and segmented accounts,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfRevenueExplanatory,ctx-3,,,nonNumeric,2.1 Revenue and segmented accounts,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfEntitysReportableSegmentsExplanatory,ctx-3,,,nonNumeric,2.1 Revenue and segmented accounts,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfEmployeeBenefitsExplanatory,ctx-3,,,nonNumeric,2.2 Employee benefits expenses,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfInformationAboutKeyManagementPersonnelExplanatory,ctx-3,,,nonNumeric,2.2 Employee benefits expenses,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfRelatedPartyExplanatory,ctx-3,,,nonNumeric,2.2 Employee benefits expenses,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfInformationAboutEmployeesExplanatory,ctx-3,,,nonNumeric,Benefits expenses own workforce,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfExpensesByNatureExplanatory,ctx-3,,,nonNumeric,Benefits expenses own workforce,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfExpensesExplanatory,ctx-3,,,nonNumeric,Benefits expenses own workforce,,,,,2025-01-01,2025-12-31,,
+fsa:AverageNumberOfEmployees,ctx-1,pure,xbrli:pure,nonFraction,"12,732",12732.0,0,,0,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+fsa:AverageNumberOfEmployees,ctx-57,pure,xbrli:pure,nonFraction,"12,174",12174.0,0,,0,2024-01-01,2024-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+ifrs-full:DisclosureOfSharebasedPaymentArrangementsExplanatory,ctx-3,,,nonNumeric,2.3 Long-term incentive programmes,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForSharebasedPaymentTransactionsExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfDepreciationAndAmortisationExpenseExplanatory,ctx-3,,,nonNumeric,Intangible assets,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfIntangibleAssetsExplanatory,ctx-3,,,nonNumeric,3.1 Intangible assets,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfGoodwillExplanatory,ctx-3,,,nonNumeric,3.1 Intangible assets,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfIntangibleAssetsAndGoodwillExplanatory,ctx-3,,,nonNumeric,3.1 Intangible assets,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfPropertyPlantAndEquipmentExplanatory,ctx-3,,,nonNumeric,"3.2 Property, plant and equipment",,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfLeasesExplanatory,ctx-3,,,nonNumeric,3.3 Leases,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForIntangibleAssetsOtherThanGoodwillExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForGoodwillExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForIntangibleAssetsAndGoodwillExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForImpairmentOfAssetsExplanatory,ctx-3,,,nonNumeric,Goodwill arisen from the acquisition of enterprises and activities is stated at cost,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForBorrowingCostsExplanatory,ctx-3,,,nonNumeric,"Property, plant and equipment",,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForPropertyPlantAndEquipmentExplanatory,ctx-3,,,nonNumeric,"Property, plant and equipment",,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForDepreciationExpenseExplanatory,ctx-3,,,nonNumeric,Depreciation is provided on a straight-line basis over the expected useful lives of the,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForGovernmentGrants,ctx-3,,,nonNumeric,"Investment grants related to property, plant and equipment are deducted from",,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfGovernmentGrantsExplanatory,ctx-3,,,nonNumeric,"Investment grants related to property, plant and equipment are deducted from",,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForLeasesExplanatory,ctx-3,,,nonNumeric,Leases,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForImpairmentOfNonfinancialAssetsExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfOtherNoncurrentLiabilitiesExplanatory,ctx-3,,,nonNumeric,3.6 Employee benefit obligations,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForEmployeeBenefitsExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfOtherProvisionsContingentLiabilitiesAndContingentAssetsExplanatory,ctx-3,,,nonNumeric,3.7 Provisions,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfProvisionsExplanatory,ctx-3,,,nonNumeric,3.7 Provisions,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForProvisionsExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfInventoriesExplanatory,ctx-3,,,nonNumeric,4.1 Inventories,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfCreditRiskExplanatory,ctx-3,,,nonNumeric,4.2 Trade receivables,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfAllowanceForCreditLossesExplanatory,ctx-3,,,nonNumeric,4.2 Trade receivables,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfTradeAndOtherReceivablesExplanatory,ctx-3,,,nonNumeric,4.2 Trade receivables,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForMeasuringInventories,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForTradeAndOtherReceivablesExplanatory,ctx-3,,,nonNumeric,Trade receivables,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfMarketRiskExplanatory,ctx-3,,,nonNumeric,Exchange rate risk,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfFinanceIncomeExplanatory,ctx-3,,,nonNumeric,5.1 Finance income and Finance expenses,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfFinanceIncomeExpenseExplanatory,ctx-3,,,nonNumeric,5.1 Finance income and Finance expenses,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfFinancialRiskManagementExplanatory,ctx-3,,,nonNumeric,5.2 Financial risks and instruments,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfFinancialInstrumentsExplanatory,ctx-3,,,nonNumeric,5.2 Financial risks and instruments,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForFinanceCostsExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForInterestIncomeAndExpenseExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForFinanceIncomeAndCostsExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfInterestExpenseExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfInterestIncomeExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfInterestIncomeExpenseExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfFinanceCostExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForFinancialInstrumentsAtFairValueThroughProfitOrLossExplanatory,ctx-3,,,nonNumeric,Financial risks and instruments,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForFinancialInstrumentsExplanatory,ctx-3,,,nonNumeric,Financial risks and instruments,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfFairValueOfFinancialInstrumentsExplanatory,ctx-3,,,nonNumeric,Financial risks and instruments,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForDerivativeFinancialInstrumentsAndHedgingExplanatory,ctx-3,,,nonNumeric,Financial risks and instruments,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForDerivativeFinancialInstrumentsExplanatory,ctx-3,,,nonNumeric,Financial risks and instruments,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfDerivativeFinancialInstrumentsExplanatory,ctx-3,,,nonNumeric,Financial risks and instruments,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForHedgingExplanatory,ctx-3,,,nonNumeric,Changes in the fair value of derivative financial instruments that meet the,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfEffectOfChangesInForeignExchangeRatesExplanatory,ctx-3,,,nonNumeric,The Group’s revenue and expenditures are subject to exchange,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfLiquidityRiskExplanatory,ctx-3,,,nonNumeric,The current surplus and deficit liquidity in the Group’s companies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfFairValueMeasurementExplanatory,ctx-3,,,nonNumeric,Financial instruments,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfCashAndCashEquivalentsExplanatory,ctx-3,,,nonNumeric,5.3 Cash,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfBorrowingsExplanatory,ctx-3,,,nonNumeric,5.4 Loans,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForBorrowingsExplanatory,ctx-3,,,nonNumeric,Bank loans are measured at amortised cost. The carrying amount,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfShareCapitalReservesAndOtherEquityInterestExplanatory,ctx-3,,,nonNumeric,5.5 Share capital,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfIssuedCapitalExplanatory,ctx-3,,,nonNumeric,5.5 Share capital,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfEarningsPerShareExplanatory,ctx-3,,,nonNumeric,5.7 Earnings per share,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfObjectivesPoliciesAndProcessesForManagingCapitalExplanatory,ctx-3,,,nonNumeric,Capital structure and capital allocation,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfBusinessCombinationsExplanatory,ctx-3,,,nonNumeric,5.8 Business combinations and asset acquisitions,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForBusinessCombinationsAndGoodwillExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForBusinessCombinationsExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfIncomeTaxExplanatory,ctx-3,,,nonNumeric,6.1 Tax,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfTaxReceivablesAndPayablesExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForIncomeTaxExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForDeferredIncomeTaxExplanatory,ctx-3,,,nonNumeric,Provisions for deferred tax are calculated on all temporary differences,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfDeferredTaxesExplanatory,ctx-3,,,nonNumeric,Provisions for deferred tax are calculated on all temporary differences,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfContingentLiabilitiesExplanatory,ctx-3,,,nonNumeric,6.2 Commitments and contingent liabilities,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfCommitmentsExplanatory,ctx-3,,,nonNumeric,6.2 Commitments and contingent liabilities,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfCommitmentsAndContingentLiabilitiesExplanatory,ctx-3,,,nonNumeric,6.2 Commitments and contingent liabilities,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfAuditorsRemunerationExplanatory,ctx-3,,,nonNumeric,6.4 Auditor’s fee,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfEventsAfterReportingPeriodExplanatory,ctx-3,,,nonNumeric,6.5 Events after the reporting date,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DescriptionOfAccountingPolicyForContingentLiabilitiesAndContingentAssetsExplanatory,ctx-3,,,nonNumeric,Accounting policies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfSignificantInvestmentsInAssociatesExplanatory,ctx-3,,,nonNumeric,AssociatesAKUART A/S Denmark 20RESO SA France 20ScanArc Plasma Technologies AB Sweden 34RESO SWISS SA Switzerland 20,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfSignificantInvestmentsInSubsidiariesExplanatory,ctx-3,,,nonNumeric,6.6 Group companies,,,,,2025-01-01,2025-12-31,,
+ifrs-full:DisclosureOfCompositionOfGroupExplanatory,ctx-3,,,nonNumeric,6.6 Group companies,,,,,2025-01-01,2025-12-31,,
+sob:StatementByExecutiveAndSupervisoryBoards,ctx-1,,,nonNumeric,The Board of Directors and the Registered Directors have today,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+cmn:NameAndSurnameOfMemberOfSupervisoryBoard,ctx-44,,,nonNumeric,Thomas Kähler,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfMemberOfSupervisoryBoardDimension=1
+cmn:TitleOfMemberOfSupervisoryBoard,ctx-44,,,nonNumeric,Chairman,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfMemberOfSupervisoryBoardDimension=1
+cmn:NameAndSurnameOfMemberOfSupervisoryBoard,ctx-47,,,nonNumeric,Carsten Kähler,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfMemberOfSupervisoryBoardDimension=4
+cmn:NameAndSurnameOfMemberOfSupervisoryBoard,ctx-46,,,nonNumeric,Jørgen Tang-Jensen,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfMemberOfSupervisoryBoardDimension=2
+cmn:TitleOfMemberOfSupervisoryBoard,ctx-46,,,nonNumeric,Deputy Chairman,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfMemberOfSupervisoryBoardDimension=2
+cmn:NameAndSurnameOfMemberOfSupervisoryBoard,ctx-50,,,nonNumeric,Claes Westerlind,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfMemberOfSupervisoryBoardDimension=5
+cmn:NameAndSurnameOfMemberOfSupervisoryBoard,ctx-49,,,nonNumeric,Rebekka Glasser,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfMemberOfSupervisoryBoardDimension=3
+cmn:NameAndSurnameOfMemberOfSupervisoryBoard,ctx-45,,,nonNumeric,Connie Enghus Theisen,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfMemberOfSupervisoryBoardDimension=7
+cmn:NameAndSurnameOfMemberOfSupervisoryBoard,ctx-51,,,nonNumeric,Ilse Irene Henne,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfMemberOfSupervisoryBoardDimension=6
+cmn:NameAndSurnameOfMemberOfSupervisoryBoard,ctx-48,,,nonNumeric,Christian Westerberg,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfMemberOfSupervisoryBoardDimension=8
+cmn:NameAndSurnameOfMemberOfSupervisoryBoard,ctx-52,,,nonNumeric,Janni Munkholm Nielsen,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfMemberOfSupervisoryBoardDimension=9
+sob:PlaceOfSignatureOfStatement,ctx-1,,,nonNumeric,Hedehusene,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+sob:DateOfApprovalOfAnnualReport,ctx-1,,,nonNumeric,4 February 2026,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+cmn:NameAndSurnameOfMemberOfExecutiveBoard,ctx-42,,,nonNumeric,Jes Munk Hansen,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfMemberOfExecutiveBoardDimension=1
+cmn:TitleOfMemberOfExecutiveBoard,ctx-42,,,nonNumeric,CEO,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfMemberOfExecutiveBoardDimension=1
+cmn:NameAndSurnameOfMemberOfExecutiveBoard,ctx-43,,,nonNumeric,Kim Junge Andersen,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfMemberOfExecutiveBoardDimension=2
+cmn:TitleOfMemberOfExecutiveBoard,ctx-43,,,nonNumeric,CFO,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfMemberOfExecutiveBoardDimension=2
+arr:AddresseeOfAuditorsReportOnAuditedFinancialStatements,ctx-1,,,nonNumeric,To the shareholders of ROCKWOOL A/S,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+arr:OpinionOnAuditedFinancialStatements,ctx-1,,,nonNumeric,Our opinion,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+arr:DescriptionOfQualificationsOfAuditedFinancialStatements,ctx-1,,,nonNumeric,Basis for opinion,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+arr:KeyAuditMattersAudit,ctx-1,,,nonNumeric,Key audit matters,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+arr:StatementOnManagementsReviewAuditorsReportOnAuditedFinancialStatements,ctx-1,,,nonNumeric,Statement on Management’s Review,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+arr:StatementOfExecutiveAndSupervisoryBoardsResponsibilityForFinancialStatements,ctx-1,,,nonNumeric,Management’s responsibilities for,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+arr:StatementOfAuditorsResponsibilityForAuditAndAuditPerformed,ctx-1,,,nonNumeric,Auditor’s responsibilities for the audit of the,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+arr:SignatureOfAuditorsPlace,ctx-1,,,nonNumeric,Hellerup,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+arr:SignatureOfAuditorsDate,ctx-1,,,nonNumeric,4 February 2026,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+cmn:NameOfAuditFirm,ctx-54,,,nonNumeric,PricewaterhouseCoopers,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfAuditorDimension=2
+cmn:NameOfAuditFirm,ctx-53,,,nonNumeric,PricewaterhouseCoopers,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfAuditorDimension=1
+cmn:IdentificationNumberCvrOfAuditFirm,ctx-53,,,nonNumeric,33,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfAuditorDimension=1
+cmn:IdentificationNumberCvrOfAuditFirm,ctx-54,,,nonNumeric,33,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfAuditorDimension=2
+cmn:NameAndSurnameOfAuditor,ctx-53,,,nonNumeric,Kim Tromholt,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfAuditorDimension=1
+cmn:DescriptionOfAuditor,ctx-53,,,nonNumeric,State Authorised Public Accountant,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfAuditorDimension=1
+cmn:IdentificationNumberOfAuditor,ctx-53,,,nonNumeric,mne33251,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfAuditorDimension=1
+cmn:NameAndSurnameOfAuditor,ctx-54,,,nonNumeric,Rune Kjeldsen,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfAuditorDimension=2
+cmn:DescriptionOfAuditor,ctx-54,,,nonNumeric,State Authorised Public Accountant,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfAuditorDimension=2
+cmn:IdentificationNumberOfAuditor,ctx-54,,,nonNumeric,mne34160,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfAuditorDimension=2
+arr:AuditorsReportOnXbrlTagging,ctx-1,,,nonNumeric,Report on compliance with the ESEF Regulation,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+arr:AuditorsReportOnSubstainabilityReport,ctx-1,,,nonNumeric,Independent Auditor’s limited assurance report on the Sustainability Statement,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+arr:AddresseeOfAuditorsReportOnSubstainabilityReports,ctx-1,,,nonNumeric,To the stakeholders of ROCKWOOL A/S,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+arr:IdentificationOfMattersOnWhichAssuranceReportIsProvidedAndDescriptionOfAssuranceEngagementSubstainabilityReport,ctx-1,,,nonNumeric,Limited assurance conclusion,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+arr:OpinionOnSubjectMatterOfAssuranceReportSubstainabilityReport,ctx-1,,,nonNumeric,Based on the procedures we have performed and the evidence,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+arr:StatementOfAuditorsResponsibilitySubstainabilityReport,ctx-1,,,nonNumeric,Auditor’s responsibilities for the assurance engagement,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+arr:SignatureOfSubstainabilityAuditorsPlace,ctx-1,,,nonNumeric,Hellerup,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+arr:SignatureOfSubstainabilityAuditorsDate,ctx-1,,,nonNumeric,4 February 2026,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+cmn:NameOfAuditFirmSubstainability,ctx-56,,,nonNumeric,PricewaterhouseCoopers,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfSubstainabilityAuditorDimension=2
+cmn:NameOfAuditFirmSubstainability,ctx-55,,,nonNumeric,PricewaterhouseCoopers,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfSubstainabilityAuditorDimension=1
+cmn:IdentificationNumberCvrOfAuditFirmSubstainability,ctx-55,,,nonNumeric,33,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfSubstainabilityAuditorDimension=1
+cmn:IdentificationNumberCvrOfAuditFirmSubstainability,ctx-56,,,nonNumeric,33,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfSubstainabilityAuditorDimension=2
+cmn:NameAndSurnameOfSubstainabilityAuditor,ctx-55,,,nonNumeric,Kim Tromholt,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfSubstainabilityAuditorDimension=1
+cmn:DescriptionOfSubstainabilityAuditor,ctx-55,,,nonNumeric,State Authorised Public Accountant,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfSubstainabilityAuditorDimension=1
+cmn:fIdentificationNumberOfSubstainabilityAuditor,ctx-55,,,nonNumeric,mne33251,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfSubstainabilityAuditorDimension=1
+cmn:NameAndSurnameOfSubstainabilityAuditor,ctx-56,,,nonNumeric,Rune Kjeldsen,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfSubstainabilityAuditorDimension=2
+cmn:DescriptionOfSubstainabilityAuditor,ctx-56,,,nonNumeric,State Authorised Public Accountant,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfSubstainabilityAuditorDimension=2
+cmn:fIdentificationNumberOfSubstainabilityAuditor,ctx-56,,,nonNumeric,mne34160,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember|cmn:IdentificationOfSubstainabilityAuditorDimension=2
+gsd:NameOfSubmittingEnterprise,ctx-1,,,nonNumeric,ROCKWOOL A/S,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+gsd:NameOfReportingEntity,ctx-1,,,nonNumeric,ROCKWOOL A/S,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+ifrs-full:NameOfUltimateParentOfGroup,ctx-3,,,nonNumeric,ROCKWOOL A/S,,,,,2025-01-01,2025-12-31,,
+ifrs-full:NameOfParentEntity,ctx-3,,,nonNumeric,ROCKWOOL A/S,,,,,2025-01-01,2025-12-31,,
+ifrs-full:NameOfReportingEntityOrOtherMeansOfIdentification,ctx-3,,,nonNumeric,ROCKWOOL A/S,,,,,2025-01-01,2025-12-31,,
+ifrs-full:LegalFormOfEntity,ctx-3,,,nonNumeric,A/S,,,,,2025-01-01,2025-12-31,,
+gsd:AddressOfSubmittingEnterpriseStreetAndNumber,ctx-1,,,nonNumeric,Hovedgaden 584,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+ifrs-full:AddressOfRegisteredOfficeOfEntity,ctx-3,,,nonNumeric,Hovedgaden 584,,,,,2025-01-01,2025-12-31,,
+gsd:AddressOfReportingEntityStreetName,ctx-1,,,nonNumeric,Hovedgaden,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+gsd:AddressOfReportingEntityStreetBuildingIdentifier,ctx-1,,,nonNumeric,584,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+gsd:AddressOfSubmittingEnterprisePostcodeAndTown,ctx-1,,,nonNumeric,2640 Hedehusene,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+gsd:AddressOfReportingEntityPostCodeIdentifier,ctx-1,,,nonNumeric,2640,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+gsd:AddressOfReportingEntityDistrictName,ctx-1,,,nonNumeric,Hedehusene,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+ifrs-full:CountryOfIncorporation,ctx-3,,,nonNumeric,Denmark,,,,,2025-01-01,2025-12-31,,
+gsd:AddressOfReportingEntityCountry,ctx-1,,,nonNumeric,Denmark,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+ifrs-full:DomicileOfEntity,ctx-3,,,nonNumeric,Denmark,,,,,2025-01-01,2025-12-31,,
+gsd:TelephoneNumberOfReportingEntity,ctx-1,,,nonNumeric,+45 4656 0300,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+gsd:IdentificationNumberCvrOfReportingEntity,ctx-1,,,nonNumeric,54,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+gsd:IdentificationNumberCvrOfSubmittingEnterprise,ctx-1,,,nonNumeric,54,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+gsd:HomepageOfReportingEntity,ctx-1,,,nonNumeric,www.rockwool.com,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+gsd:InformationOnTypeOfSubmittedReport,ctx-1,,,nonNumeric,Annual report,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+cmn:TypeOfAuditorAssistance,ctx-1,,,nonNumeric,Auditor's report on audited financial statements,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+gsd:ToolForPreparingTheXBRLInstanceDocument,ctx-1,,,nonNumeric,ParsePort XBRL Converter,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+gsd:ReportingPeriodStartDate,ctx-1,,,nonNumeric,2025-01-01,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+gsd:ReportingPeriodEndDate,ctx-1,,,nonNumeric,2025-12-31,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+gsd:PrecedingReportingPeriodStartDate,ctx-1,,,nonNumeric,2024-01-01,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+gsd:PredingReportingPeriodEndDate,ctx-1,,,nonNumeric,2024-12-31,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+gsd:LegalEntityIdentifierOfReportingEntity,ctx-1,,,nonNumeric,213800QRC7LNX935OZ09,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+fsa:ClassOfReportingEntity,ctx-1,,,nonNumeric,Reporting class D,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+arr:TypeOfModifiedOpinionOnAuditedFinancialStatements,ctx-1,,,nonNumeric,Opinion,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember
+arr:TypeOfBasisForModifiedOpinionOnAuditedFinancialStatements,ctx-1,,,nonNumeric,Basis for Opinion,,,,,2025-01-01,2025-12-31,,cmn:ConsolidatedSoloDimension=cmn:ConsolidatedMember

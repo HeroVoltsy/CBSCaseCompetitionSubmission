@@ -1,0 +1,592 @@
+
+...
+15: Investments (without: financial assets and IFRS 16)                              41.9          47.4              46.6               36.2            43.6             20.4
+16: Depreciation/amortisation (without: financial assets and IFRS 16)                46.9          42.0              41.7               40.8            41.6              2.0
+17: EBITDA                                                                          192.5         194.5             192.3              127.0           137.4              8.2
+18: EBIT                                                                            124.5         129.7             126.5               58.8            64.4              9.5
+19: EBT                                                                             127.9         128.3             127.4               60.9            65.3              7.2
+20: Return on sales (EBT) (%)                                                           8.0           7.2              7.4               3.8              4.1
+
+...
+25: per share (EUR)                                                                 17.34         14.83             26.60              14.09           14.71              4.4
+26: ROCE (%)*                                                                        18.9          17.3              17.1                7.8              8.7
+27: Total assets and liabilities                                                  1,084.7       1,097.7            1,164.8         1,158.3            1,163.4             0.4
+28: Equity                                                                          610.0         685.1             729.3              743.5           762.3              2.5
+29: in % of total assets                                                             56.2          62.4              62.6               64.2            65.5
+30: Employees (year end)                                                            5,697         5,735             5,783              5,599           5,482             − 2.1
+31: of which in Germany                                                             3,127         3,130             3,171              3,100           3,067             − 1.1
+32: of which outside of Germany                                                     2,570         2,605             2,612              2,499           2,415             − 3.4
+
+...
+51:               2021        2022          2023       2024       2025                                      2021      2022      2023           2024     2025
+52: 
+53:              Turnover in EUR million          Return on sales (EBT) in %                           Total assets in EUR million              Equity ratio in %
+54: 
+55: 
+56: 
+
+...
+84:   24		General statement on business development in                 179	Consolidated annual financial statements of the
+85:         2025 and comparison with the forecast                           Sto Group (IFRS)
+86:   25		Overall economic and sector-related general                  180		 Consolidated statement of profit or loss
+87:         conditions in 2025                                          181		 Consolidated statement of comprehensive income
+88:   26		 Income situation                                             182		 Group balance sheet
+89:   29		 Financial situation                                          184		 Consolidated statement of changes in equity
+90:   31		 Assets and liabilities situation                             186		 Consolidated statement of cash flows
+91:   33 C. Other performance indicators                                187		 Notes to the consolidated financial statements
+92:   33		 Employees
+93:   35		 Research and development (R&D)                               246 Independent Auditor’s Report
+
+...
+1506: 
+1507:                                                                                             129.7
+1508: The Sto Group's total revenues decreased by 1.1 % to
+1509: 
+1510: 
+1511: 
+
+...
+1572: in the sales area of the British Sto Ltd.. Higher costs for out-     Overall, the Sto Group reported an EBT of EUR 65.3 million in
+1573: bound freight and expenses due to changes in exchange rates          2025, which was 7.2 % above the previous year's value (previ-
+1574: had the opposite effect. Other operating income increased            ous year: EUR 60.9 million). The return on sales based on EBT
+1575: from EUR 21.8 million to EUR 25.7 million. In addition to one-off    improved from 3.8 % to 4.1 %.
+1576: effects, higher income from exchange rate fluctuations was no-
+1577: ticeable here. Expenses due to changes in exchange rates were        At 40.0 %, the 2025 tax rate was higher than the previous
+1578: around EUR 0.6 million higher than the corresponding income.         year's rate, mainly due to the non-recognition of deferred
+1579: EBITDA in the Sto Group improved from EUR 127.0 million to           income tax assets at loss-making companies (previous year:
+1580: EUR 137.4 million. After deducting the depreciation/amortisa-        38.2 %). A negative one-off effect resulted from the gradual
+1581: tion of intangible fixed assets, property, plant and equipment       reduction in the statutory corporate tax rate resolved in Ger-
+1582: and right-of-use assets, which increased from EUR 68.2 million       many in the summer of 2025 for the years from 2028 onwards,
+
+...
+1626: 
+1627: 
+1628:  90                                                                 in the contract, the net debt ratio (defined as the ratio of net
+1629:                                                                     debt to EBITDA), was fulfilled in the year under review and in
+1630:                        89.1
+1631: 
+1632: 
+
+...
+1764: in provisions resulted in an outflow of funds in the amount of          EUR 11.3 million).
+1765: EUR 5.9 million (previous year: inflow of EUR 12.7 million). The
+1766: cash flow margin in relation to sales revenue was 5.9 % (previ-         Investments
+1767: ous year: 5.6 %).                                                       In 2025, the Sto Group invested a total of EUR 43.6 million in
+1768:                                                                         property, plant, and equipment and intangible assets (previous
+1769: Cash flow from investment activities in 2025 stood at                   year: EUR 36.2 million) and thus remained slightly below the
+
+...
+1805:                                                                       other hand, increased to EUR 28.1 million (31 December 2024:
+1806: Assets and liabilities situation                                      EUR 15.3 million) as, among other things, the approved ad-
+1807: As at 31 December 2025, the Sto Group's total assets amounted         justments to income tax prepayments are sometimes delayed.
+1808: to EUR 1,163.4 million (31 December 2024: EUR 1,158.3 million).       Current other financial assets rose significantly. The reallocation
+1809:                                                                       from non-current other financial assets caused this item to
+1810:                                                                       rise from EUR 141.4 million to EUR 162.8 million. Cash and cash
+
+...
+1816:              assets
+1817:                                                                       EUR 762.3 million (31 December 2024: EUR 743.5 million) due to
+1818:                                                                       higher revenue reserves. The very solid equity ratio improved
+1819:                                                                       further from 64.2 % on the same day of the previous year to
+1820:                                                                       65.5 %.
+1821: 
+
+...
+2240: cannot be delivered due to defects was 0.11 % in the European                   tor, mainly due to higher maintenance and operating costs. In
+2241: Sto plants in 2025 and thus again at a low level. However, the                  comparison to the previous year, the Sto Group's cost of goods
+2242: target value of less than 0.09 % was not achieved on average.                   sold as a percentage of total revenues decreased slightly from
+2243: In order to further improve the quota, regular training and                     45.7 % to 45.4 %.
+2244: qualification measures are organised for the workforce.
+2245:                                                                                 Procurement management
+
+...
+3260: 			2.4.2.3. Minimum Safeguards                                                                                  110
+3261: 		2.4.3.     Key figures                                                                                        112
+3262:     2.4.3.1. Key figure: Sales revenue                                                                          112
+3263:              Key figures in accordance with the EU Taxonomy – Turnover                                          113
+3264:     2.4.3.2. Key figure: Capital Expenditure (CapEx)                                                            113
+3265:              Key figures in accordance with the EU Taxonomy – CapEx                                             115
+3266: 
+3267: 
+
+...
+5633:      ESRS E3-4 § 29                             SFDR:                                                                                       not material
+5634:      Total water consumption in m³ per net      Indicator number 6,1 Table #2 of Annex 1
+5635:      revenue on own operations
+5636:      ESRS 2- SBM3 – E4 sec 16(a) i.             SFDR:                                                                                       not material
+5637:                                                 Indicator number 7 Table #1 of Annex 1
+5638:      ESRS 2- SBM3 – E4 sec. 16(b)               SFDR:                                                                                       not material
+
+...
+5950:    tion plan. In addition, Operating Expenditure (OpEX) as                        industrial furnaces for manufacturing façade systems
+5951:    part of Taxonomy-aligned economic activity 3.5 is part                         and cladding, are the company’s most important as-
+5952:    of the transition plan. Sto has no Capital Expenditure                         sets. These installations are still in an early to medium
+5953:    and Operating Expenditure under CapEx plans in ac-                             residual utilisation period and can only be replaced or
+5954:    cordance with the EU Taxonomy.                                                 converted to alternative energy sources in the medium
+5955:                                                                                   to long term due to technical, investment, and licensing
+5956:    Taxonomy-aligned Capital Expenditure and Operating                             conditions – from 2030 at the earliest, realistically from
+5957:    Expenditure are allocated to the following climate                             2035. This means that there are locked-in emissions in
+5958:    protection measures according to Disclosure Require-                           Scope 1 + 2 that can only be reduced to a limited extent
+5959:    ment E1-3:                                                                     in the short and medium- to long-term, and will only
+
+...
+6416: 102
+6417: 
+6418:        production facilities had an energy management system              The Sto Group’s net sales revenue in the 2025 finan-
+6419:        in accordance with ISO 50001 and all production facil-             cial year totalled EUR 1,591 million (previous year:
+6420:        ities had an energy monitoring system. The project is              EUR 1,612 million, see Consolidated annual financial
+6421:        anchored in the strategic area of climate change mit-              statement of the Sto Group (IFRS), Notes, Note (1)
+6422:        igation and is in line with Sto’s business strategy. The           Revenue). The figures for energy intensity were derived
+6423:        reference value and the reference year for measuring               from the total energy consumption and the net sales
+6424:        progress were set as 100 % and 2025 respectively. The              revenues from activities in high climate impact sectors.
+6425:        methods and significant assumptions used to set the
+6426:        targets include national and European standards and                The Sto Group’s net turnover is attributable entirely to
+6427:        regulations (including the Energy Efficiency Act, the Eu-          the following high climate impact sectors:
+
+...
+6628:        accounted for using the equity method and are not
+6629:        included in Sto’s Scope 1 and Scope 2 emissions, as well
+6630:        as companies whose corporate bonds are held by Sto          GHG intensity on the basis of net revenue
+6631:        as at the balance sheet date. For the determination of
+6632:        greenhouse gas emissions, turnover-based emission           GHG intensity                                      2025     2024
+6633: 
+6634:        factors were assigned to the turnovers attributable to      Total GHG emissions (location-based) per net    0.000818 0.000949
+6635:                                                                    revenue (tCO₂e/EUR)
+6636:        Sto. The turnovers attributable to Sto are calculated for
+6637:                                                                    Total GHG emissions (market-based) per net      0.000813 0.000944
+6638:        associated companies using the shareholding and for         revenue (tCO₂e/EUR)
+6639:        corporate bonds using the ratio of the nominal value of
+6640:        the bond to the issuer’s equity and debt capital.
+6641: 
+6642:        Using this method, the value in 2024 would be                   The Sto Group’s net sales revenue in the 2025 finan-
+6643:        42,364 tonnes of CO₂e. In the previous year, the emis-          cial year totalled EUR 1,591 million (previous year:
+6644:        sion factors were multiplied by the nominal values of           EUR 1,612 million, see Consolidated annual financial
+6645:        the bonds.                                                      statement of the Sto Group (IFRS), Notes, Note (1) Reve-
+
+...
+6790:         For the environmental goals of climate change mitiga-                economic activity 3.5 ’Manufacture of energy efficiency
+6791:         tion and climate change adaptation, the EU delegated                 equipment for buildings’ listed in Annex 1. Therefore,
+6792:         acts (Delegated Regulation (EU) 2021/2139 and its sup-               all related sales revenue, capital expenditure and oper-
+6793:         plement Delegated Regulation (EU) 2023/2485 adopted                  ating expenditure were classified as Taxonomy-eligible.
+6794:         by the EU Commission in June 2023) contain descrip-                  All other economic activities listed in Annex 1 (Climate
+6795:         tions of relevant economic activities and technical                  change mitigation) and Annex 2 (Climate change ad-
+6796:         assessment criteria. In 2023, a further EU delegated act             aptation) are not relevant to Sto’s sales revenue. Sto is
+6797:         (Delegated Regulation (EU) 2023/2486) was published,                 not involved in any economic activity related to energy
+6798:         which contains relevant economic activities and techni-              generation from fossil gas or nuclear power. We there-
+6799:         cal assessment criteria for the remaining environmental              fore do not provide the specific reporting forms for
+
+...
+6983: 
+6984: 2.4.3. Key figures
+6985:        Companies have to report the proportion of Taxonomy-eligible and Taxonomy-aligned sales revenues, capital expenditure,
+6986:        and operating expenditure (numerator) in the respective total value (denominator).
+6987: 
+6988: 
+
+...
+7035: 
+7036: 
+7037: 2.4.3.1. Key figure: Sales revenue                                                                                            which are sometimes applied to external wall systems.
+7038:          The turnover key figure is calculated from the ratio                                                                 Turnover connected with internal wall systems must be
+7039:          of the sales revenues from Taxonomy-eligible and                                                                     included as well, once again supplemented by pro-rat-
+7040:          Taxonomy-aligned economic activities (numerator)                                                                     ed turnover connected with finishing renders, which,
+7041:          to the total sales revenues for the financial year (de-                                                              taken as a complete system, contribute to a building’s
+7042:          nominator). The denominator corresponds to the sales                                                                 energy efficiency in the same way as an external wall
+7043:          revenues given in the IFRS consolidated annual finan-                                                                system. In addition, the ’insulation board fixings’ and
+7044:          cial statement of the Sto Group and therefore relates                                                                ’adhesives/base coats’ product families from the indus-
+7045:          to the net turnover connected to goods or services                                                                   trial coatings product segment can be declared Taxono-
+7046:          including intangible assets according to IAS 1.82(a).                                                                my-eligible, since they are used in external wall systems
+7047:          The total sales revenues for the 2025 financial year                                                                 for industrial application. As outlined above, the pro-
+7048:          were EUR 1,591 million (see Annex, Note (1) Revenue).                                                                cesses to fulfil the conformity criteria have been carried
+7049:          All turnover related to Taxonomy-eligible and Taxon-                                                                 out, which is why Sto can report Taxonomy-aligned
+7050:          omy-aligned economic activities is relevant for the                                                                  turnover in the amount of EUR 796 million for the 2025
+7051:          numerator. To determine the numerator in relation to                                                                 financial year. This means that the Taxonomy-aligned
+7052:          Taxonomy-eligibility, an analysis has been conducted to                                                              share of turnover amounts to 50.0 %. As a result, the
+7053:          establish which of Sto’s turnovers declared in the state-                                                            proportion of Taxonomy-eligible sales revenue fell
+7054:          ment of profit or loss are related to Taxonomy-eligible                                                              slightly in comparison to the previous year (46.3 %).
+7055:          economic activities. A detailed analysis performed at
+7056:          product-family level enabled the turnover items to be                                                                The amounts included in the numerator only relate to
+
+...
+7060:          turnover related to economic activity 3.5. includes the                                                              report any amounts for Taxonomy-aligned activities
+7061:          turnover associated with external wall systems. This can                                                             for its own use under economic activity 3.5. The eco-
+7062:          be further broken down into turnover associated with                                                                 nomic activities associated with Sto’s sales revenue are
+7063:          external thermal insulation systems, rainscreen clad-                                                                unchanged compared to last year. The increase in the
+7064:          ding facade systems, and facade claddings, which are                                                                 turnover key figure is mainly the result of a more de-
+7065:          installed on external wall systems. Added to that is the                                                             tailed analysis of the product segments.
+
+...
+7128: 
+7129: 
+7130: 2.4.3.2. Key figure: Capital Expenditure (CapEx)                                                              delegated acts adopted in accordance with Articles
+7131:          For the CapEx key figure, the denominator covers capi-                                               10(3), 11(3), 12(2), 13(2), 14(2), and 15(2) of Regulation
+7132:          tal expenditure in the context of additions to Property,                                             (EU) 2020/852, provided that those measures are imple-
+7133:          plant, and equipment, and Intangible assets, as well as                                              mented and operational within 18 months.
+
+...
+7136:          under review and without amendments to the fair                                                      relevant project descriptions, to determine how far they
+7137:          value. These amounted to EUR 82.4 million in the 2025                                                can be assigned to one of these three categories. The
+7138:          financial year (see Annex, Note (13) Intangible assets,                                              capital expenditure that can be assigned completely
+7139:          (14) Property, plant, and equipment, (15) Right-of-use                                               to economic activity 3.5. (EUR 1.0 million) is relevant in
+7140:          assets). The CapEx key figure must be calculated in re-                                              category a). No relevant capital expenditure was identi-
+7141:          lation to both Taxonomy-eligible and Taxonomy-aligned                                                fied in category b), since no CapEx plan was formulated
+7142:          economic activities. According to point 1.1.2.2 of Annex                                             in 2025 in the context of the Taxonomy. In view of the
+7143:          I to the Delegated Regulation (EU) 2021/2178, the                                                    fact that no CapEx plan has been drawn up, no mate-
+7144:          numerator equals to the part of the capital expenditure                                              rial information is provided. Sto has not identified any
+7145:          that is any of the following:                                                                        economic activities for its capital expenditure that con-
+7146:                                                                                                               tribute to several environmental goals. The following
+7147:     a)	related to assets or processes that are associated with                                               explanations show that Sto was able to clearly allocate
+7148:         Taxonomy-aligned (or Taxonomy-eligible) economic                                                      its capital expenditure to economic activities in accord-
+7149:         activities, or                                                                                        ance with the process described, each of which can be
+7150:     b)	part of a plan to expand Taxonomy-aligned economic                                                    clearly assigned to an environmental goal.
+7151:       activities or to allow Taxonomy-eligible economic activi-
+
+...
+7196:        to these economic activities were not also recorded
+7197:        in the determination of the investments related to the
+7198:        Taxonomy-eligible sales revenues. Taxonomy-eligible
+7199:        CapEx (EUR 55.2 million) is primarily made up of cap-
+7200:        italised rights of use from assets according to IFRS 16
+7201:        (EUR 38.0 million) as well as Intangible assets and
+7202:        Property, plant, and equipment (EUR 17.2 million). The
+7203:        total amount of Taxonomy-eligible but Taxonomy non-
+7204:        aligned capital expenditure totalled EUR 54.2 million,
+7205:        resulting in a Taxonomy-eligible but Taxonomy non-
+7206:        aligned CapEx proportion of 65.8 %. The proportion of
+7207:        Taxonomy-eligible but Taxonomy non-aligned capital
+
+...
+7211:        amounts included in the numerator can be found in the
+7212:        reporting table for the CapEx key figure. The economic
+7213:        activities associated with Sto’s capital expenditure are
+7214:        unchanged in comparison to the previous year. The
+7215:        increase in the CapEx key figure is mainly due to the
+7216:        increased share of capital expenditure in connection
+7217:        with economic activity 7.7. 'Acquisition and ownership
+7218:        of buildings' in 2025.
+7219: 
+7220:        For the 2025 financial year, the capital expenditure
+7221:        associated with economic activities 3.5, 7.4, and 7.6
+7222:        could be recognised as Taxonomy-aligned CapEx. The
+7223:        total amount of Taxonomy-aligned capital expenditure
+7224:        totalled EUR 1.1 million, resulting in a Taxonomy-aligned
+7225:        CapEx proportion of 1.3 %. As a result, the proportion
+7226:        of Taxonomy-aligned capital expenditure has also fallen
+7227:        slightly in comparison to the previous year (3.1 %).
+7228: 
+7229: 114
+
+...
+7392:         operating expenses were not also recorded in the
+7393:         determination of the operating expenditure related to
+7394:         the Taxonomy-eligible sales revenues. The following
+7395:         explanations show that Sto was able to clearly allocate
+7396:         its Operating Expenditure to economic activities in
+7397: 
+
+...
+9763:       The way in which problems that have been raised                   amounts to around EUR 1.0 million per year. This is part
+9764:       and addressed are tracked and monitored, and how                  of other operating expenses and personnel expenses in
+9765:       the effectiveness of the reporting system is assured, is          the consolidated statement of profit or loss of the Sto
+9766:       discussed in detail in Chapter 7 (ESRS G1). Among other           Group. In future, this action is to receive a comparable
+9767:       things, it also describes how the concerns raised and             amount of funding.
+9768:       addressed are pursued and monitored.
+
+...
+11202: Consolidated annual financial statements of the Sto Group (IFRS)
+11203: 
+11204: · Consolidated statement of profit or loss
+11205: · Consolidated statement of comprehensive income
+11206: · Group balance sheet
+11207: · Consolidated statement of changes in equity
+11208: · Consolidated statement of cash flows
+11209: · Notes to the consolidated financial statements
+11210: 
+11211: 
+
+...
+11221: 
+11222: Sto SE & Co. KGaA, Stühlingen/Germany
+11223: Consolidated statement of profit or loss for 2025
+11224: 
+11225: in EUR K                                                                                                     Notes     2025         2024
+11226: 
+11227: 1. Revenue                                                                                                    (1)    1,591,112     1,612,311
+11228: 2. Changes in product inventories                                                                                       − 1,136       − 3,025
+11229: 3. Other internally generated assets capitalised                                                              (2)        1,019           259
+11230: Total revenues                                                                                                       1,590,995     1,609,545
+11231: 
+11232: 4. Other operating income                                                                                     (3)       25,705        21,817
+11233: 5. Cost of material                                                                                           (4)     -722,360      − 735,979
+11234: 6. Personnel expenses                                                                                         (5)     − 430,334     − 435,236
+11235: 7. Other operating expenses                                                                                   (6)     − 321,368     − 330,049
+11236: 8. Impairment (net) of financial assets                                                                       (7)       − 5,266       − 3,125
+11237: EBITDA (earnings before taxes, net financial income/expense, depreciation and amortisation)                   (8)     137,372       126,973
+11238: 
+11239: 9. Depreciation/amortisation of Intangible assets, Property, plant, and equipment as well as Rights of use    (8)      − 72,949      − 68,162
+11240: EBIT                                                                                                                   64,423        58,811
+
+...
+11331: Total current assets                                                               629,904        605,769
+11332: 
+11333: Total assets                                                                      1,163,364     1,158,317
+11334: 
+11335: 
+11336: 
+
+...
+11345: I.     Subscribed capital                                     (22)         17,556        17,556
+11346: II.    Capital reserves                                       (22)         57,804        57,804
+11347: III.   Revenue reserves and other reserves                    (22)        686,942       668,148
+11348: Share attributable to the shareholders of Sto SE & Co. KGaA              762,302        743,508
+11349: IV.    Share of minority interests                            (23)            20             20
+11350: 
+
+...
+11391: 31 December 2025
+11392: in EUR K                                                            Equity attributable to the shares of the parent company
+11393:                                                                     Subscribed capital    Capital reserves       Revenue reserves       Currency translation
+11394:                                                                                                                                               reserve
+11395: 
+11396: 
+
+...
+11454: 
+11455: Sto SE & Co. KGaA, Stühlingen/Germany
+11456: Consolidated statement of cash flows for 2025
+11457: 
+11458:  in EUR K                                                                                                             Notes      2025        2024
+11459: 
+
+...
+11583: IAS 7, IFRS 1, IFRS 7, to IFRS – volume 11                                  hensive requirements for the presentation and structure of key
+11584: IFRS 9, and IFRS 10                                                         components of the consolidated annual financial statement,
+11585: Amendments to       Contracts relating to   1 January 2026 Insignificant    including the consolidated statement of profit or loss, the con-
+11586: IFRS 9 and IFRS 7   electricity from renew-
+11587:                     able energy                                             solidated balance sheet and the consolidated statement of cash
+11588: IFRS 18             Presentation and         1 January 2027 Significant     flows. In addition, company-specific key performance indicators
+
+...
+11706: The fair values of identifiable assets and liabilities at the time    In December 2024, the subsidiary Sto Ltd., Paisley/ Great Britain
+11707: of acquisition were as follows:                                       was deconsolidated due to technical insolvency with an effect
+11708:                                                                       on income of EUR 260 K recognised in other operating income.
+11709: 
+11710: 
+11711: 
+
+...
+12134: Other provisions
+12135: In accordance with IAS 37, provisions are formed for present          Recognition of income and expenses
+12136: liabilities towards third parties from a past event which is likely   Revenues from contracts with customers are recognised when
+12137: to result in a future outflow of economic resources, the amount       control of the goods or services is transferred to the customer.
+12138: of which can be estimated.
+12139:                                                                       In the manufacture of products and systems for thermal insula-
+12140: If the interest effect has a significant impact in connection with    tion and building coatings, revenues from contracts with cus-
+12141: the settlement of the obligation, the provisions are recognised       tomers mainly result from deliveries of goods, which are gener-
+12142: at the present value of the expected expenses, which also             ally recognised at the time of delivery. Payment is usually made
+12143: includes expected cost increases. The discounting is based on         30 to 90 days after delivery. In addition, services are provided
+12144: risk-free interest rates.                                             on a small scale for which the sales revenues are recorded in
+12145:                                                                       the time period in which the services are rendered.
+12146: If the conditions for setting up a provision are not met but the
+12147: likelihood of an outflow of resources embodying an economic           Some contracts are designed in such a way that both an origi-
+
+...
+12149: under contingent liabilities.                                         provided. These are service obligations to be accounted for as
+12150:                                                                       a whole, as the delivery and processing of the materials are
+12151: Trade payables and other financial liabilities                        related in accordance with the underlying agreement. Revenue
+12152: Trade payables and other financial liabilities are measured at        is recognised when the service has been rendered in full.
+12153: amortised cost of acquisition. Any differences between histori-
+12154: cal acquisition costs and the settlement amount are reported in       For an insignificant number of projects, income and expenses
+
+...
+12156:                                                                       recognised using both the input method in terms of the costs
+12157: Deferred taxes                                                        incurred up to the balance sheet date in relation to the total
+12158: As a matter of principle, deferred taxes are recognised for all       costs incurred and the output method in terms of the revenue
+12159: temporary differences between the tax balance sheet and the           incurred up to the balance sheet date in relation to the total
+12160: consolidated balance sheet.                                           revenue. As the income and expenses recognised over the term
+12161: 
+12162: 196
+12163: 
+12164: are not material overall, no further explanations have been            Operating expenses are reported upon utilisation of the service
+12165: provided in this regard, particularly with regard to revenue and       or on the date on which they are caused.
+12166: its development.
+12167:                                                                        Research and development costs
+12168: The Group was responsible for providing the statutory warranty         The main tasks of the research and development department
+
+...
+12171: Group granted warranties that extended beyond the statutory            with an impact on profit or loss since capitalisation of the
+12172: period. These were separate performance obligations of the             development costs in the form of Intangible assets was not
+12173: Group for which the sales revenues were deferred as contract           possible in accordance with IAS 38 as the recognition crite-
+12174: liabilities on a case-to-case basis and were recognised with an        ria were not met. In the case of the development projects in
+12175: impact on profit or loss over the contract term.                       question, it is only clear at a late stage whether the conditions
+12176:                                                                        for recognition are met, so that the expenses incurred prior to
+12177: The amount of revenue recognised corresponds to the consid-            this are not eligible for capitalisation and, on the other hand,
+12178: eration expected to be received by the Group in exchange for           the expenses incurred from this point on are relatively low.
+12179: the goods or services. If a contractual consideration includes a       In the year under review, research and development costs of
+12180: variable component, the Group determines the amount of the             EUR 15.7 million (previous year: EUR 15.3 million) were recog-
+
+...
+12183: inception of the contract and may be included in the transac-          Funding from the public sector
+12184: tion price only if it is probable that there will be no significant    Funding from the public sector is recognised in accordance with
+12185: change in the revenues or, respectively, if the uncertainty asso-      IAS 20 if there is certainty that the conditions for the funding
+12186: ciated with the variable consideration is low.                         will be met in the form of conditions and that the funding will
+12187:                                                                        be granted.
+12188: In determining transaction prices, expected rebates and dis-
+
+...
+12190: of the separate sale of goods or services and in the case of the       the period in which the expenses to be defrayed are incurred.
+12191: combined sale, according to the principle of individual valua-         The conditions to be fulfilled will be reviewed when the grant
+12192: tion, without revenue being recognised for them.                       is called in in order to prevent repayments later on.
+12193: 
+12194: In principle, payments to be received from customers are short-        Income Taxes
+12195: term, i.e. at the inception of the contract it is expected that the    Income taxes include both current and deferred income taxes.
+
+...
+12204: ed original term of one year or less.                                  which provide significant information on the Group’s situation
+12205:                                                                        as at the balance sheet date are included in the Statement of
+12206: Revenue other than from contracts with customers is recog-             financial situation. Events occurring after the balance sheet date
+12207: nised if it is probable that economic benefits will flow and if        that impact value are disclosed in the Notes.
+12208: the revenue amount can be determined reliably, irrespective of
+12209: the time of payment. Revenue is measured at the fair value of          Discretionary decisions by Management
+12210: the consideration received or to be received, taking into ac-          The preparation of the consolidated financial statements re-
+12211: count contractually agreed payment terms, excluding taxes or           quired discretionary decisions by Management, which affected
+12212: other levies.                                                          the recognition and valuation of the reported assets, and liabili-
+
+...
+12276:                                                                          any significant risks that would have required significant
+12277: • Impairment of non-financial assets                                    adjustments of the assets and liabilities recognised in the
+12278:    If the carrying amount exceeds the value in use, the value in         consolidated statement of financial position in the following
+12279:    use is compared with the fair value as a further impairment           financial year.
+12280:    test. The calculation of fair value less cost of sale is based on
+12281:    data from binding sales transactions between independent            • Climate risks and climate-related estimation
+
+...
+12305: 
+12306: in EUR K                                                            2025            2024            2025              2024
+12307: External revenues                                                    1,223,049          1,243,392     165,351             159,885
+12308: Inter-segment revenues                                                 49,037              51,686          2,231               2,783
+12309: Segment turnover                                                    1,272,086           1,295,078     167,582            162,668
+12310: Cost of materials                                                     586,193             604,596      88,338                 84,677
+12311: Personnel expenses                                                    347,672             351,009      34,765                 34,036
+12312: EBITDA                                                                107,553              97,149      19,227                 15,086
+12313: Depreciation/amortisation                                              50,750              51,891          8,228               8,135
+12314: EBIT                                                                   56,803             45,258       10,999                 6,951
+12315: Interest income                                                        10,817              13,796           937                1,331
+
+...
+12355: 
+12356: 
+12357: Notes on the consolidated statement of profit or loss
+12358: 
+12359: 
+12360: 
+12361: (1) Revenue                                                               (4) Cost of material
+12362: 
+12363: For the purposes of segment reporting, revenues are broken                in EUR K                                            2025      2024
+12364: 
+12365: down by geographic sales markets. The Group's sales revenues              Raw materials, processing aids, and                 339,803   348,402
+12366:                                                                           operating materials
+12367: by product group are as follows:
+12368:                                                                           Goods purchased                                     370,848   379,421
+
+...
+12376:                                                                           Total expenses for services purchased                11,709     8,156
+12377: Miscellaneous product groups                       233,045     233,133
+12378: Total revenues                                   1,591,112   1,612,311    Total expenses for materials                        722,360   735,979
+12379: 
+12380: 
+12381: (2) Other internally generated assets capitalised                         (5) Personnel expenses
+
+...
+12386: and machinery and buildings.                                              Social security contributions                        51,791    49,517
+12387:                                                                           Expenses for retirement benefits, and other
+12388: (3) Other operating income                                                employee benefit costs                               29,667    29,690
+12389:                                                                           Total personnel expenses                            430,334   435,236
+12390: in EUR K                                           2025       2024
+12391: 
+
+...
+12399: parties                                               615           805
+12400: Funding from the public sector                       2,653          293   Employees                                             5,317     5,510
+12401: Miscellaneous operating income                       6,735       9,103    Trainees                                                228       234
+12402: Total other operating income                       25,705      21,817     Total no. of employees                                5,545     5,744
+12403: 
+12404: 
+12405: 
+
+...
+12455:                                                                      Actual taxes on income and earnings              26,018     26,586
+12456: This item includes depreciation and amortisation as well as          Deferred tax income/expense in Germany             –841      –1,197
+12457: impairments on non-financial assets. Accordingly, EBITDA is cal-     Deferred tax income/expense outside of Germany      975      –2,138
+12458: culated before net interest income, depreciation/amortisation,       Deferred tax income/expense                         134     –3,335
+12459: and impairment on non-financial assets.
+12460:                                                                      Income tax expense reported                      26,152     23,251
+
+...
+13192: statement of changes in equity.                                    Capital reserves essentially comprise additions from premiums.
+13193: 
+13194: Subscribed capital                                                 Revenue reserves and other reserves
+13195: As at 31 December 2025, the share capital of Sto SE & Co. KGaA     Revenue reserves and other reserves comprise the following
+13196: amounted to EUR 17,556 K. It was divided into 4,320,000 regis-     items:
+13197: tered limited ordinary shares and 2,538,000 limited preference
+13198: shares with no voting rights with a notional nominal value         • Reserves for accrued profits:
+
+...
+13240: In accordance with Sections 278, 58 (4) of the German Stock                                                   shareholders of Sto SE & Co. KGaA rose by 2.5% as compared to
+13241: Corporation Act (Aktiengesetz, AktG), Sto SE & Co. KGaA's div-                                                the previous year. This was essentially the result of the increase
+13242: idend payout is based on the unappropriated surplus recorded                                                  in revenue reserves and other reserves.
+13243: in the financial statements of Sto SE & Co. KGaA prepared in
+13244: accordance with German commercial law. Net income totalled                                                    As in the previous year, no net debt has been incurred in the
+13245: EUR 59,398 K (previous year: EUR 46,144 K).                                                                   2025 financial year.
+13246: 
+13247: The personally liable partner of Sto SE & Co. KGaA, STO Man-                                                  Due to the credit line agreed with a banking consortium, the
+
+...
+13255: year: EUR 3.31), per limited preference share and thus a total                                                been utilised, meaning that the term is currently agreed until
+13256: dividend payout of EUR 21,037 K (previous year: EUR 21,037 K).                                                April 2029. The financial covenant to be complied with is the
+13257:                                                                                                               net debt ratio, defined as the ratio of net debt to EBITDA. The
+13258: A proposal is also made to retain EUR 38,000 K (previous year:                                                net debt ratio may not exceed a value of 3.0. In the event of
+13259: EUR 25,000 K) as revenue reserves and to carry the remaining                                                  an acquisition and the corresponding written notification from
+13260: amount of EUR 361 K (previous year: EUR 107 K) forward to a                                                   Sto SE & Co. KGaA, the net debt ratio may not exceed a value
+13261: new account.                                                                                                  of 3.5 once for a maximum period of four reference dates
+13262:                                                                                                               following the completion of the acquisition in question. The
+13263: Notes on equity management                                                                                    agreed financial covenant was fulfilled in the year under review
+
+...
+13907: Internal reporting was carried out in accordance with IFRS.            EUR 17,241 K (previous year: EUR 20,820 K) are listed in the 'Rec-
+13908:                                                                        onciliation/consolidation booking entries' column under 'Seg-
+13909: The segment results were reported in the levels EBITDA, EBIT,          ment assets'. No material adjustments were made to earnings.
+13910: and EBT. The elimination of inter-segment earnings and the in-
+13911: come from investments of the company accounted for using the           Owing to the broad customer structure, there is no customer
+13912: equity method in the amount of EUR 81 K were recorded in EBT.          with whom 10% or more of sales revenues are generated.
+13913: 
+13914: In the previous year, the elimination of inter-segment earnings,       The breakdown of sales revenues is made according to the
+13915: the income from investments of the company using the equity            customer’s head office.
+13916: method of EUR 92 K and the deconsolidation result of Sto Ltd.,
+13917: Paisley/ Great Britain of EUR 260 K were recognised in EBT.
+
+...
+13920: in EUR K                                                                Germany            France        Miscellaneous    Total in 2024
+13921: 
+13922: External revenues                                                            653,535           194,202          764,574        1,612,311
+13923: Intangible assets, Property, plant and, equipment, and Rights of use         245,201            36,415          171,288          452,904
+13924: 
+13925: 
+
+...
+13927: in EUR K                                                                Germany            France        Miscellaneous    Total in 2025
+13928: 
+13929: External revenues                                                            645,861           200,794          744,457        1,591,112
+13930: Intangible assets, Property, plant and, equipment, and Rights of use         249,884            38,151          167,856          455,891
+13931: 
+13932: 
+
+...
+14862: We have audited the consolidated financial statements of           sprüfer [Institute of Public Auditors in Germany] (IDW). Our
+14863: Sto SE & Co. KGaA, Stühlingen, and its subsidiaries (the Group),   responsibilities under those requirements and principles are
+14864: which comprise the consolidated statement of financial position    further described in the “Auditor’s Responsibilities for the
+14865: as at 31 December 2025, and the consolidated statement of          Audit of the Consolidated Financial Statements and of the
+14866: comprehensive income, consolidated statement of profit or loss,    Group Management Report” section of our auditor’s report.
+14867: consolidated statement of changes in equity and consolidated       We are independent of the group entities in accordance with
+14868: statement of cash flows for the financial year from 1 January      the requirements of European law and German commercial
+14869: to 31 December 2025, and notes to the consolidated financial       and professional law, and we have fulfilled our other German

@@ -1,0 +1,30 @@
+ANVEND,Effect_Group
+"Factories, workshops, etc.",Commercial_Industrial
+"Hotel, restaurant, hair dresser and other services",Commercial_Industrial
+"Office, trade, inventory, incl. public administration",Commercial_Industrial
+Other building used for production,Commercial_Industrial
+Unspecified transport and trade,Commercial_Industrial
+Allotment garden house,Other
+Carports,Other
+Garage with room for one or two vehicles,Other
+"Non-distributed, unknown",Other
+Non-residential farm buildings,Other
+Outhouses,Other
+"Power stations,  gaswork, etc.",Other
+Transportation or garage,Other
+Unspecified holiday purposes,Other
+Unspecified recreational purposes,Other
+"Building for education and research (schools, laboratory etc.)",Public_Institutional
+"Building for hospital, home, maternity home etc.",Public_Institutional
+Day-care institution,Public_Institutional
+"Library, church, museum etc.",Public_Institutional
+Non-specified welfare institutions,Public_Institutional
+"Sports centres, club houses",Public_Institutional
+Student hostels,Public_Institutional
+Detached houses,Residential
+Farm houses,Residential
+Multi-dwelling houses,Residential
+Other residential building,Residential
+Residential buildings for communities,Residential
+"Terraced, linked or semi-detached houses",Residential
+Weekend cottages,Residential

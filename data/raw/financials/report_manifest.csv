@@ -1,0 +1,6 @@
+company,year,file,url,currency,status,size_bytes
+ROCKWOOL,2025,rockwool_2025.zip,https://www.rockwool.com/siteassets/investors/financial-reports/2025/rock-2025-12-31-en.zip?f=20260813122012,EUR,downloaded,30019057
+Kingspan,2025,kingspan_2025.pdf,https://annual-report.kingspan.com/wp-content/uploads/2026/03/KS_AR25_Web.pdf,EUR,downloaded,11358679
+Saint-Gobain,2025,saint_gobain_2025.pdf,https://www.saint-gobain.com/sites/saint-gobain.com/files/media/document/Saint-Gobain_2025_DEU_VA.pdf,EUR,failed: HTTP Error 403: Forbidden,0
+Owens Corning,2025,owens_corning_2025.html,https://www.sec.gov/Archives/edgar/data/1370946/000137094626000067/oc-20251231.htm,USD,downloaded,3319374
+Sto,2025,sto_2025.pdf,https://www.sto.com/media/documents/company_documents/Geschaeftsbericht_Sto_-2025_interaktiv_en.pdf,EUR,downloaded,6945574
